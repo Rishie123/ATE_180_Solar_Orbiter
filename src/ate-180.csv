@@ -1499,7 +1499,7 @@ Radial Distance from Sun(AU),145,-0.5768355743805855,OBS_N
 Electronic Box Temperature(DegC),145,0.105942000246192,OBS_N
 Solar Wind Analyser temperature(DegC),145,0.0,OBS_N
 Out Board Sensor Temperature(Deg C),145,-1.6490934261528598,OBS_N
-In Board Sensor Temperature(Deg C),145,1.9685552667486197,OBS_N
+In Board Sensor Temperature(Deg C),145,1.96855526674862,OBS_N
 Out Board Sensor minus In Board Sensor Temp.(DegC),145,0.0,OBS_N
 Heater Dutycycle,145,-0.0135378120083751,OBS_N
 Search Coil Magnetometer's Temperature(Deg C),145,0.6071073904567146,OBS_N
@@ -2373,5 +2373,5 @@ Out Board Sensor minus In Board Sensor Temp.(DegC),180,0.0,OBS_T
 Heater Dutycycle,180,-0.0303094744162789,OBS_T
 Search Coil Magnetometer's Temperature(Deg C),180,0.0896577344993446,OBS_T
 Solar Array's Angle(Deg),180,0.0,OBS_T
-High Gain Antenna Azimuth(Deg),180,0.0,OBS_T
+High Gain Antenna Azimuth(Deg),18       0,0.0,OBS_T
 High Gain Antenna elevation(Deg),180,0.0,OBS_T
