@@ -27,7 +27,7 @@ def create_figure(data, title):
     fig.update_layout(
         title={'text': title, 'font': {'size': 22}},
         xaxis_title={'text': 'Time of Heater Profile (seconds)', 'font': {'size': 18}},
-        yaxis_title={'text': 'Normalized ATE', 'font': {'size': 18}},
+        yaxis_title={'text': 'Normalized Importance', 'font': {'size': 18}},
         legend={'font': {'size': 15}},
         xaxis={'tickfont': {'size': 14}},
         yaxis={'tickfont': {'size': 14}}
@@ -52,7 +52,7 @@ def get_custom_title(type_label):
     return f'{label_type} along {direction}'
 
 # Create figures with custom titles
-figures = [create_figure(prepare_data(df, type_label), f'ATE for : {get_custom_title(type_label)}') for type_label in types]
+figures = [create_figure(prepare_data(df, type_label), f'Normalized Feature Importance of Heater Profiles for : {get_custom_title(type_label)}') for type_label in types]
 
 # Define the layout of the app to include a graph for each type
 app.layout = html.Div([dcc.Graph(figure=fig) for fig in figures])
