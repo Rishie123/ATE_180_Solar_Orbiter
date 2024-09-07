@@ -1,865 +1,1441 @@
-Feature,Duration,ATE,Type
-2.5V_PCU_ELB,10,0.1847859202202824,IBS_N
-Radial Distance from Sun,10,0.0406534196167405,IBS_N
-Electronic Box Temperature,10,0.4994637854824195,IBS_N
-Outboard Sensor Temperature,10,1.2995007319350576,IBS_N
-Inboard Sensor Temperature,10,0.5073998415693244,IBS_N
-Search Coil Magnetometer's Temperature,10,-0.7114569614813285,IBS_N
-High Gain Antenna Azimuth,10,7.624127808449407,IBS_N
-Heater Dutycycle,10,-0.1495178988932403,IBS_N
-2.5V_PCU_ELB,20,0.2457493883121678,IBS_N
-Radial Distance from Sun,20,-0.0065833900329027,IBS_N
-Electronic Box Temperature,20,0.4327125370833612,IBS_N
-Outboard Sensor Temperature,20,0.0704009881687523,IBS_N
-Inboard Sensor Temperature,20,-0.7617313398277439,IBS_N
-Search Coil Magnetometer's Temperature,20,0.0140441483962795,IBS_N
-High Gain Antenna Azimuth,20,-1.1534166937283614,IBS_N
-Heater Dutycycle,20,0.006730433549842,IBS_N
-2.5V_PCU_ELB,30,0.2187093348563266,IBS_N
-Radial Distance from Sun,30,-0.0038363947890085,IBS_N
-Electronic Box Temperature,30,-0.2266059084209427,IBS_N
-Outboard Sensor Temperature,30,0.1267363166704624,IBS_N
-Inboard Sensor Temperature,30,-0.5913526532422383,IBS_N
-Search Coil Magnetometer's Temperature,30,-0.8007851580431101,IBS_N
-High Gain Antenna Azimuth,30,-4.761119008886006,IBS_N
-Heater Dutycycle,30,-0.0564782573267499,IBS_N
-2.5V_PCU_ELB,40,0.5569693376782441,IBS_N
-Radial Distance from Sun,40,0.0685993137302719,IBS_N
-Electronic Box Temperature,40,-0.0227150116846666,IBS_N
-Outboard Sensor Temperature,40,-0.1333091166053927,IBS_N
-Inboard Sensor Temperature,40,-3.0467692554709607,IBS_N
-Search Coil Magnetometer's Temperature,40,-1.2782366778354537,IBS_N
-High Gain Antenna Azimuth,40,0.4298389729942548,IBS_N
-Heater Dutycycle,40,0.1014454559578862,IBS_N
-2.5V_PCU_ELB,50,-0.6605928278684242,IBS_N
-Radial Distance from Sun,50,0.1701651202542218,IBS_N
-Electronic Box Temperature,50,0.8811935139751922,IBS_N
-Outboard Sensor Temperature,50,-0.2402075503123361,IBS_N
-Inboard Sensor Temperature,50,-1.525664143637771,IBS_N
-Search Coil Magnetometer's Temperature,50,-1.5523674471058329,IBS_N
-High Gain Antenna Azimuth,50,5.813241675486127,IBS_N
-Heater Dutycycle,50,-0.1767256073525387,IBS_N
-2.5V_PCU_ELB,60,0.272598742350181,IBS_N
-Radial Distance from Sun,60,0.2429288597512365,IBS_N
-Electronic Box Temperature,60,0.5767069055168683,IBS_N
-Outboard Sensor Temperature,60,-0.7520239168723317,IBS_N
-Inboard Sensor Temperature,60,-0.8440598101547225,IBS_N
-Search Coil Magnetometer's Temperature,60,-0.8907089163117103,IBS_N
-High Gain Antenna Azimuth,60,-2.290842458704468,IBS_N
-Heater Dutycycle,60,0.2110721514033989,IBS_N
-2.5V_PCU_ELB,70,-1.4757887550668851,IBS_N
-Radial Distance from Sun,70,0.1489960102992804,IBS_N
-Electronic Box Temperature,70,1.2547107374703534,IBS_N
-Outboard Sensor Temperature,70,-1.456718094367623,IBS_N
-Inboard Sensor Temperature,70,-0.094530170230117,IBS_N
-Search Coil Magnetometer's Temperature,70,-0.8320564724161224,IBS_N
-High Gain Antenna Azimuth,70,-8.254473826065986,IBS_N
-Heater Dutycycle,70,0.2823940807736145,IBS_N
-2.5V_PCU_ELB,80,-0.9999030590137692,IBS_N
-Radial Distance from Sun,80,0.0949512276215294,IBS_N
-Electronic Box Temperature,80,0.67717567906337,IBS_N
-Outboard Sensor Temperature,80,0.3254152288122084,IBS_N
-Inboard Sensor Temperature,80,0.5162865698564538,IBS_N
-Search Coil Magnetometer's Temperature,80,-0.3206394275889807,IBS_N
-High Gain Antenna Azimuth,80,-3.7759691972188656,IBS_N
-Heater Dutycycle,80,0.2205004861684627,IBS_N
-2.5V_PCU_ELB,90,-0.4581092447478783,IBS_N
-Radial Distance from Sun,90,0.0514368917169726,IBS_N
-Electronic Box Temperature,90,0.6611916304915807,IBS_N
-Outboard Sensor Temperature,90,-0.5122186704727986,IBS_N
-Inboard Sensor Temperature,90,0.7523360273990934,IBS_N
-Search Coil Magnetometer's Temperature,90,1.0736445500206218,IBS_N
-High Gain Antenna Azimuth,90,-13.922600567770514,IBS_N
-Heater Dutycycle,90,-0.0963424627143325,IBS_N
-2.5V_PCU_ELB,100,0.3466405258283123,IBS_N
-Radial Distance from Sun,100,-0.0158376946138471,IBS_N
-Electronic Box Temperature,100,-0.0177335921201454,IBS_N
-Outboard Sensor Temperature,100,0.7036773209310274,IBS_N
-Inboard Sensor Temperature,100,-0.8241373423927273,IBS_N
-Search Coil Magnetometer's Temperature,100,0.0939432952277384,IBS_N
-High Gain Antenna Azimuth,100,-21.284791382589063,IBS_N
-Heater Dutycycle,100,0.3534546339157903,IBS_N
-2.5V_PCU_ELB,110,-0.4161867165188121,IBS_N
-Radial Distance from Sun,110,-0.0101527963390532,IBS_N
-Electronic Box Temperature,110,-0.4596863579419367,IBS_N
-Outboard Sensor Temperature,110,0.4917366557830235,IBS_N
-Inboard Sensor Temperature,110,-1.933484995074698,IBS_N
-Search Coil Magnetometer's Temperature,110,-0.6118099819256825,IBS_N
-High Gain Antenna Azimuth,110,-7.152864952764285,IBS_N
-Heater Dutycycle,110,0.2517884134589342,IBS_N
-2.5V_PCU_ELB,120,-1.9097993995838696,IBS_N
-Radial Distance from Sun,120,0.0008063534625256,IBS_N
-Electronic Box Temperature,120,-0.5163142478551668,IBS_N
-Outboard Sensor Temperature,120,0.4092218788711752,IBS_N
-Inboard Sensor Temperature,120,-0.8275040665640447,IBS_N
-Search Coil Magnetometer's Temperature,120,-1.4351611586042208,IBS_N
-High Gain Antenna Azimuth,120,-17.50954975867192,IBS_N
-Heater Dutycycle,120,-0.2798698943177873,IBS_N
-2.5V_PCU_ELB,130,-1.6341893135895038,IBS_N
-Radial Distance from Sun,130,-0.0549052669722746,IBS_N
-Electronic Box Temperature,130,-0.4865988976057077,IBS_N
-Outboard Sensor Temperature,130,0.3275352558825301,IBS_N
-Inboard Sensor Temperature,130,-0.1115853118018488,IBS_N
-Search Coil Magnetometer's Temperature,130,0.7950510357353304,IBS_N
-High Gain Antenna Azimuth,130,-6.606161305892303,IBS_N
-Heater Dutycycle,130,-0.0639962820834731,IBS_N
-2.5V_PCU_ELB,140,0.3576293354006599,IBS_N
-Radial Distance from Sun,140,-0.113917681896053,IBS_N
-Electronic Box Temperature,140,-0.4903020562638587,IBS_N
-Outboard Sensor Temperature,140,0.5253960637172552,IBS_N
-Inboard Sensor Temperature,140,-0.1479941801198559,IBS_N
-Search Coil Magnetometer's Temperature,140,0.590866234939678,IBS_N
-High Gain Antenna Azimuth,140,-7.868220181321642,IBS_N
-Heater Dutycycle,140,0.1392672655560064,IBS_N
-2.5V_PCU_ELB,150,-0.2663295373080348,IBS_N
-Radial Distance from Sun,150,-0.1636280115994204,IBS_N
-Electronic Box Temperature,150,-0.0130483962694178,IBS_N
-Outboard Sensor Temperature,150,0.5292284769086487,IBS_N
-Inboard Sensor Temperature,150,0.2625356702705817,IBS_N
-Search Coil Magnetometer's Temperature,150,-0.71568305913022,IBS_N
-High Gain Antenna Azimuth,150,4.550938083649078,IBS_N
-Heater Dutycycle,150,-0.3677179023515267,IBS_N
-2.5V_PCU_ELB,160,-2.54715967922595,IBS_N
-Radial Distance from Sun,160,-0.1990705443720302,IBS_N
-Electronic Box Temperature,160,0.4054834850084552,IBS_N
-Outboard Sensor Temperature,160,0.3040436925706166,IBS_N
-Inboard Sensor Temperature,160,-1.203834912024471,IBS_N
-Search Coil Magnetometer's Temperature,160,-1.16324617492628,IBS_N
-High Gain Antenna Azimuth,160,-7.120614951532733,IBS_N
-Heater Dutycycle,160,0.0085998397510651,IBS_N
-2.5V_PCU_ELB,170,-0.8756401302044491,IBS_N
-Radial Distance from Sun,170,-0.2287476985887779,IBS_N
-Electronic Box Temperature,170,0.4836881992329145,IBS_N
-Outboard Sensor Temperature,170,0.410453049712883,IBS_N
-Inboard Sensor Temperature,170,-0.4560177974177018,IBS_N
-Search Coil Magnetometer's Temperature,170,-0.3799972114613061,IBS_N
-High Gain Antenna Azimuth,170,-6.468037616062079,IBS_N
-Heater Dutycycle,170,0.0665981910732804,IBS_N
-2.5V_PCU_ELB,180,-0.3057702176179984,IBS_N
-Radial Distance from Sun,180,-0.245524073877194,IBS_N
-Electronic Box Temperature,180,-0.4152672649152721,IBS_N
-Outboard Sensor Temperature,180,0.3313095050884281,IBS_N
-Inboard Sensor Temperature,180,-0.2526043590560973,IBS_N
-Search Coil Magnetometer's Temperature,180,0.0185992621774701,IBS_N
-High Gain Antenna Azimuth,180,-7.525965344893398,IBS_N
-Heater Dutycycle,180,-0.5142778680070876,IBS_N
-2.5V_PCU_ELB,10,-0.2644565207125722,IBS_R
-Radial Distance from Sun,10,-0.2649006989797552,IBS_R
-Electronic Box Temperature,10,-1.1364884691832442,IBS_R
-Outboard Sensor Temperature,10,0.6333551008031354,IBS_R
-Inboard Sensor Temperature,10,-1.1178772208916754,IBS_R
-Search Coil Magnetometer's Temperature,10,1.1930684943314198,IBS_R
-High Gain Antenna Azimuth,10,-16.115016889158667,IBS_R
-Heater Dutycycle,10,-0.1093181549140873,IBS_R
-2.5V_PCU_ELB,20,-0.1538484961691741,IBS_R
-Radial Distance from Sun,20,-0.2555350601355898,IBS_R
-Electronic Box Temperature,20,-0.4709791560856429,IBS_R
-Outboard Sensor Temperature,20,0.3683419650111079,IBS_R
-Inboard Sensor Temperature,20,-1.6082251428226368,IBS_R
-Search Coil Magnetometer's Temperature,20,1.931973252775456,IBS_R
-High Gain Antenna Azimuth,20,-8.733216415810919,IBS_R
-Heater Dutycycle,20,-0.1382466939799146,IBS_R
-2.5V_PCU_ELB,30,-0.9829948078659444,IBS_R
-Radial Distance from Sun,30,-0.3613493847020144,IBS_R
-Electronic Box Temperature,30,-0.413103721135665,IBS_R
-Outboard Sensor Temperature,30,-0.5133577685410995,IBS_R
-Inboard Sensor Temperature,30,-1.8161459003064464,IBS_R
-Search Coil Magnetometer's Temperature,30,0.9449378625956202,IBS_R
-High Gain Antenna Azimuth,30,-5.475513021988242,IBS_R
-Heater Dutycycle,30,-0.1391677795186783,IBS_R
-2.5V_PCU_ELB,40,0.2044634610841359,IBS_R
-Radial Distance from Sun,40,-0.3996773708983432,IBS_R
-Electronic Box Temperature,40,-0.1276402295881856,IBS_R
-Outboard Sensor Temperature,40,-0.2377094461144824,IBS_R
-Inboard Sensor Temperature,40,-2.730812902849612,IBS_R
-Search Coil Magnetometer's Temperature,40,1.5391033022685878,IBS_R
-High Gain Antenna Azimuth,40,-14.16461352060291,IBS_R
-Heater Dutycycle,40,-0.1984034267427126,IBS_R
-2.5V_PCU_ELB,50,0.0052507495091375,IBS_R
-Radial Distance from Sun,50,-0.4177017721578639,IBS_R
-Electronic Box Temperature,50,-0.1935926958422368,IBS_R
-Outboard Sensor Temperature,50,-0.955055977877973,IBS_R
-Inboard Sensor Temperature,50,-1.029353733679267,IBS_R
-Search Coil Magnetometer's Temperature,50,1.3171222191962342,IBS_R
-High Gain Antenna Azimuth,50,-2.017107620492862,IBS_R
-Heater Dutycycle,50,-0.0676521192094201,IBS_R
-2.5V_PCU_ELB,60,0.8083469783107297,IBS_R
-Radial Distance from Sun,60,-0.4368954164845241,IBS_R
-Electronic Box Temperature,60,0.4106165512988305,IBS_R
-Outboard Sensor Temperature,60,0.4112933633485262,IBS_R
-Inboard Sensor Temperature,60,1.2645499249039085,IBS_R
-Search Coil Magnetometer's Temperature,60,1.317882854912528,IBS_R
-High Gain Antenna Azimuth,60,-10.952839955961368,IBS_R
-Heater Dutycycle,60,-0.0820981289175713,IBS_R
-2.5V_PCU_ELB,70,-1.2866033193149435,IBS_R
-Radial Distance from Sun,70,-0.4393552847510663,IBS_R
-Electronic Box Temperature,70,0.5290148719994341,IBS_R
-Outboard Sensor Temperature,70,0.3649045571556703,IBS_R
-Inboard Sensor Temperature,70,-0.7820907581811043,IBS_R
-Search Coil Magnetometer's Temperature,70,1.1111246997867656,IBS_R
-High Gain Antenna Azimuth,70,-11.41761084229535,IBS_R
-Heater Dutycycle,70,-0.0435139246423073,IBS_R
-2.5V_PCU_ELB,80,-0.546385905145982,IBS_R
-Radial Distance from Sun,80,-0.3765106514592106,IBS_R
-Electronic Box Temperature,80,0.1844709018302394,IBS_R
-Outboard Sensor Temperature,80,0.3761519250958379,IBS_R
-Inboard Sensor Temperature,80,0.1860345396396627,IBS_R
-Search Coil Magnetometer's Temperature,80,0.7535355069499017,IBS_R
-High Gain Antenna Azimuth,80,-16.047626116878256,IBS_R
-Heater Dutycycle,80,-0.0647807404507487,IBS_R
-2.5V_PCU_ELB,90,-0.8278632607100616,IBS_R
-Radial Distance from Sun,90,-0.3236077539019597,IBS_R
-Electronic Box Temperature,90,-0.0832573975205638,IBS_R
-Outboard Sensor Temperature,90,0.5629867177467811,IBS_R
-Inboard Sensor Temperature,90,0.0098248981747844,IBS_R
-Search Coil Magnetometer's Temperature,90,1.3591202507074285,IBS_R
-High Gain Antenna Azimuth,90,-12.726841257177496,IBS_R
-Heater Dutycycle,90,-0.0981854430405601,IBS_R
-2.5V_PCU_ELB,100,0.1917076904205764,IBS_R
-Radial Distance from Sun,100,-0.2653783937307309,IBS_R
-Electronic Box Temperature,100,-0.0881826338373221,IBS_R
-Outboard Sensor Temperature,100,-0.2303120847847817,IBS_R
-Inboard Sensor Temperature,100,-0.9682563093257603,IBS_R
-Search Coil Magnetometer's Temperature,100,1.4465274050180312,IBS_R
-High Gain Antenna Azimuth,100,-14.07866203185053,IBS_R
-Heater Dutycycle,100,-0.1421578665376923,IBS_R
-2.5V_PCU_ELB,110,0.4563865155012455,IBS_R
-Radial Distance from Sun,110,-0.1608461418841276,IBS_R
-Electronic Box Temperature,110,-0.4028548907803234,IBS_R
-Outboard Sensor Temperature,110,-0.4001609942128676,IBS_R
-Inboard Sensor Temperature,110,-0.4297227320437213,IBS_R
-Search Coil Magnetometer's Temperature,110,0.3824632302233996,IBS_R
-High Gain Antenna Azimuth,110,-24.80457956558521,IBS_R
-Heater Dutycycle,110,-0.2599425295608787,IBS_R
-2.5V_PCU_ELB,120,-0.8567760743037585,IBS_R
-Radial Distance from Sun,120,-0.1074322253364381,IBS_R
-Electronic Box Temperature,120,-0.0594052051460976,IBS_R
-Outboard Sensor Temperature,120,-0.6072460338677327,IBS_R
-Inboard Sensor Temperature,120,-1.7574230089813596,IBS_R
-Search Coil Magnetometer's Temperature,120,1.5288495355092844,IBS_R
-High Gain Antenna Azimuth,120,-11.87863394544816,IBS_R
-Heater Dutycycle,120,-0.0157920376337942,IBS_R
-2.5V_PCU_ELB,130,-1.2851973019064813,IBS_R
-Radial Distance from Sun,130,-0.0611869445621755,IBS_R
-Electronic Box Temperature,130,-0.0623066262984845,IBS_R
-Outboard Sensor Temperature,130,-0.3566395385337028,IBS_R
-Inboard Sensor Temperature,130,-1.2383309248343513,IBS_R
-Search Coil Magnetometer's Temperature,130,0.5513256369047791,IBS_R
-High Gain Antenna Azimuth,130,-20.064002896858582,IBS_R
-Heater Dutycycle,130,-0.0900556210001055,IBS_R
-2.5V_PCU_ELB,140,-0.0392861030871079,IBS_R
-Radial Distance from Sun,140,-0.0071132939308182,IBS_R
-Electronic Box Temperature,140,-0.4112277158907164,IBS_R
-Outboard Sensor Temperature,140,-1.1578723210808717,IBS_R
-Inboard Sensor Temperature,140,-0.7919057682978138,IBS_R
-Search Coil Magnetometer's Temperature,140,0.2589431232676293,IBS_R
-High Gain Antenna Azimuth,140,-2.682770039553995,IBS_R
-Heater Dutycycle,140,-0.1318732744000047,IBS_R
-2.5V_PCU_ELB,150,-0.3997030399594709,IBS_R
-Radial Distance from Sun,150,0.0463143012516568,IBS_R
-Electronic Box Temperature,150,-0.0722820355159243,IBS_R
-Outboard Sensor Temperature,150,-0.9694889791212428,IBS_R
-Inboard Sensor Temperature,150,-1.3588023974953325,IBS_R
-Search Coil Magnetometer's Temperature,150,-0.5933932761319691,IBS_R
-High Gain Antenna Azimuth,150,-18.47063154542568,IBS_R
-Heater Dutycycle,150,0.0401373791345814,IBS_R
-2.5V_PCU_ELB,160,-0.5256753283418737,IBS_R
-Radial Distance from Sun,160,0.0809242094654828,IBS_R
-Electronic Box Temperature,160,-0.9372738466155752,IBS_R
-Outboard Sensor Temperature,160,-1.0294842461043885,IBS_R
-Inboard Sensor Temperature,160,-0.7099858285752458,IBS_R
-Search Coil Magnetometer's Temperature,160,0.7361866757590279,IBS_R
-High Gain Antenna Azimuth,160,-6.480455766805155,IBS_R
-Heater Dutycycle,160,-0.012819146377843,IBS_R
-2.5V_PCU_ELB,170,1.179198925777014,IBS_R
-Radial Distance from Sun,170,0.1033001719154335,IBS_R
-Electronic Box Temperature,170,-0.7333877464555597,IBS_R
-Outboard Sensor Temperature,170,-1.5197628754071455,IBS_R
-Inboard Sensor Temperature,170,0.894883770612309,IBS_R
-Search Coil Magnetometer's Temperature,170,0.4461696436021298,IBS_R
-High Gain Antenna Azimuth,170,-15.35943228170934,IBS_R
-Heater Dutycycle,170,-0.0531490615275301,IBS_R
-2.5V_PCU_ELB,180,-1.004460849222824,IBS_R
-Radial Distance from Sun,180,0.1419167355374044,IBS_R
-Electronic Box Temperature,180,-0.6883870221404479,IBS_R
-Outboard Sensor Temperature,180,-0.6792694263080351,IBS_R
-Inboard Sensor Temperature,180,-0.1168599588254262,IBS_R
-Search Coil Magnetometer's Temperature,180,0.3453235870146161,IBS_R
-High Gain Antenna Azimuth,180,-5.4205493314595365,IBS_R
-Heater Dutycycle,180,0.009482822728134,IBS_R
-2.5V_PCU_ELB,10,0.1999200325624814,IBS_T
-Radial Distance from Sun,10,0.1185923380018667,IBS_T
-Electronic Box Temperature,10,0.2812565085931122,IBS_T
-Outboard Sensor Temperature,10,-0.134359575586715,IBS_T
-Inboard Sensor Temperature,10,-1.657463992008657,IBS_T
-Search Coil Magnetometer's Temperature,10,-1.1494148319371291,IBS_T
-High Gain Antenna Azimuth,10,-7.430245627723239,IBS_T
-Heater Dutycycle,10,0.1236389310307041,IBS_T
-2.5V_PCU_ELB,20,0.7410800421975487,IBS_T
-Radial Distance from Sun,20,0.0793263392052301,IBS_T
-Electronic Box Temperature,20,-1.5400413762740783,IBS_T
-Outboard Sensor Temperature,20,-0.7560134220904917,IBS_T
-Inboard Sensor Temperature,20,-2.5445124732997555,IBS_T
-Search Coil Magnetometer's Temperature,20,-1.9856944901339757,IBS_T
-High Gain Antenna Azimuth,20,2.020785179884679,IBS_T
-Heater Dutycycle,20,-0.1083722846212666,IBS_T
-2.5V_PCU_ELB,30,2.780928656718339,IBS_T
-Radial Distance from Sun,30,0.0288776258450688,IBS_T
-Electronic Box Temperature,30,-0.5047426170737617,IBS_T
-Outboard Sensor Temperature,30,0.6769758191667866,IBS_T
-Inboard Sensor Temperature,30,-1.7737722100416955,IBS_T
-Search Coil Magnetometer's Temperature,30,-2.82380315296702,IBS_T
-High Gain Antenna Azimuth,30,-4.848312983650974,IBS_T
-Heater Dutycycle,30,0.1365743246247979,IBS_T
-2.5V_PCU_ELB,40,0.9005137421857039,IBS_T
-Radial Distance from Sun,40,0.0053144753473557,IBS_T
-Electronic Box Temperature,40,-0.4937859544528418,IBS_T
-Outboard Sensor Temperature,40,-0.0101590546275017,IBS_T
-Inboard Sensor Temperature,40,-1.3133691137940628,IBS_T
-Search Coil Magnetometer's Temperature,40,-3.071631399019476,IBS_T
-High Gain Antenna Azimuth,40,-14.729436096247786,IBS_T
-Heater Dutycycle,40,0.0857061319237482,IBS_T
-2.5V_PCU_ELB,50,1.921116273490841,IBS_T
-Radial Distance from Sun,50,-0.1132370009195968,IBS_T
-Electronic Box Temperature,50,-0.1505374354479579,IBS_T
-Outboard Sensor Temperature,50,0.4975241398891182,IBS_T
-Inboard Sensor Temperature,50,-2.1657929933494544,IBS_T
-Search Coil Magnetometer's Temperature,50,-2.3373484810991445,IBS_T
-High Gain Antenna Azimuth,50,1.788304856705789,IBS_T
-Heater Dutycycle,50,0.2354937747168648,IBS_T
-2.5V_PCU_ELB,60,0.2608491355263588,IBS_T
-Radial Distance from Sun,60,-0.1702107333949047,IBS_T
-Electronic Box Temperature,60,-0.583230764555274,IBS_T
-Outboard Sensor Temperature,60,-0.325922410360384,IBS_T
-Inboard Sensor Temperature,60,-2.887696177082457,IBS_T
-Search Coil Magnetometer's Temperature,60,-3.224030345191572,IBS_T
-High Gain Antenna Azimuth,60,-5.459490647266591,IBS_T
-Heater Dutycycle,60,-0.0693363720900767,IBS_T
-2.5V_PCU_ELB,70,2.838754787270116,IBS_T
-Radial Distance from Sun,70,-0.2592219450915778,IBS_T
-Electronic Box Temperature,70,-0.8679110779011334,IBS_T
-Outboard Sensor Temperature,70,-0.7379782467314385,IBS_T
-Inboard Sensor Temperature,70,-1.3499150532886628,IBS_T
-Search Coil Magnetometer's Temperature,70,-0.3337345505470018,IBS_T
-High Gain Antenna Azimuth,70,5.593754960170633,IBS_T
-Heater Dutycycle,70,-0.0731273349156017,IBS_T
-2.5V_PCU_ELB,80,3.259460713324413,IBS_T
-Radial Distance from Sun,80,-0.3047749232100875,IBS_T
-Electronic Box Temperature,80,-0.2031874069458465,IBS_T
-Outboard Sensor Temperature,80,-1.148617017332244,IBS_T
-Inboard Sensor Temperature,80,-0.6853814765445951,IBS_T
-Search Coil Magnetometer's Temperature,80,-2.392979717461156,IBS_T
-High Gain Antenna Azimuth,80,-4.021674025073229,IBS_T
-Heater Dutycycle,80,-0.420631585245387,IBS_T
-2.5V_PCU_ELB,90,2.3820782308790363,IBS_T
-Radial Distance from Sun,90,-0.2911194572815369,IBS_T
-Electronic Box Temperature,90,0.171288299496506,IBS_T
-Outboard Sensor Temperature,90,-1.299178776475565,IBS_T
-Inboard Sensor Temperature,90,-0.2446545092068852,IBS_T
-Search Coil Magnetometer's Temperature,90,-1.967227390830988,IBS_T
-High Gain Antenna Azimuth,90,6.237298739523892,IBS_T
-Heater Dutycycle,90,0.4174774453310415,IBS_T
-2.5V_PCU_ELB,100,1.0036683309223022,IBS_T
-Radial Distance from Sun,100,-0.3214673902827448,IBS_T
-Electronic Box Temperature,100,0.7987205018486287,IBS_T
-Outboard Sensor Temperature,100,-1.2478020252326627,IBS_T
-Inboard Sensor Temperature,100,-0.6291466717967594,IBS_T
-Search Coil Magnetometer's Temperature,100,-0.9077109194208738,IBS_T
-High Gain Antenna Azimuth,100,8.210471730057536,IBS_T
-Heater Dutycycle,100,0.2319346328179784,IBS_T
-2.5V_PCU_ELB,110,1.6140139327127885,IBS_T
-Radial Distance from Sun,110,-0.322267598906897,IBS_T
-Electronic Box Temperature,110,1.6834329833944948,IBS_T
-Outboard Sensor Temperature,110,-2.165413739502528,IBS_T
-Inboard Sensor Temperature,110,1.1021951502558138,IBS_T
-Search Coil Magnetometer's Temperature,110,-2.217098769757586,IBS_T
-High Gain Antenna Azimuth,110,0.5839985968556795,IBS_T
-Heater Dutycycle,110,0.0319040464313487,IBS_T
-2.5V_PCU_ELB,120,4.786694241725975,IBS_T
-Radial Distance from Sun,120,-0.2946989294993778,IBS_T
-Electronic Box Temperature,120,1.98404195576496,IBS_T
-Outboard Sensor Temperature,120,-2.66184152124844,IBS_T
-Inboard Sensor Temperature,120,1.4466683280235413,IBS_T
-Search Coil Magnetometer's Temperature,120,-1.905474128763376,IBS_T
-High Gain Antenna Azimuth,120,-4.569064807544081,IBS_T
-Heater Dutycycle,120,0.4522095040788703,IBS_T
-2.5V_PCU_ELB,130,3.8711855798622494,IBS_T
-Radial Distance from Sun,130,-0.2624928059533302,IBS_T
-Electronic Box Temperature,130,1.1351750639747635,IBS_T
-Outboard Sensor Temperature,130,-1.7577500561866075,IBS_T
-Inboard Sensor Temperature,130,-0.1600709244749515,IBS_T
-Search Coil Magnetometer's Temperature,130,-1.3123882108585463,IBS_T
-High Gain Antenna Azimuth,130,-12.211684997791515,IBS_T
-Heater Dutycycle,130,0.1853564906337419,IBS_T
-2.5V_PCU_ELB,140,1.5946196113754034,IBS_T
-Radial Distance from Sun,140,-0.2232722834793502,IBS_T
-Electronic Box Temperature,140,-0.1621416981559723,IBS_T
-Outboard Sensor Temperature,140,-0.8983047892338221,IBS_T
-Inboard Sensor Temperature,140,3.099828426364737,IBS_T
-Search Coil Magnetometer's Temperature,140,-1.331550384606327,IBS_T
-High Gain Antenna Azimuth,140,-31.40403764797556,IBS_T
-Heater Dutycycle,140,0.1100197429452545,IBS_T
-2.5V_PCU_ELB,150,1.5778330251027346,IBS_T
-Radial Distance from Sun,150,-0.1888879358188653,IBS_T
-Electronic Box Temperature,150,1.215660714134479,IBS_T
-Outboard Sensor Temperature,150,-1.279382631171064,IBS_T
-Inboard Sensor Temperature,150,2.3282942783687823,IBS_T
-Search Coil Magnetometer's Temperature,150,-0.6406061990990753,IBS_T
-High Gain Antenna Azimuth,150,-32.15532481541887,IBS_T
-Heater Dutycycle,150,-0.128929314046705,IBS_T
-2.5V_PCU_ELB,160,4.719996440301679,IBS_T
-Radial Distance from Sun,160,-0.1861867893587062,IBS_T
-Electronic Box Temperature,160,0.9140753702970956,IBS_T
-Outboard Sensor Temperature,160,-1.081223607835617,IBS_T
-Inboard Sensor Temperature,160,-0.2556664181106644,IBS_T
-Search Coil Magnetometer's Temperature,160,-2.228053103902344,IBS_T
-High Gain Antenna Azimuth,160,-42.30809213296471,IBS_T
-Heater Dutycycle,160,0.1261766819468759,IBS_T
-2.5V_PCU_ELB,170,4.7699576222350135,IBS_T
-Radial Distance from Sun,170,-0.1822944701563103,IBS_T
-Electronic Box Temperature,170,1.0866567286638722,IBS_T
-Outboard Sensor Temperature,170,-0.5785134729855638,IBS_T
-Inboard Sensor Temperature,170,0.5909062765256201,IBS_T
-Search Coil Magnetometer's Temperature,170,-2.531252562657084,IBS_T
-High Gain Antenna Azimuth,170,-16.20074646012419,IBS_T
-Heater Dutycycle,170,0.30643494555367,IBS_T
-2.5V_PCU_ELB,180,2.221382324165401,IBS_T
-Radial Distance from Sun,180,-0.2063345673533593,IBS_T
-Electronic Box Temperature,180,-0.1256796043798122,IBS_T
-Outboard Sensor Temperature,180,-0.4819608891699831,IBS_T
-Inboard Sensor Temperature,180,1.4684357890114157,IBS_T
-Search Coil Magnetometer's Temperature,180,-3.6459334493990494,IBS_T
-High Gain Antenna Azimuth,180,-45.3906013291665,IBS_T
-Heater Dutycycle,180,-0.1694531773494799,IBS_T
-2.5V_PCU_ELB,10,0.3676560510884501,OBS_N
-Radial Distance from Sun,10,0.1256790534109145,OBS_N
-Electronic Box Temperature,10,-0.0079657509409133,OBS_N
-Outboard Sensor Temperature,10,0.4137715940191676,OBS_N
-Inboard Sensor Temperature,10,-0.7526258007058235,OBS_N
-Search Coil Magnetometer's Temperature,10,-1.4844322460003805,OBS_N
-High Gain Antenna Azimuth,10,-7.149800054539272,OBS_N
-Heater Dutycycle,10,-0.2278150742320012,OBS_N
-2.5V_PCU_ELB,20,0.3674227626394107,OBS_N
-Radial Distance from Sun,20,0.138518233783141,OBS_N
-Electronic Box Temperature,20,0.3037037824773084,OBS_N
-Outboard Sensor Temperature,20,-0.2576561027969252,OBS_N
-Inboard Sensor Temperature,20,-0.2722112600570033,OBS_N
-Search Coil Magnetometer's Temperature,20,-0.8277863306989319,OBS_N
-High Gain Antenna Azimuth,20,0.8337413915354026,OBS_N
-Heater Dutycycle,20,-0.2047816685540171,OBS_N
-2.5V_PCU_ELB,30,0.7183712026872768,OBS_N
-Radial Distance from Sun,30,0.191865686818053,OBS_N
-Electronic Box Temperature,30,-0.1235763108781184,OBS_N
-Outboard Sensor Temperature,30,0.019971006491199,OBS_N
-Inboard Sensor Temperature,30,-0.0263737332748953,OBS_N
-Search Coil Magnetometer's Temperature,30,-0.5761298093602274,OBS_N
-High Gain Antenna Azimuth,30,11.987437628863352,OBS_N
-Heater Dutycycle,30,-0.034127827180062,OBS_N
-2.5V_PCU_ELB,40,-0.4638345952290664,OBS_N
-Radial Distance from Sun,40,0.1741549200614053,OBS_N
-Electronic Box Temperature,40,0.0073424546657098,OBS_N
-Outboard Sensor Temperature,40,0.4842362063695795,OBS_N
-Inboard Sensor Temperature,40,-0.9200697901063704,OBS_N
-Search Coil Magnetometer's Temperature,40,-1.080760568543219,OBS_N
-High Gain Antenna Azimuth,40,3.755294019244417,OBS_N
-Heater Dutycycle,40,0.0040781556022163,OBS_N
-2.5V_PCU_ELB,50,0.410892766785932,OBS_N
-Radial Distance from Sun,50,0.1479100341420237,OBS_N
-Electronic Box Temperature,50,0.3779612430789962,OBS_N
-Outboard Sensor Temperature,50,0.1278143264248178,OBS_N
-Inboard Sensor Temperature,50,-1.9798748211319128,OBS_N
-Search Coil Magnetometer's Temperature,50,-0.5437831656887439,OBS_N
-High Gain Antenna Azimuth,50,6.6809323832059935,OBS_N
-Heater Dutycycle,50,-0.1579610180738435,OBS_N
-2.5V_PCU_ELB,60,-0.1183211741361544,OBS_N
-Radial Distance from Sun,60,0.1575740716487237,OBS_N
-Electronic Box Temperature,60,1.174525703051555,OBS_N
-Outboard Sensor Temperature,60,0.023171588245032,OBS_N
-Inboard Sensor Temperature,60,-1.2404549029863845,OBS_N
-Search Coil Magnetometer's Temperature,60,0.0654062940932558,OBS_N
-High Gain Antenna Azimuth,60,12.51493693946714,OBS_N
-Heater Dutycycle,60,-0.0179743810432025,OBS_N
-2.5V_PCU_ELB,70,0.3258461028155405,OBS_N
-Radial Distance from Sun,70,0.1017150751939303,OBS_N
-Electronic Box Temperature,70,0.2137308786968576,OBS_N
-Outboard Sensor Temperature,70,0.0114999933073835,OBS_N
-Inboard Sensor Temperature,70,-1.3470706018627023,OBS_N
-Search Coil Magnetometer's Temperature,70,-0.2806610002255971,OBS_N
-High Gain Antenna Azimuth,70,3.785283856449009,OBS_N
-Heater Dutycycle,70,0.0505198899230533,OBS_N
-2.5V_PCU_ELB,80,-0.5661262710922961,OBS_N
-Radial Distance from Sun,80,0.0967816972513396,OBS_N
-Electronic Box Temperature,80,0.2882021589650398,OBS_N
-Outboard Sensor Temperature,80,0.2145633228420806,OBS_N
-Inboard Sensor Temperature,80,0.3664075996923745,OBS_N
-Search Coil Magnetometer's Temperature,80,-0.744393363015726,OBS_N
-High Gain Antenna Azimuth,80,-0.0510640349848532,OBS_N
-Heater Dutycycle,80,0.0189864325095506,OBS_N
-2.5V_PCU_ELB,90,-1.2957694307145309,OBS_N
-Radial Distance from Sun,90,0.0993799050974935,OBS_N
-Electronic Box Temperature,90,-0.0638998506973002,OBS_N
-Outboard Sensor Temperature,90,0.1952082711716893,OBS_N
-Inboard Sensor Temperature,90,-0.7722564835004849,OBS_N
-Search Coil Magnetometer's Temperature,90,0.5293370431344306,OBS_N
-High Gain Antenna Azimuth,90,9.9968875371333,OBS_N
-Heater Dutycycle,90,0.1817632533379117,OBS_N
-2.5V_PCU_ELB,100,-1.081977715538388,OBS_N
-Radial Distance from Sun,100,0.0997725092862844,OBS_N
-Electronic Box Temperature,100,-0.1033512039536982,OBS_N
-Outboard Sensor Temperature,100,0.2375861908491786,OBS_N
-Inboard Sensor Temperature,100,-1.2876947005313766,OBS_N
-Search Coil Magnetometer's Temperature,100,-0.315772259863349,OBS_N
-High Gain Antenna Azimuth,100,4.90031463292049,OBS_N
-Heater Dutycycle,100,0.1213382194202367,OBS_N
-2.5V_PCU_ELB,110,0.5621953580833725,OBS_N
-Radial Distance from Sun,110,0.1522209782148338,OBS_N
-Electronic Box Temperature,110,-0.6559904877703164,OBS_N
-Outboard Sensor Temperature,110,0.4397229018968039,OBS_N
-Inboard Sensor Temperature,110,-1.2739250808508922,OBS_N
-Search Coil Magnetometer's Temperature,110,-0.1991613876901332,OBS_N
-High Gain Antenna Azimuth,110,-0.524298532293365,OBS_N
-Heater Dutycycle,110,0.1938336794373835,OBS_N
-2.5V_PCU_ELB,120,0.1338447034218653,OBS_N
-Radial Distance from Sun,120,0.1995774866325083,OBS_N
-Electronic Box Temperature,120,-0.3134410519729508,OBS_N
-Outboard Sensor Temperature,120,0.2741069387336239,OBS_N
-Inboard Sensor Temperature,120,-1.3937560053278475,OBS_N
-Search Coil Magnetometer's Temperature,120,0.3826957812447333,OBS_N
-High Gain Antenna Azimuth,120,6.540483733834678,OBS_N
-Heater Dutycycle,120,0.0199198975125951,OBS_N
-2.5V_PCU_ELB,130,-0.3458908565893107,OBS_N
-Radial Distance from Sun,130,0.1686035648136697,OBS_N
-Electronic Box Temperature,130,-0.0154256305798932,OBS_N
-Outboard Sensor Temperature,130,0.6597623554414749,OBS_N
-Inboard Sensor Temperature,130,-1.274678305225954,OBS_N
-Search Coil Magnetometer's Temperature,130,-1.6654026670355475,OBS_N
-High Gain Antenna Azimuth,130,-2.8834631755683344,OBS_N
-Heater Dutycycle,130,-0.0095357122440005,OBS_N
-2.5V_PCU_ELB,140,-0.7567270095158981,OBS_N
-Radial Distance from Sun,140,0.1234098552605796,OBS_N
-Electronic Box Temperature,140,-0.4281623489923971,OBS_N
-Outboard Sensor Temperature,140,-0.2052650008641343,OBS_N
-Inboard Sensor Temperature,140,-1.4789131355780436,OBS_N
-Search Coil Magnetometer's Temperature,140,0.7293388931229638,OBS_N
-High Gain Antenna Azimuth,140,10.893216317142851,OBS_N
-Heater Dutycycle,140,0.062056610279442,OBS_N
-2.5V_PCU_ELB,150,-2.064600299294035,OBS_N
-Radial Distance from Sun,150,0.0832265879429941,OBS_N
-Electronic Box Temperature,150,-0.1283406590313713,OBS_N
-Outboard Sensor Temperature,150,0.212101190562875,OBS_N
-Inboard Sensor Temperature,150,-1.7119424888032904,OBS_N
-Search Coil Magnetometer's Temperature,150,0.6266931217518759,OBS_N
-High Gain Antenna Azimuth,150,18.279006797120704,OBS_N
-Heater Dutycycle,150,0.0517047246617697,OBS_N
-2.5V_PCU_ELB,160,-1.409896466388773,OBS_N
-Radial Distance from Sun,160,0.0621634249381225,OBS_N
-Electronic Box Temperature,160,-0.1615376799181381,OBS_N
-Outboard Sensor Temperature,160,0.4901527304892571,OBS_N
-Inboard Sensor Temperature,160,-2.2859848207284013,OBS_N
-Search Coil Magnetometer's Temperature,160,0.4609718546009789,OBS_N
-High Gain Antenna Azimuth,160,9.245103640877437,OBS_N
-Heater Dutycycle,160,0.0426844331327958,OBS_N
-2.5V_PCU_ELB,170,0.2564345839734733,OBS_N
-Radial Distance from Sun,170,0.0304687862348973,OBS_N
-Electronic Box Temperature,170,0.0082743980322964,OBS_N
-Outboard Sensor Temperature,170,0.7078084549511441,OBS_N
-Inboard Sensor Temperature,170,-1.170985775200436,OBS_N
-Search Coil Magnetometer's Temperature,170,1.0306712447502209,OBS_N
-High Gain Antenna Azimuth,170,10.493101212298203,OBS_N
-Heater Dutycycle,170,-0.0107152999596203,OBS_N
-2.5V_PCU_ELB,180,0.4270536012576351,OBS_N
-Radial Distance from Sun,180,0.0185910623296894,OBS_N
-Electronic Box Temperature,180,0.0122174274883398,OBS_N
-Outboard Sensor Temperature,180,0.1310554839999125,OBS_N
-Inboard Sensor Temperature,180,-1.3518076972675752,OBS_N
-Search Coil Magnetometer's Temperature,180,2.0649096998384717,OBS_N
-High Gain Antenna Azimuth,180,-9.127528804031808,OBS_N
-Heater Dutycycle,180,-0.0720684264120034,OBS_N
-2.5V_PCU_ELB,10,0.4233718391018558,OBS_R
-Radial Distance from Sun,10,0.2250411424865995,OBS_R
-Electronic Box Temperature,10,-0.334079170682262,OBS_R
-Outboard Sensor Temperature,10,-0.4765837332246511,OBS_R
-Inboard Sensor Temperature,10,0.4926703202352355,OBS_R
-Search Coil Magnetometer's Temperature,10,-0.959251476194466,OBS_R
-High Gain Antenna Azimuth,10,-16.540888068109034,OBS_R
-Heater Dutycycle,10,0.2083117484529054,OBS_R
-2.5V_PCU_ELB,20,-1.83178232931347,OBS_R
-Radial Distance from Sun,20,0.1878119145991076,OBS_R
-Electronic Box Temperature,20,-1.5182236747567608,OBS_R
-Outboard Sensor Temperature,20,-0.9063199655964236,OBS_R
-Inboard Sensor Temperature,20,0.218458531826238,OBS_R
-Search Coil Magnetometer's Temperature,20,1.192165299996674,OBS_R
-High Gain Antenna Azimuth,20,-14.478943744743978,OBS_R
-Heater Dutycycle,20,0.2723211747775598,OBS_R
-2.5V_PCU_ELB,30,-0.3400368993784786,OBS_R
-Radial Distance from Sun,30,0.1293939317355079,OBS_R
-Electronic Box Temperature,30,-0.7074563427158127,OBS_R
-Outboard Sensor Temperature,30,-0.2512709037572832,OBS_R
-Inboard Sensor Temperature,30,-0.6610584378635083,OBS_R
-Search Coil Magnetometer's Temperature,30,-0.5850071802636684,OBS_R
-High Gain Antenna Azimuth,30,-19.673520186322087,OBS_R
-Heater Dutycycle,30,-0.1179812879180091,OBS_R
-2.5V_PCU_ELB,40,-1.44593484961927,OBS_R
-Radial Distance from Sun,40,0.0783476706133378,OBS_R
-Electronic Box Temperature,40,-0.260492962446329,OBS_R
-Outboard Sensor Temperature,40,-1.358767373041076,OBS_R
-Inboard Sensor Temperature,40,-0.4609442902164162,OBS_R
-Search Coil Magnetometer's Temperature,40,-0.800619429616279,OBS_R
-High Gain Antenna Azimuth,40,-27.464008784119564,OBS_R
-Heater Dutycycle,40,-0.3021042445715112,OBS_R
-2.5V_PCU_ELB,50,-0.5888204777819541,OBS_R
-Radial Distance from Sun,50,0.1337732354229945,OBS_R
-Electronic Box Temperature,50,-0.4905805633318478,OBS_R
-Outboard Sensor Temperature,50,-1.0771532277447222,OBS_R
-Inboard Sensor Temperature,50,1.2067531160946856,OBS_R
-Search Coil Magnetometer's Temperature,50,-0.3936131271492296,OBS_R
-High Gain Antenna Azimuth,50,-28.49022130289345,OBS_R
-Heater Dutycycle,50,0.0983444956979153,OBS_R
-2.5V_PCU_ELB,60,-1.0752527749889564,OBS_R
-Radial Distance from Sun,60,0.315550001525043,OBS_R
-Electronic Box Temperature,60,-0.0879911977801263,OBS_R
-Outboard Sensor Temperature,60,0.0062356479042216,OBS_R
-Inboard Sensor Temperature,60,0.8957988872811916,OBS_R
-Search Coil Magnetometer's Temperature,60,-0.310519901577721,OBS_R
-High Gain Antenna Azimuth,60,-22.914884160369954,OBS_R
-Heater Dutycycle,60,-0.2403964972192015,OBS_R
-2.5V_PCU_ELB,70,-1.1981242093011335,OBS_R
-Radial Distance from Sun,70,0.2021050880015729,OBS_R
-Electronic Box Temperature,70,-0.2647860463570284,OBS_R
-Outboard Sensor Temperature,70,0.0361744697107105,OBS_R
-Inboard Sensor Temperature,70,-1.3947658441620996,OBS_R
-Search Coil Magnetometer's Temperature,70,-0.5705835532605952,OBS_R
-High Gain Antenna Azimuth,70,-27.08820774143075,OBS_R
-Heater Dutycycle,70,-0.2745672145417815,OBS_R
-2.5V_PCU_ELB,80,0.3718031069543879,OBS_R
-Radial Distance from Sun,80,0.066590575911148,OBS_R
-Electronic Box Temperature,80,-0.0858086364802002,OBS_R
-Outboard Sensor Temperature,80,-0.5257122603622677,OBS_R
-Inboard Sensor Temperature,80,-1.049982095528396,OBS_R
-Search Coil Magnetometer's Temperature,80,-0.542327516934104,OBS_R
-High Gain Antenna Azimuth,80,-22.30883180282108,OBS_R
-Heater Dutycycle,80,-0.2255085547393638,OBS_R
-2.5V_PCU_ELB,90,-0.1509730139649046,OBS_R
-Radial Distance from Sun,90,-0.065285831261682,OBS_R
-Electronic Box Temperature,90,-0.5602837137778766,OBS_R
-Outboard Sensor Temperature,90,0.312743001935679,OBS_R
-Inboard Sensor Temperature,90,-0.0747780688696597,OBS_R
-Search Coil Magnetometer's Temperature,90,0.7070728421015883,OBS_R
-High Gain Antenna Azimuth,90,-26.7130233432118,OBS_R
-Heater Dutycycle,90,-0.2566381365638226,OBS_R
-2.5V_PCU_ELB,100,0.1421976664243465,OBS_R
-Radial Distance from Sun,100,-0.1349571417175502,OBS_R
-Electronic Box Temperature,100,-1.153195822765589,OBS_R
-Outboard Sensor Temperature,100,-0.1703221905006325,OBS_R
-Inboard Sensor Temperature,100,-1.248111864634141,OBS_R
-Search Coil Magnetometer's Temperature,100,1.038407264534432,OBS_R
-High Gain Antenna Azimuth,100,-22.13393779302754,OBS_R
-Heater Dutycycle,100,-0.147010687352885,OBS_R
-2.5V_PCU_ELB,110,0.1207782130847723,OBS_R
-Radial Distance from Sun,110,-0.1293624221057866,OBS_R
-Electronic Box Temperature,110,-0.6992317924271525,OBS_R
-Outboard Sensor Temperature,110,-0.2591341851566741,OBS_R
-Inboard Sensor Temperature,110,0.0677239058213553,OBS_R
-Search Coil Magnetometer's Temperature,110,0.811488164920556,OBS_R
-High Gain Antenna Azimuth,110,-26.51029692605167,OBS_R
-Heater Dutycycle,110,-0.2896522017870296,OBS_R
-2.5V_PCU_ELB,120,-0.2052704067659465,OBS_R
-Radial Distance from Sun,120,-0.1474145753085168,OBS_R
-Electronic Box Temperature,120,-0.1596219357963321,OBS_R
-Outboard Sensor Temperature,120,-0.2231517170979132,OBS_R
-Inboard Sensor Temperature,120,0.1027346219433815,OBS_R
-Search Coil Magnetometer's Temperature,120,-0.5350142317840159,OBS_R
-High Gain Antenna Azimuth,120,-11.669404873622064,OBS_R
-Heater Dutycycle,120,-0.1317426025656221,OBS_R
-2.5V_PCU_ELB,130,0.3167835355621669,OBS_R
-Radial Distance from Sun,130,-0.1271835727997818,OBS_R
-Electronic Box Temperature,130,-0.2961706447212792,OBS_R
-Outboard Sensor Temperature,130,-0.3903020546189811,OBS_R
-Inboard Sensor Temperature,130,0.477849203516771,OBS_R
-Search Coil Magnetometer's Temperature,130,0.0613882188931135,OBS_R
-High Gain Antenna Azimuth,130,-2.477483755960182,OBS_R
-Heater Dutycycle,130,-0.1625171854936245,OBS_R
-2.5V_PCU_ELB,140,0.7663730817187286,OBS_R
-Radial Distance from Sun,140,-0.0927251214905765,OBS_R
-Electronic Box Temperature,140,-0.4310956858669059,OBS_R
-Outboard Sensor Temperature,140,-0.207288583305525,OBS_R
-Inboard Sensor Temperature,140,-1.0605530153706846,OBS_R
-Search Coil Magnetometer's Temperature,140,0.3901996072847022,OBS_R
-High Gain Antenna Azimuth,140,-6.044723569745924,OBS_R
-Heater Dutycycle,140,-0.0714163444463884,OBS_R
-2.5V_PCU_ELB,150,-0.4170121395253058,OBS_R
-Radial Distance from Sun,150,-0.0529308289111979,OBS_R
-Electronic Box Temperature,150,-0.166698929789776,OBS_R
-Outboard Sensor Temperature,150,-0.2135689240592702,OBS_R
-Inboard Sensor Temperature,150,-0.3029952639138149,OBS_R
-Search Coil Magnetometer's Temperature,150,0.0816459284788986,OBS_R
-High Gain Antenna Azimuth,150,-13.948418589007488,OBS_R
-Heater Dutycycle,150,-0.1643373885381784,OBS_R
-2.5V_PCU_ELB,160,0.1060478583959025,OBS_R
-Radial Distance from Sun,160,-0.0309734498272121,OBS_R
-Electronic Box Temperature,160,-0.1956953774525258,OBS_R
-Outboard Sensor Temperature,160,-0.4442546934565127,OBS_R
-Inboard Sensor Temperature,160,-0.7950454538877683,OBS_R
-Search Coil Magnetometer's Temperature,160,0.0708019029514927,OBS_R
-High Gain Antenna Azimuth,160,-3.6191927919749487,OBS_R
-Heater Dutycycle,160,0.1102756116269607,OBS_R
-2.5V_PCU_ELB,170,-0.5204339062853665,OBS_R
-Radial Distance from Sun,170,-0.0211522505558692,OBS_R
-Electronic Box Temperature,170,-0.1876940872949306,OBS_R
-Outboard Sensor Temperature,170,-0.7766401398204168,OBS_R
-Inboard Sensor Temperature,170,-1.4382537086725034,OBS_R
-Search Coil Magnetometer's Temperature,170,-0.4198488072259101,OBS_R
-High Gain Antenna Azimuth,170,-10.754977437733102,OBS_R
-Heater Dutycycle,170,0.1395256428706773,OBS_R
-2.5V_PCU_ELB,180,-0.6605899372270401,OBS_R
-Radial Distance from Sun,180,-0.0021401974400211,OBS_R
-Electronic Box Temperature,180,-0.403015175524637,OBS_R
-Outboard Sensor Temperature,180,-0.5602968190544417,OBS_R
-Inboard Sensor Temperature,180,-0.807146622733273,OBS_R
-Search Coil Magnetometer's Temperature,180,-0.6672921587784425,OBS_R
-High Gain Antenna Azimuth,180,-17.950704921484544,OBS_R
-Heater Dutycycle,180,-0.2810583200400233,OBS_R
-2.5V_PCU_ELB,10,0.2420278557200155,OBS_T
-Radial Distance from Sun,10,0.0987285597242838,OBS_T
-Electronic Box Temperature,10,0.1882591624941927,OBS_T
-Outboard Sensor Temperature,10,-0.294975813391819,OBS_T
-Inboard Sensor Temperature,10,0.1100332225385376,OBS_T
-Search Coil Magnetometer's Temperature,10,-0.6157770237639026,OBS_T
-High Gain Antenna Azimuth,10,-12.20494704713333,OBS_T
-Heater Dutycycle,10,0.1641200865421181,OBS_T
-2.5V_PCU_ELB,20,-0.0022979568946859,OBS_T
-Radial Distance from Sun,20,0.2415053994304009,OBS_T
-Electronic Box Temperature,20,-0.3260668608988165,OBS_T
-Outboard Sensor Temperature,20,-1.4534136204581147,OBS_T
-Inboard Sensor Temperature,20,1.0268624688060422,OBS_T
-Search Coil Magnetometer's Temperature,20,1.3072964973496493,OBS_T
-High Gain Antenna Azimuth,20,-11.470506442481478,OBS_T
-Heater Dutycycle,20,0.2311659220820413,OBS_T
-2.5V_PCU_ELB,30,0.2699791579686828,OBS_T
-Radial Distance from Sun,30,0.3090400678880002,OBS_T
-Electronic Box Temperature,30,-0.0178317419178549,OBS_T
-Outboard Sensor Temperature,30,-0.9788348153544312,OBS_T
-Inboard Sensor Temperature,30,-0.1044308358131735,OBS_T
-Search Coil Magnetometer's Temperature,30,0.3461022454186522,OBS_T
-High Gain Antenna Azimuth,30,-12.906729498681118,OBS_T
-Heater Dutycycle,30,0.0383112116327439,OBS_T
-2.5V_PCU_ELB,40,0.359534746496623,OBS_T
-Radial Distance from Sun,40,0.2699546842710199,OBS_T
-Electronic Box Temperature,40,-0.2176527556236474,OBS_T
-Outboard Sensor Temperature,40,-0.4549654089450337,OBS_T
-Inboard Sensor Temperature,40,-0.0520288396158095,OBS_T
-Search Coil Magnetometer's Temperature,40,-0.0224431130781271,OBS_T
-High Gain Antenna Azimuth,40,-7.347928481980772,OBS_T
-Heater Dutycycle,40,-0.0063633967627667,OBS_T
-2.5V_PCU_ELB,50,0.2955603543957831,OBS_T
-Radial Distance from Sun,50,0.1750277265834355,OBS_T
-Electronic Box Temperature,50,-0.2747439672434597,OBS_T
-Outboard Sensor Temperature,50,-0.6420757177490882,OBS_T
-Inboard Sensor Temperature,50,-0.1107133727582835,OBS_T
-Search Coil Magnetometer's Temperature,50,-0.0433693464619892,OBS_T
-High Gain Antenna Azimuth,50,-9.172857718723796,OBS_T
-Heater Dutycycle,50,-0.0180248514836026,OBS_T
-2.5V_PCU_ELB,60,0.3621928800911556,OBS_T
-Radial Distance from Sun,60,0.1875174281392904,OBS_T
-Electronic Box Temperature,60,-0.6997810036302121,OBS_T
-Outboard Sensor Temperature,60,0.1693538418251554,OBS_T
-Inboard Sensor Temperature,60,-1.1324638899143804,OBS_T
-Search Coil Magnetometer's Temperature,60,-0.3634417969046109,OBS_T
-High Gain Antenna Azimuth,60,-5.135213114646971,OBS_T
-Heater Dutycycle,60,0.0455414612411503,OBS_T
-2.5V_PCU_ELB,70,-0.0317009797648522,OBS_T
-Radial Distance from Sun,70,0.1830825186676321,OBS_T
-Electronic Box Temperature,70,-0.2117071877861966,OBS_T
-Outboard Sensor Temperature,70,0.176067507457331,OBS_T
-Inboard Sensor Temperature,70,-0.2990753824018696,OBS_T
-Search Coil Magnetometer's Temperature,70,0.1711723918190957,OBS_T
-High Gain Antenna Azimuth,70,-18.016170589816536,OBS_T
-Heater Dutycycle,70,-0.1266558872289046,OBS_T
-2.5V_PCU_ELB,80,0.4927701175254043,OBS_T
-Radial Distance from Sun,80,0.1684249539589758,OBS_T
-Electronic Box Temperature,80,-0.140011306588185,OBS_T
-Outboard Sensor Temperature,80,-0.033280782961386,OBS_T
-Inboard Sensor Temperature,80,-0.130006087235742,OBS_T
-Search Coil Magnetometer's Temperature,80,-1.2775418779160317,OBS_T
-High Gain Antenna Azimuth,80,-11.615847988585095,OBS_T
-Heater Dutycycle,80,0.1511068563345429,OBS_T
-2.5V_PCU_ELB,90,0.1436189629155531,OBS_T
-Radial Distance from Sun,90,0.1968249427521792,OBS_T
-Electronic Box Temperature,90,-0.2988285066518377,OBS_T
-Outboard Sensor Temperature,90,-0.601246222536423,OBS_T
-Inboard Sensor Temperature,90,0.2569649490451103,OBS_T
-Search Coil Magnetometer's Temperature,90,0.2031307238524895,OBS_T
-High Gain Antenna Azimuth,90,-14.823295691094325,OBS_T
-Heater Dutycycle,90,-0.0089635887916471,OBS_T
-2.5V_PCU_ELB,100,0.4271668610438872,OBS_T
-Radial Distance from Sun,100,0.2339041621248911,OBS_T
-Electronic Box Temperature,100,0.0719990200614058,OBS_T
-Outboard Sensor Temperature,100,-0.5604267834252138,OBS_T
-Inboard Sensor Temperature,100,-0.4446472825461733,OBS_T
-Search Coil Magnetometer's Temperature,100,0.2847630940799125,OBS_T
-High Gain Antenna Azimuth,100,-13.527946138965603,OBS_T
-Heater Dutycycle,100,0.0452250230316023,OBS_T
-2.5V_PCU_ELB,110,0.4857193727075795,OBS_T
-Radial Distance from Sun,110,0.2640181736837145,OBS_T
-Electronic Box Temperature,110,0.7590446164464325,OBS_T
-Outboard Sensor Temperature,110,-1.244260023713224,OBS_T
-Inboard Sensor Temperature,110,-0.2680031516429351,OBS_T
-Search Coil Magnetometer's Temperature,110,0.2733294017615439,OBS_T
-High Gain Antenna Azimuth,110,-14.126272273659042,OBS_T
-Heater Dutycycle,110,-0.0795140448259693,OBS_T
-2.5V_PCU_ELB,120,0.0237836572713208,OBS_T
-Radial Distance from Sun,120,0.2717336147458256,OBS_T
-Electronic Box Temperature,120,0.7859267374119774,OBS_T
-Outboard Sensor Temperature,120,-1.2979704686156814,OBS_T
-Inboard Sensor Temperature,120,-0.410128449407541,OBS_T
-Search Coil Magnetometer's Temperature,120,0.5022846691345306,OBS_T
-High Gain Antenna Azimuth,120,-25.56322642935462,OBS_T
-Heater Dutycycle,120,-0.0156539181529614,OBS_T
-2.5V_PCU_ELB,130,0.0918387971639003,OBS_T
-Radial Distance from Sun,130,0.2444074297746618,OBS_T
-Electronic Box Temperature,130,0.0743090976127949,OBS_T
-Outboard Sensor Temperature,130,-0.9653032108151371,OBS_T
-Inboard Sensor Temperature,130,-1.0948531182732626,OBS_T
-Search Coil Magnetometer's Temperature,130,1.180002905145227,OBS_T
-High Gain Antenna Azimuth,130,-19.35341014837441,OBS_T
-Heater Dutycycle,130,0.1641810796745734,OBS_T
-2.5V_PCU_ELB,140,0.2095194585247006,OBS_T
-Radial Distance from Sun,140,0.1903005345216805,OBS_T
-Electronic Box Temperature,140,0.000345400465026,OBS_T
-Outboard Sensor Temperature,140,-0.8443080796632774,OBS_T
-Inboard Sensor Temperature,140,1.4471951849500724,OBS_T
-Search Coil Magnetometer's Temperature,140,0.3266584430573535,OBS_T
-High Gain Antenna Azimuth,140,-22.621055776291733,OBS_T
-Heater Dutycycle,140,-0.1003624255743688,OBS_T
-2.5V_PCU_ELB,150,-1.1099881183330915,OBS_T
-Radial Distance from Sun,150,0.1419876687943478,OBS_T
-Electronic Box Temperature,150,0.3778068251289305,OBS_T
-Outboard Sensor Temperature,150,-1.3988079558276394,OBS_T
-Inboard Sensor Temperature,150,-0.5757310301837956,OBS_T
-Search Coil Magnetometer's Temperature,150,0.179883687846334,OBS_T
-High Gain Antenna Azimuth,150,0.2331537220249293,OBS_T
-Heater Dutycycle,150,0.0485978159709423,OBS_T
-2.5V_PCU_ELB,160,-0.092758792532266,OBS_T
-Radial Distance from Sun,160,0.1206501692486071,OBS_T
-Electronic Box Temperature,160,0.07048309479537,OBS_T
-Outboard Sensor Temperature,160,-0.9951776880327644,OBS_T
-Inboard Sensor Temperature,160,-0.0741672049697339,OBS_T
-Search Coil Magnetometer's Temperature,160,-0.4412627755081361,OBS_T
-High Gain Antenna Azimuth,160,-34.47878228238514,OBS_T
-Heater Dutycycle,160,-0.2823717324912495,OBS_T
-2.5V_PCU_ELB,170,-0.3663414083135513,OBS_T
-Radial Distance from Sun,170,0.1181425806636829,OBS_T
-Electronic Box Temperature,170,-0.1764925068026402,OBS_T
-Outboard Sensor Temperature,170,-0.5717513438095808,OBS_T
-Inboard Sensor Temperature,170,-0.2811456887525395,OBS_T
-Search Coil Magnetometer's Temperature,170,0.2474746948925437,OBS_T
-High Gain Antenna Azimuth,170,-1.5948091953162629,OBS_T
-Heater Dutycycle,170,-0.023012476209413,OBS_T
-2.5V_PCU_ELB,180,0.5911575850538413,OBS_T
-Radial Distance from Sun,180,0.1241696773762708,OBS_T
-Electronic Box Temperature,180,0.1359912945535408,OBS_T
-Outboard Sensor Temperature,180,-0.7053019013282104,OBS_T
-Inboard Sensor Temperature,180,-0.7612908782624513,OBS_T
-Search Coil Magnetometer's Temperature,180,0.0587495943944381,OBS_T
-High Gain Antenna Azimuth,180,-19.15400606916181,OBS_T
-Heater Dutycycle,180,0.2332227057454091,OBS_T
+Feature,Duration,ATE,Normalized_ATE,Sum_Normalized_ATE,Type
+2.5V_PCU_ELB,10,0.1847859202202824,0.002646436846017137,1.0,IBS_N
+Radial Distance from Sun,10,0.0406534196167405,0.0005822235128200479,1.0,IBS_N
+Electronic Box Temperature,10,0.4994637854824195,0.007153138959809078,1.0,IBS_N
+Outboard Sensor Temperature,10,1.2995007319350576,0.01861097758054025,1.0,IBS_N
+Inboard Sensor Temperature,10,0.5073998415693244,0.0072667962731769314,1.0,IBS_N
+Search Coil Magnetometer's Temperature,10,-0.7114569614813285,-0.010189228243012645,1.0,IBS_N
+Solar Array's Angle,10,59.70888451308279,0.8551289612413893,1.0,IBS_N
+High Gain Antenna Azimuth,10,7.624127808449407,0.10918998983781752,1.0,IBS_N
+Heater Dutycycle,10,-0.1495178988932403,-0.0021413410518422416,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,10,0.8205797395323569,0.011752045043284714,1.0,IBS_N
+2.5V_PCU_ELB,20,0.2457493883121678,0.010959820225196606,1.0,IBS_N
+Radial Distance from Sun,20,-0.0065833900329027,-0.00029360305524468424,1.0,IBS_N
+Electronic Box Temperature,20,0.4327125370833612,0.019297918290637494,1.0,IBS_N
+Outboard Sensor Temperature,20,0.0704009881687523,0.0031397114731598094,1.0,IBS_N
+Inboard Sensor Temperature,20,-0.7617313398277439,-0.03397135025136036,1.0,IBS_N
+Search Coil Magnetometer's Temperature,20,0.0140441483962795,0.0006263345870211691,1.0,IBS_N
+Solar Array's Angle,20,22.59661577198949,1.0077536642502598,1.0,IBS_N
+High Gain Antenna Azimuth,20,-1.1534166937283614,-0.05143955675668141,1.0,IBS_N
+Heater Dutycycle,20,0.006730433549842,0.00030016083559971914,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,20,0.9782353968685183,0.043626900401411796,1.0,IBS_N
+2.5V_PCU_ELB,30,0.2187093348563266,0.011613324330469577,0.9999999999999999,IBS_N
+Radial Distance from Sun,30,-0.0038363947890085,-0.00020371008385968906,0.9999999999999999,IBS_N
+Electronic Box Temperature,30,-0.2266059084209427,-0.012032627283247251,0.9999999999999999,IBS_N
+Outboard Sensor Temperature,30,0.1267363166704624,0.006729616506355546,0.9999999999999999,IBS_N
+Inboard Sensor Temperature,30,-0.5913526532422383,-0.03140044369984131,0.9999999999999999,IBS_N
+Search Coil Magnetometer's Temperature,30,-0.8007851580431101,-0.04252117434992035,0.9999999999999999,IBS_N
+Solar Array's Angle,30,23.76739292896216,1.2620332038185176,0.9999999999999999,IBS_N
+High Gain Antenna Azimuth,30,-4.761119008886006,-0.25281234229201716,0.9999999999999999,IBS_N
+Heater Dutycycle,30,-0.0564782573267499,-0.0029989589625250192,0.9999999999999999,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,30,1.1599597305159206,0.06159311201606811,0.9999999999999999,IBS_N
+2.5V_PCU_ELB,40,0.5569693376782441,0.039371384935478024,1.0000000000000002,IBS_N
+Radial Distance from Sun,40,0.0685993137302719,0.004849189721004737,1.0000000000000002,IBS_N
+Electronic Box Temperature,40,-0.0227150116846666,-0.0016056924651883277,1.0000000000000002,IBS_N
+Outboard Sensor Temperature,40,-0.1333091166053927,-0.009423435349526346,1.0000000000000002,IBS_N
+Inboard Sensor Temperature,40,-3.0467692554709607,-0.21537186529292235,1.0000000000000002,IBS_N
+Search Coil Magnetometer's Temperature,40,-1.2782366778354537,-0.0903567663015214,1.0000000000000002,IBS_N
+Solar Array's Angle,40,16.455211852563508,1.163195953915121,1.0000000000000002,IBS_N
+High Gain Antenna Azimuth,40,0.4298389729942548,0.030384716933562702,1.0000000000000002,IBS_N
+Heater Dutycycle,40,0.1014454559578862,0.007171037660928372,1.0000000000000002,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,40,1.015516960440677,0.07178547624306368,1.0000000000000002,IBS_N
+2.5V_PCU_ELB,50,-0.6605928278684242,-0.01146658795895667,1.0,IBS_N
+Radial Distance from Sun,50,0.1701651202542218,0.0029537307046423353,1.0,IBS_N
+Electronic Box Temperature,50,0.8811935139751922,0.015295780563441433,1.0,IBS_N
+Outboard Sensor Temperature,50,-0.2402075503123361,-0.0041695290773131445,1.0,IBS_N
+Inboard Sensor Temperature,50,-1.525664143637771,-0.02648251897511255,1.0,IBS_N
+Search Coil Magnetometer's Temperature,50,-1.5523674471058329,-0.026946035630295236,1.0,IBS_N
+Solar Array's Angle,50,53.89781281094135,0.9355596750667987,1.0,IBS_N
+High Gain Antenna Azimuth,50,5.813241675486127,0.1009064043485364,1.0,IBS_N
+Heater Dutycycle,50,-0.1767256073525387,-0.003067607815008775,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,50,1.0033795345240504,0.017416688773267516,1.0,IBS_N
+2.5V_PCU_ELB,60,0.272598742350181,0.0050524024523535506,1.0,IBS_N
+Radial Distance from Sun,60,0.2429288597512365,0.004502494604974776,1.0,IBS_N
+Electronic Box Temperature,60,0.5767069055168683,0.0106888071404953,1.0,IBS_N
+Outboard Sensor Temperature,60,-0.7520239168723317,-0.013938169520068471,1.0,IBS_N
+Inboard Sensor Temperature,60,-0.8440598101547225,-0.01564398213283232,1.0,IBS_N
+Search Coil Magnetometer's Temperature,60,-0.8907089163117103,-0.016508586482491785,1.0,IBS_N
+Solar Array's Angle,60,56.13624606529682,1.0404409970530433,1.0,IBS_N
+High Gain Antenna Azimuth,60,-2.290842458704468,-0.04245895618053062,1.0,IBS_N
+Heater Dutycycle,60,0.2110721514033989,0.003912055669002849,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,60,1.2923635184119442,0.023952937396053375,1.0,IBS_N
+2.5V_PCU_ELB,70,-1.4757887550668851,-0.047444533905555954,0.9999999999999998,IBS_N
+Radial Distance from Sun,70,0.1489960102992804,0.004790012282019585,0.9999999999999998,IBS_N
+Electronic Box Temperature,70,1.2547107374703534,0.04033718641722497,0.9999999999999998,IBS_N
+Outboard Sensor Temperature,70,-1.456718094367623,-0.04683143897239495,0.9999999999999998,IBS_N
+Inboard Sensor Temperature,70,-0.094530170230117,-0.0030390120884052256,0.9999999999999998,IBS_N
+Search Coil Magnetometer's Temperature,70,-0.8320564724161224,-0.02674944593617998,0.9999999999999998,IBS_N
+Solar Array's Angle,70,42.54200210292894,1.3676655647719502,0.9999999999999998,IBS_N
+High Gain Antenna Azimuth,70,-8.254473826065986,-0.2653697298944134,0.9999999999999998,IBS_N
+Heater Dutycycle,70,0.2823940807736145,0.009078572725257578,0.9999999999999998,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,70,-1.008976477585609,-0.03243717539950308,0.9999999999999998,IBS_N
+2.5V_PCU_ELB,80,-0.9999030590137692,0.09100805508525207,1.0000000000000002,IBS_N
+Radial Distance from Sun,80,0.0949512276215294,-0.008642164333726136,1.0000000000000002,IBS_N
+Electronic Box Temperature,80,0.67717567906337,-0.06163441640370409,1.0000000000000002,IBS_N
+Outboard Sensor Temperature,80,0.3254152288122084,-0.02961827829442969,1.0000000000000002,IBS_N
+Inboard Sensor Temperature,80,0.5162865698564538,-0.046990791922984776,1.0000000000000002,IBS_N
+Search Coil Magnetometer's Temperature,80,-0.3206394275889807,0.029183599775465644,1.0000000000000002,IBS_N
+Solar Array's Angle,80,-8.067659581967767,0.7342931907508782,1.0000000000000002,IBS_N
+High Gain Antenna Azimuth,80,-3.7759691972188656,0.3436769290811595,1.0000000000000002,IBS_N
+Heater Dutycycle,80,0.2205004861684627,-0.02006926592597611,1.0000000000000002,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,80,0.3428689093413848,-0.0312068578119345,1.0000000000000002,IBS_N
+2.5V_PCU_ELB,90,-0.4581092447478783,-0.15387346137559987,0.9999999999999996,IBS_N
+Radial Distance from Sun,90,0.0514368917169726,0.017277041800910203,0.9999999999999996,IBS_N
+Electronic Box Temperature,90,0.6611916304915807,0.22208642585309307,0.9999999999999996,IBS_N
+Outboard Sensor Temperature,90,-0.5122186704727986,-0.17204817564909516,0.9999999999999996,IBS_N
+Inboard Sensor Temperature,90,0.7523360273990934,0.252700747650657,0.9999999999999996,IBS_N
+Search Coil Magnetometer's Temperature,90,1.0736445500206218,0.36062446914740326,0.9999999999999996,IBS_N
+Solar Array's Angle,90,13.713280547650058,4.606128273711003,0.9999999999999996,IBS_N
+High Gain Antenna Azimuth,90,-13.922600567770514,-4.676436385586962,0.9999999999999996,IBS_N
+Heater Dutycycle,90,-0.0963424627143325,-0.03236029044439551,0.9999999999999996,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,90,1.7145629426981952,0.5759013548929859,0.9999999999999996,IBS_N
+2.5V_PCU_ELB,100,0.3466405258283123,-0.005625939795034195,1.0,IBS_N
+Radial Distance from Sun,100,-0.0158376946138471,0.0002570441415547946,1.0,IBS_N
+Electronic Box Temperature,100,-0.0177335921201454,0.00028781436151826347,1.0,IBS_N
+Outboard Sensor Temperature,100,0.7036773209310274,-0.011420609962522655,1.0,IBS_N
+Inboard Sensor Temperature,100,-0.8241373423927273,0.01337566362173534,1.0,IBS_N
+Search Coil Magnetometer's Temperature,100,0.0939432952277384,-0.00152468994164909,1.0,IBS_N
+Solar Array's Angle,100,-41.64664085559995,0.6759206632263879,1.0,IBS_N
+High Gain Antenna Azimuth,100,-21.284791382589063,0.34544995736481837,1.0,IBS_N
+Heater Dutycycle,100,0.3534546339157903,-0.0057365320628176624,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,100,0.6767369757883656,-0.010983370953991016,1.0,IBS_N
+2.5V_PCU_ELB,110,-0.4161867165188121,0.021014697742218574,0.9999999999999999,IBS_N
+Radial Distance from Sun,110,-0.0101527963390532,0.0005126495821109713,0.9999999999999999,IBS_N
+Electronic Box Temperature,110,-0.4596863579419367,0.02321114414504492,0.9999999999999999,IBS_N
+Outboard Sensor Temperature,110,0.4917366557830235,-0.0248294738392558,0.9999999999999999,IBS_N
+Inboard Sensor Temperature,110,-1.933484995074698,0.09762830274947795,0.9999999999999999,IBS_N
+Search Coil Magnetometer's Temperature,110,-0.6118099819256825,0.030892388765750706,0.9999999999999999,IBS_N
+Solar Array's Angle,110,-8.44423511298017,0.4263784535167549,0.9999999999999999,IBS_N
+High Gain Antenna Azimuth,110,-7.152864952764285,0.3611727357147776,0.9999999999999999,IBS_N
+Heater Dutycycle,110,0.2517884134589342,-0.01271366238713938,0.9999999999999999,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,110,-1.5196581694670284,0.07673276401025948,0.9999999999999999,IBS_N
+2.5V_PCU_ELB,120,-1.9097993995838696,0.024605263537967662,1.0,IBS_N
+Radial Distance from Sun,120,0.0008063534625256,-1.0388808088701995e-05,1.0,IBS_N
+Electronic Box Temperature,120,-0.5163142478551668,0.00665203274210477,1.0,IBS_N
+Outboard Sensor Temperature,120,0.4092218788711752,-0.005272287852494616,1.0,IBS_N
+Inboard Sensor Temperature,120,-0.8275040665640447,0.010661305915681379,1.0,IBS_N
+Search Coil Magnetometer's Temperature,120,-1.4351611586042208,0.018490171551319046,1.0,IBS_N
+Solar Array's Angle,120,-54.13145096937226,0.6974128367011709,1.0,IBS_N
+High Gain Antenna Azimuth,120,-17.50954975867192,0.22558761215295936,1.0,IBS_N
+Heater Dutycycle,120,-0.2798698943177873,0.0036057569750690987,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,120,-1.4178932434340072,0.018267697084311172,1.0,IBS_N
+2.5V_PCU_ELB,130,-1.6341893135895038,-0.19809067272150446,1.0,IBS_N
+Radial Distance from Sun,130,-0.0549052669722746,-0.006655423077392429,1.0,IBS_N
+Electronic Box Temperature,130,-0.4865988976057077,-0.058983804489906075,1.0,IBS_N
+Outboard Sensor Temperature,130,0.3275352558825301,0.039702670087388835,1.0,IBS_N
+Inboard Sensor Temperature,130,-0.1115853118018488,-0.013525978475599934,1.0,IBS_N
+Search Coil Magnetometer's Temperature,130,0.7950510357353304,0.09637328625702991,1.0,IBS_N
+Solar Array's Angle,130,14.601827976684342,1.7699821573987213,1.0,IBS_N
+High Gain Antenna Azimuth,130,-6.606161305892303,-0.8007756055610176,1.0,IBS_N
+Heater Dutycycle,130,-0.0639962820834731,-0.007757403909186702,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,130,1.482725597131234,0.17973077449146713,1.0,IBS_N
+2.5V_PCU_ELB,140,0.3576293354006599,0.011245593743252754,0.9999999999999999,IBS_N
+Radial Distance from Sun,140,-0.113917681896053,-0.003582122169426897,0.9999999999999999,IBS_N
+Electronic Box Temperature,140,-0.4903020562638587,-0.015417464929289566,0.9999999999999999,IBS_N
+Outboard Sensor Temperature,140,0.5253960637172552,0.016520990036371298,0.9999999999999999,IBS_N
+Inboard Sensor Temperature,140,-0.1479941801198559,-0.004653651871508642,0.9999999999999999,IBS_N
+Search Coil Magnetometer's Temperature,140,0.590866234939678,0.018579688456744802,0.9999999999999999,IBS_N
+Solar Array's Angle,140,36.63397358619678,1.1519490807147612,0.9999999999999999,IBS_N
+High Gain Antenna Azimuth,140,-7.868220181321642,-0.24741484795277352,0.9999999999999999,IBS_N
+Heater Dutycycle,140,0.1392672655560064,0.004379235524462672,0.9999999999999999,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,140,2.175031568266218,0.06839349844740582,0.9999999999999999,IBS_N
+2.5V_PCU_ELB,150,-0.2663295373080348,0.021673582871328246,1.0,IBS_N
+Radial Distance from Sun,150,-0.1636280115994204,0.013315854130625214,1.0,IBS_N
+Electronic Box Temperature,150,-0.0130483962694178,0.001061863061610272,1.0,IBS_N
+Outboard Sensor Temperature,150,0.5292284769086487,-0.04306798775713708,1.0,IBS_N
+Inboard Sensor Temperature,150,0.2625356702705817,-0.02136484245721512,1.0,IBS_N
+Search Coil Magnetometer's Temperature,150,-0.71568305913022,0.05824144121770521,1.0,IBS_N
+Solar Array's Angle,150,-17.51207968097304,1.4251123403405628,1.0,IBS_N
+High Gain Antenna Azimuth,150,4.550938083649078,-0.3703499607862547,1.0,IBS_N
+Heater Dutycycle,150,-0.3677179023515267,0.029924448149620857,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,150,1.4075743783618382,-0.11454673877084559,1.0,IBS_N
+2.5V_PCU_ELB,160,-2.54715967922595,-0.08913646831550921,1.0,IBS_N
+Radial Distance from Sun,160,-0.1990705443720302,-0.0069663654837536365,1.0,IBS_N
+Electronic Box Temperature,160,0.4054834850084552,0.014189674133386856,1.0,IBS_N
+Outboard Sensor Temperature,160,0.3040436925706166,0.010639843740611882,1.0,IBS_N
+Inboard Sensor Temperature,160,-1.203834912024471,-0.04212754833076736,1.0,IBS_N
+Search Coil Magnetometer's Temperature,160,-1.16324617492628,-0.04070716754042017,1.0,IBS_N
+Solar Array's Angle,160,36.15764907887187,1.2653172738905722,1.0,IBS_N
+High Gain Antenna Azimuth,160,-7.120614951532733,-0.24918204939830002,1.0,IBS_N
+Heater Dutycycle,160,0.0085998397510651,0.00030094671713797657,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,160,3.934104849320277,0.1376718605870414,1.0,IBS_N
+2.5V_PCU_ELB,170,-0.8756401302044491,0.016409615676112876,1.0000000000000002,IBS_N
+Radial Distance from Sun,170,-0.2287476985887779,0.004286763124664841,1.0000000000000002,IBS_N
+Electronic Box Temperature,170,0.4836881992329145,-0.009064382938490994,1.0000000000000002,IBS_N
+Outboard Sensor Temperature,170,0.410453049712883,-0.007691946230587046,1.0000000000000002,IBS_N
+Inboard Sensor Temperature,170,-0.4560177974177018,0.008545835827950002,1.0000000000000002,IBS_N
+Search Coil Magnetometer's Temperature,170,-0.3799972114613061,0.007121199660662771,1.0000000000000002,IBS_N
+Solar Array's Angle,170,-47.87075448950253,0.8971044795707106,1.0000000000000002,IBS_N
+High Gain Antenna Azimuth,170,-6.468037616062079,0.12121190863355975,1.0000000000000002,IBS_N
+Heater Dutycycle,170,0.0665981910732804,-0.001248059199824131,1.0000000000000002,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,170,1.9570515869091345,-0.0366754141247586,1.0000000000000002,IBS_N
+2.5V_PCU_ELB,180,-0.3057702176179984,0.05195279742598388,0.9999999999999998,IBS_N
+Radial Distance from Sun,180,-0.245524073877194,0.04171649735122317,0.9999999999999998,IBS_N
+Electronic Box Temperature,180,-0.4152672649152721,0.07055721861943562,0.9999999999999998,IBS_N
+Outboard Sensor Temperature,180,0.3313095050884281,-0.05629212595409068,0.9999999999999998,IBS_N
+Inboard Sensor Temperature,180,-0.2526043590560973,0.042919494243737095,0.9999999999999998,IBS_N
+Search Coil Magnetometer's Temperature,180,0.0185992621774701,-0.003160162908298856,0.9999999999999998,IBS_N
+Solar Array's Angle,180,1.88260161280218,-0.3198690212070709,0.9999999999999998,IBS_N
+High Gain Antenna Azimuth,180,-7.525965344893398,1.2787215054629528,0.9999999999999998,IBS_N
+Heater Dutycycle,180,-0.5142778680070876,0.08737990934950496,0.9999999999999998,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,180,1.1413597057936429,-0.1939261123833773,0.9999999999999998,IBS_N
+2.5V_PCU_ELB,190,-0.864741343672266,0.015902518048578493,1.0,IBS_N
+Radial Distance from Sun,190,-0.2456942696962932,0.004518296236057396,1.0,IBS_N
+Electronic Box Temperature,190,0.035181483996216,-0.0006469844287191143,1.0,IBS_N
+Outboard Sensor Temperature,190,-0.0949443786064261,0.0017460188592208568,1.0,IBS_N
+Inboard Sensor Temperature,190,-0.6545920409398451,0.012037890661380179,1.0,IBS_N
+Search Coil Magnetometer's Temperature,190,-1.0680890454062264,0.019642064585382955,1.0,IBS_N
+Solar Array's Angle,190,-37.26225343561019,0.685249597612713,1.0,IBS_N
+High Gain Antenna Azimuth,190,-15.680298585030169,0.2883593262658287,1.0,IBS_N
+Heater Dutycycle,190,-0.1224293427745545,0.002251464958157288,1.0,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,190,1.580224596587236,-0.029060192798599668,1.0,IBS_N
+2.5V_PCU_ELB,200,-1.1642416170003564,0.02105294614406015,0.9999999999999998,IBS_N
+Radial Distance from Sun,200,-0.2676731389722898,0.004840325321400548,0.9999999999999998,IBS_N
+Electronic Box Temperature,200,-0.0562997172450593,0.0010180660936514906,0.9999999999999998,IBS_N
+Outboard Sensor Temperature,200,-0.3514222605076437,0.006354758167255099,0.9999999999999998,IBS_N
+Inboard Sensor Temperature,200,-1.1427402836623417,0.020664138179990802,0.9999999999999998,IBS_N
+Search Coil Magnetometer's Temperature,200,-1.812576888107157,0.03277677335191534,0.9999999999999998,IBS_N
+Solar Array's Angle,200,-43.90903544197506,0.7940057672730024,0.9999999999999998,IBS_N
+High Gain Antenna Azimuth,200,-6.884139938817274,0.12448569546371852,0.9999999999999998,IBS_N
+Heater Dutycycle,200,-0.2272380757288694,0.004109139288909549,0.9999999999999998,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,200,0.5147168481289944,-0.009307609283904157,0.9999999999999998,IBS_N
+2.5V_PCU_ELB,210,-1.683916577770366,-1.5184829062938585,0.9999999999999992,IBS_N
+Radial Distance from Sun,210,-0.2550514211423562,-0.22999430514748362,0.9999999999999992,IBS_N
+Electronic Box Temperature,210,-0.3770151360273092,-0.33997589134109285,0.9999999999999992,IBS_N
+Outboard Sensor Temperature,210,-0.4947833206164,-0.44617413035396447,0.9999999999999992,IBS_N
+Inboard Sensor Temperature,210,-0.4549311572248493,-0.4102371785549473,0.9999999999999992,IBS_N
+Search Coil Magnetometer's Temperature,210,-1.8203380991902411,-1.6415019151101795,0.9999999999999992,IBS_N
+Solar Array's Angle,210,1.9324886485089543,1.7426344143800785,0.9999999999999992,IBS_N
+High Gain Antenna Azimuth,210,3.0206580223477686,2.723898341073282,0.9999999999999992,IBS_N
+Heater Dutycycle,210,-0.2066099800638367,-0.18631191541095124,0.9999999999999992,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,210,1.4484457013097134,1.306145486759116,0.9999999999999992,IBS_N
+2.5V_PCU_ELB,220,-2.5497772320346983,0.07720190831461742,1.0000000000000002,IBS_N
+Radial Distance from Sun,220,-0.2509689274982121,0.007598812902989781,1.0000000000000002,IBS_N
+Electronic Box Temperature,220,-0.7814001117784781,0.023659156976005555,1.0000000000000002,IBS_N
+Outboard Sensor Temperature,220,-0.675234429061218,0.02044468270730397,1.0000000000000002,IBS_N
+Inboard Sensor Temperature,220,-1.399698879144018,0.042379947227593216,1.0000000000000002,IBS_N
+Search Coil Magnetometer's Temperature,220,-3.143885947198893,0.0951902745062868,1.0000000000000002,IBS_N
+Solar Array's Angle,220,-29.961052704568367,0.9071578547517716,1.0000000000000002,IBS_N
+High Gain Antenna Azimuth,220,4.8919473467051295,-0.14811790841778363,1.0000000000000002,IBS_N
+Heater Dutycycle,220,-0.1269122464232963,0.0038426367171515,1.0000000000000002,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,220,0.9695970508068807,-0.029357365685935968,1.0000000000000002,IBS_N
+2.5V_PCU_ELB,230,-1.1859318519878277,-2.549584040287114,0.9999999999999982,IBS_N
+Radial Distance from Sun,230,-0.2359725722497795,-0.5073073154626011,0.9999999999999982,IBS_N
+Electronic Box Temperature,230,-0.764485587942133,-1.6435347872474368,0.9999999999999982,IBS_N
+Outboard Sensor Temperature,230,-0.4869024679785103,-1.046770739358773,0.9999999999999982,IBS_N
+Inboard Sensor Temperature,230,-2.810218124678865,-6.0415674546536735,0.9999999999999982,IBS_N
+Search Coil Magnetometer's Temperature,230,-2.671838939660418,-5.74407197796199,0.9999999999999982,IBS_N
+Solar Array's Angle,230,6.832546125869023,14.688997962102135,0.9999999999999982,IBS_N
+High Gain Antenna Azimuth,230,-0.7603156928035757,-1.6345701084784872,0.9999999999999982,IBS_N
+Heater Dutycycle,230,-0.2930202440361341,-0.6299516590462829,0.9999999999999982,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,230,2.841286545460152,6.108360120394223,0.9999999999999982,IBS_N
+2.5V_PCU_ELB,240,0.0053380324248696,-4.9006356612033555e-05,1.0000000000000002,IBS_N
+Radial Distance from Sun,240,-0.2387500921986949,0.002191869817975291,1.0000000000000002,IBS_N
+Electronic Box Temperature,240,0.6684751476626936,-0.006137004960856905,1.0000000000000002,IBS_N
+Outboard Sensor Temperature,240,-0.3591209461384229,0.003296946843431804,1.0000000000000002,IBS_N
+Inboard Sensor Temperature,240,-1.1337074380727648,0.01040811793219223,1.0000000000000002,IBS_N
+Search Coil Magnetometer's Temperature,240,-3.1525385889943127,0.028942205297530846,1.0000000000000002,IBS_N
+Solar Array's Angle,240,-109.28270326548878,1.0032811158666604,1.0000000000000002,IBS_N
+High Gain Antenna Azimuth,240,3.368205476840721,-0.03092215737986888,1.0000000000000002,IBS_N
+Heater Dutycycle,240,0.5706818779551058,-0.0052392037734345755,1.0000000000000002,IBS_N
+Outboard Sensor minus Inboard Sensor Temp.,240,0.628813082658818,-0.005772883287018053,1.0000000000000002,IBS_N
+2.5V_PCU_ELB,10,-0.2644565207125722,-2.3272880782968945,0.9999999999999929,IBS_R
+Radial Distance from Sun,10,-0.2649006989797552,-2.331196965788374,0.9999999999999929,IBS_R
+Electronic Box Temperature,10,-1.1364884691832442,-10.001402341395593,0.9999999999999929,IBS_R
+Outboard Sensor Temperature,10,0.6333551008031354,5.57369419916743,0.9999999999999929,IBS_R
+Inboard Sensor Temperature,10,-1.1178772208916754,-9.837618381164688,0.9999999999999929,IBS_R
+Search Coil Magnetometer's Temperature,10,1.1930684943314198,10.499321687994739,0.9999999999999929,IBS_R
+Solar Array's Angle,10,14.764767225993628,129.9338985905751,0.9999999999999929,IBS_R
+High Gain Antenna Azimuth,10,-16.115016889158667,-141.81645658287272,0.9999999999999929,IBS_R
+Heater Dutycycle,10,-0.1093181549140873,-0.9620289867969727,0.9999999999999929,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,10,2.530500044416544,22.26907685857796,0.9999999999999929,IBS_R
+2.5V_PCU_ELB,20,-0.1538484961691741,0.0058985464966435685,1.0,IBS_R
+Radial Distance from Sun,20,-0.2555350601355898,0.00979720615582068,1.0,IBS_R
+Electronic Box Temperature,20,-0.4709791560856429,0.01805732600769969,1.0,IBS_R
+Outboard Sensor Temperature,20,0.3683419650111079,-0.014122219335143613,1.0,IBS_R
+Inboard Sensor Temperature,20,-1.6082251428226368,0.06165930131406296,1.0,IBS_R
+Search Coil Magnetometer's Temperature,20,1.931973252775456,-0.07407179365105211,1.0,IBS_R
+Solar Array's Angle,20,-18.161381216389024,0.6963067837227523,1.0,IBS_R
+High Gain Antenna Azimuth,20,-8.733216415810919,0.33483124227140204,1.0,IBS_R
+Heater Dutycycle,20,-0.1382466939799146,0.005300373892189981,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,20,1.1386750846251308,-0.04365676687437549,1.0,IBS_R
+2.5V_PCU_ELB,30,-0.9829948078659444,-0.030830044678248007,1.0,IBS_R
+Radial Distance from Sun,30,-0.3613493847020144,-0.011333139896238192,1.0,IBS_R
+Electronic Box Temperature,30,-0.413103721135665,-0.01295633107870894,1.0,IBS_R
+Outboard Sensor Temperature,30,-0.5133577685410995,-0.016100637372040094,1.0,IBS_R
+Inboard Sensor Temperature,30,-1.8161459003064464,-0.05696048320969419,1.0,IBS_R
+Search Coil Magnetometer's Temperature,30,0.9449378625956202,0.029636450049249984,1.0,IBS_R
+Solar Array's Angle,30,37.6473338042505,1.1807478268595752,1.0,IBS_R
+High Gain Antenna Azimuth,30,-5.475513021988242,-0.17173062334958714,1.0,IBS_R
+Heater Dutycycle,30,-0.1391677795186783,-0.004364772658004255,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,30,2.9936741564166733,0.09389175533369569,1.0,IBS_R
+2.5V_PCU_ELB,40,0.2044634610841359,-0.012891701980735169,1.0000000000000002,IBS_R
+Radial Distance from Sun,40,-0.3996773708983432,0.025200207052862876,1.0000000000000002,IBS_R
+Electronic Box Temperature,40,-0.1276402295881856,0.008047891744952842,1.0000000000000002,IBS_R
+Outboard Sensor Temperature,40,-0.2377094461144824,0.014987906988684454,1.0000000000000002,IBS_R
+Inboard Sensor Temperature,40,-2.730812902849612,0.172181503345465,1.0000000000000002,IBS_R
+Search Coil Magnetometer's Temperature,40,1.5391033022685878,-0.09704257663058549,1.0000000000000002,IBS_R
+Solar Array's Angle,40,-2.18913649641494,0.13802806211579785,1.0000000000000002,IBS_R
+High Gain Antenna Azimuth,40,-14.16461352060291,0.8930983326393122,1.0000000000000002,IBS_R
+Heater Dutycycle,40,-0.1984034267427126,0.012509608494161046,1.0000000000000002,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,40,2.4443438114937663,-0.15411923376991538,1.0000000000000002,IBS_R
+2.5V_PCU_ELB,50,0.0052507495091375,0.0003451494790428574,0.9999999999999999,IBS_R
+Radial Distance from Sun,50,-0.4177017721578639,-0.02745694663298586,0.9999999999999999,IBS_R
+Electronic Box Temperature,50,-0.1935926958422368,-0.012725500997556845,0.9999999999999999,IBS_R
+Outboard Sensor Temperature,50,-0.955055977877973,-0.06277905138070394,0.9999999999999999,IBS_R
+Inboard Sensor Temperature,50,-1.029353733679267,-0.06766289351871566,0.9999999999999999,IBS_R
+Search Coil Magnetometer's Temperature,50,1.3171222191962342,0.08657888688086107,0.9999999999999999,IBS_R
+Solar Array's Angle,50,18.839408011185636,1.2383778447669,0.9999999999999999,IBS_R
+High Gain Antenna Azimuth,50,-2.017107620492862,-0.1325912887626683,0.9999999999999999,IBS_R
+Heater Dutycycle,50,-0.0676521192094201,-0.004447002025261756,0.9999999999999999,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,50,-0.268344629966026,-0.017639197808911666,0.9999999999999999,IBS_R
+2.5V_PCU_ELB,60,0.8083469783107297,-0.043277955603789546,1.0,IBS_R
+Radial Distance from Sun,60,-0.4368954164845241,0.023390871674475587,1.0,IBS_R
+Electronic Box Temperature,60,0.4106165512988305,-0.021983931843759425,1.0,IBS_R
+Outboard Sensor Temperature,60,0.4112933633485262,-0.022020167572505578,1.0,IBS_R
+Inboard Sensor Temperature,60,1.2645499249039085,-0.0677025299496197,1.0,IBS_R
+Search Coil Magnetometer's Temperature,60,1.317882854912528,-0.07055791289662665,1.0,IBS_R
+Solar Array's Angle,60,-9.098141242063663,0.487103883995321,1.0,IBS_R
+High Gain Antenna Azimuth,60,-10.952839955961368,0.5864022926640987,1.0,IBS_R
+Heater Dutycycle,60,-0.0820981289175713,0.004395438189023636,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,60,-2.32074551173351,0.12425001134338196,1.0,IBS_R
+2.5V_PCU_ELB,70,-1.2866033193149435,0.07073952676788568,1.0,IBS_R
+Radial Distance from Sun,70,-0.4393552847510663,0.02415646257061472,1.0,IBS_R
+Electronic Box Temperature,70,0.5290148719994341,-0.029086091366792993,1.0,IBS_R
+Outboard Sensor Temperature,70,0.3649045571556703,-0.020063041421641385,1.0,IBS_R
+Inboard Sensor Temperature,70,-0.7820907581811043,0.04300061199338898,1.0,IBS_R
+Search Coil Magnetometer's Temperature,70,1.1111246997867656,-0.061091429085443315,1.0,IBS_R
+Solar Array's Angle,70,-4.901196934867036,0.2694757168458978,1.0,IBS_R
+High Gain Antenna Azimuth,70,-11.41761084229535,0.6277586694194943,1.0,IBS_R
+Heater Dutycycle,70,-0.0435139246423073,0.002392465797965788,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,70,-1.3225713743686531,0.0727171084786304,1.0,IBS_R
+2.5V_PCU_ELB,80,-0.546385905145982,0.024390331122041035,1.0000000000000002,IBS_R
+Radial Distance from Sun,80,-0.3765106514592106,0.01680720416389947,1.0000000000000002,IBS_R
+Electronic Box Temperature,80,0.1844709018302394,-0.00823466772412248,1.0000000000000002,IBS_R
+Outboard Sensor Temperature,80,0.3761519250958379,-0.016791190839429603,1.0000000000000002,IBS_R
+Inboard Sensor Temperature,80,0.1860345396396627,-0.008304467555281353,1.0000000000000002,IBS_R
+Search Coil Magnetometer's Temperature,80,0.7535355069499017,-0.033637362079852164,1.0000000000000002,IBS_R
+Solar Array's Angle,80,-6.0009337611143625,0.26787799629624237,1.0000000000000002,IBS_R
+High Gain Antenna Azimuth,80,-16.047626116878256,0.7163561706607332,1.0000000000000002,IBS_R
+Heater Dutycycle,80,-0.0647807404507487,0.00289177245431068,1.0000000000000002,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,80,-0.8656977007404528,0.03864421350145897,1.0000000000000002,IBS_R
+2.5V_PCU_ELB,90,-0.8278632607100616,-0.14590544301746047,1.0,IBS_R
+Radial Distance from Sun,90,-0.3236077539019597,-0.05703373363428798,1.0,IBS_R
+Electronic Box Temperature,90,-0.0832573975205638,-0.014673567539764404,1.0,IBS_R
+Outboard Sensor Temperature,90,0.5629867177467811,0.09922269819696533,1.0,IBS_R
+Inboard Sensor Temperature,90,0.0098248981747844,0.001731573544601838,1.0,IBS_R
+Search Coil Magnetometer's Temperature,90,1.3591202507074285,0.23953598583826996,1.0,IBS_R
+Solar Array's Angle,90,17.054121629479848,3.0056765286198313,1.0,IBS_R
+High Gain Antenna Azimuth,90,-12.726841257177496,-2.2430218853397266,1.0,IBS_R
+Heater Dutycycle,90,-0.0981854430405601,-0.017304537167661317,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,90,0.7476726730377485,0.13177238049923254,1.0,IBS_R
+2.5V_PCU_ELB,100,0.1917076904205764,-0.007042739965303233,1.0,IBS_R
+Radial Distance from Sun,100,-0.2653783937307309,0.009749170809763159,1.0,IBS_R
+Electronic Box Temperature,100,-0.0881826338373221,0.0032395537091356626,1.0,IBS_R
+Outboard Sensor Temperature,100,-0.2303120847847817,0.008460944474619748,1.0,IBS_R
+Inboard Sensor Temperature,100,-0.9682563093257603,0.03557070345683756,1.0,IBS_R
+Search Coil Magnetometer's Temperature,100,1.4465274050180312,-0.05314088518763678,1.0,IBS_R
+Solar Array's Angle,100,-14.308920524134102,0.5256649131528562,1.0,IBS_R
+High Gain Antenna Azimuth,100,-14.07866203185053,0.5172059374988367,1.0,IBS_R
+Heater Dutycycle,100,-0.1421578665376923,0.005222434665249036,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,100,1.2230229747874666,-0.044930032614357976,1.0,IBS_R
+2.5V_PCU_ELB,110,0.4563865155012455,-0.012776260596310249,1.0,IBS_R
+Radial Distance from Sun,110,-0.1608461418841276,0.004502789093945303,1.0,IBS_R
+Electronic Box Temperature,110,-0.4028548907803234,0.011277675593580215,1.0,IBS_R
+Outboard Sensor Temperature,110,-0.4001609942128676,0.011202261611360518,1.0,IBS_R
+Inboard Sensor Temperature,110,-0.4297227320437213,0.012029824331507887,1.0,IBS_R
+Search Coil Magnetometer's Temperature,110,0.3824632302233996,-0.010706823562641873,1.0,IBS_R
+Solar Array's Angle,110,-10.789282053233,0.3020393339356275,1.0,IBS_R
+High Gain Antenna Azimuth,110,-24.80457956558521,0.6943889921107099,1.0,IBS_R
+Heater Dutycycle,110,-0.2599425295608787,0.007276931690425467,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,110,0.6870921809895748,-0.019234724208204653,1.0,IBS_R
+2.5V_PCU_ELB,120,-0.8567760743037585,0.055408631284847756,1.0000000000000002,IBS_R
+Radial Distance from Sun,120,-0.1074322253364381,0.006947757693414461,1.0000000000000002,IBS_R
+Electronic Box Temperature,120,-0.0594052051460976,0.00384179858315451,1.0000000000000002,IBS_R
+Outboard Sensor Temperature,120,-0.6072460338677327,0.03927125488081078,1.0000000000000002,IBS_R
+Inboard Sensor Temperature,120,-1.7574230089813596,0.1136544383493514,1.0000000000000002,IBS_R
+Search Coil Magnetometer's Temperature,120,1.5288495355092844,-0.0988723456964922,1.0000000000000002,IBS_R
+Solar Array's Angle,120,-2.2487053887275548,0.14542619885074065,1.0000000000000002,IBS_R
+High Gain Antenna Azimuth,120,-11.87863394544816,0.7682040479315076,1.0000000000000002,IBS_R
+Heater Dutycycle,120,-0.0157920376337942,0.0010212880783329594,1.0000000000000002,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,120,0.539701388832975,-0.03490306995566785,1.0000000000000002,IBS_R
+2.5V_PCU_ELB,130,-1.2851973019064813,0.04351271397225548,1.0,IBS_R
+Radial Distance from Sun,130,-0.0611869445621755,0.0020715963328126626,1.0,IBS_R
+Electronic Box Temperature,130,-0.0623066262984845,0.00210950521346445,1.0,IBS_R
+Outboard Sensor Temperature,130,-0.3566395385337028,0.01207468628232726,1.0,IBS_R
+Inboard Sensor Temperature,130,-1.2383309248343513,0.04192596674097016,1.0,IBS_R
+Search Coil Magnetometer's Temperature,130,0.5513256369047791,-0.018666141539997464,1.0,IBS_R
+Solar Array's Angle,130,-7.304286827906888,0.2473000394900867,1.0,IBS_R
+High Gain Antenna Azimuth,130,-20.064002896858582,0.67930365080477,1.0,IBS_R
+Heater Dutycycle,130,-0.0900556210001055,0.0030489983696344336,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,130,0.3745481637891982,-0.012681015666323575,1.0,IBS_R
+2.5V_PCU_ELB,140,-0.0392861030871079,-0.0010523158419876784,0.9999999999999999,IBS_R
+Radial Distance from Sun,140,-0.0071132939308182,-0.0001905363806513864,0.9999999999999999,IBS_R
+Electronic Box Temperature,140,-0.4112277158907164,-0.011015127642889507,0.9999999999999999,IBS_R
+Outboard Sensor Temperature,140,-1.1578723210808717,-0.031014717437634835,0.9999999999999999,IBS_R
+Inboard Sensor Temperature,140,-0.7919057682978138,-0.02121195333356135,0.9999999999999999,IBS_R
+Search Coil Magnetometer's Temperature,140,0.2589431232676293,0.006936039193913195,0.9999999999999999,IBS_R
+Solar Array's Angle,140,43.68908406730869,1.1702538982810806,0.9999999999999999,IBS_R
+High Gain Antenna Azimuth,140,-2.682770039553995,-0.0718605611448139,0.9999999999999999,IBS_R
+Heater Dutycycle,140,-0.1318732744000047,-0.003532351770248563,0.9999999999999999,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,140,-1.3929827052712729,-0.03731237392320667,0.9999999999999999,IBS_R
+2.5V_PCU_ELB,150,-0.3997030399594709,-0.04299885103139377,1.0000000000000004,IBS_R
+Radial Distance from Sun,150,0.0463143012516568,0.004982353249915275,1.0000000000000004,IBS_R
+Electronic Box Temperature,150,-0.0722820355159243,-0.007775884010565175,1.0000000000000004,IBS_R
+Outboard Sensor Temperature,150,-0.9694889791212428,-0.10429470887696855,1.0000000000000004,IBS_R
+Inboard Sensor Temperature,150,-1.3588023974953325,-0.146175875662409,1.0000000000000004,IBS_R
+Search Coil Magnetometer's Temperature,150,-0.5933932761319691,-0.0638354641636362,1.0000000000000004,IBS_R
+Solar Array's Angle,150,32.81378068111547,3.5300078463931097,1.0000000000000004,IBS_R
+High Gain Antenna Azimuth,150,-18.47063154542568,-1.9870149958280359,1.0000000000000004,IBS_R
+Heater Dutycycle,150,0.0401373791345814,0.0043178585441167455,1.0000000000000004,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,150,-1.7402631718037072,-0.1872122786141331,1.0000000000000004,IBS_R
+2.5V_PCU_ELB,160,-0.5256753283418737,-0.03084694027137663,0.9999999999999999,IBS_R
+Radial Distance from Sun,160,0.0809242094654828,0.004748680642411033,0.9999999999999999,IBS_R
+Electronic Box Temperature,160,-0.9372738466155752,-0.054999785619900904,0.9999999999999999,IBS_R
+Outboard Sensor Temperature,160,-1.0294842461043885,-0.06041074659157758,0.9999999999999999,IBS_R
+Inboard Sensor Temperature,160,-0.7099858285752458,-0.041662389818951484,0.9999999999999999,IBS_R
+Search Coil Magnetometer's Temperature,160,0.7361866757590279,0.0431998710826945,0.9999999999999999,IBS_R
+Solar Array's Angle,160,26.66841357803903,1.5649183372728785,0.9999999999999999,IBS_R
+High Gain Antenna Azimuth,160,-6.480455766805155,-0.3802769907434768,0.9999999999999999,IBS_R
+Heater Dutycycle,160,-0.012819146377843,-0.0007522351180046017,0.9999999999999999,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,160,-0.7484212103608301,-0.04391780083469618,0.9999999999999999,IBS_R
+2.5V_PCU_ELB,170,1.179198925777014,0.27327503187595903,0.9999999999999997,IBS_R
+Radial Distance from Sun,170,0.1033001719154335,0.023939436473265838,0.9999999999999997,IBS_R
+Electronic Box Temperature,170,-0.7333877464555597,-0.16995992398654844,0.9999999999999997,IBS_R
+Outboard Sensor Temperature,170,-1.5197628754071455,-0.3521994797842298,0.9999999999999997,IBS_R
+Inboard Sensor Temperature,170,0.894883770612309,0.20738603605682165,0.9999999999999997,IBS_R
+Search Coil Magnetometer's Temperature,170,0.4461696436021298,0.1033981806734733,0.9999999999999997,IBS_R
+Solar Array's Angle,170,20.380591356301547,4.723127396740346,0.9999999999999997,IBS_R
+High Gain Antenna Azimuth,170,-15.35943228170934,-3.5594921727179996,0.9999999999999997,IBS_R
+Heater Dutycycle,170,-0.0531490615275301,-0.012317100334485583,0.9999999999999997,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,170,-1.023349097399413,-0.23715740499660304,0.9999999999999997,IBS_R
+2.5V_PCU_ELB,180,-1.004460849222824,-0.04735902035322087,1.0,IBS_R
+Radial Distance from Sun,180,0.1419167355374044,0.006691189180722006,1.0,IBS_R
+Electronic Box Temperature,180,-0.6883870221404479,-0.03245655121119657,1.0,IBS_R
+Outboard Sensor Temperature,180,-0.6792694263080351,-0.03202666844679239,1.0,IBS_R
+Inboard Sensor Temperature,180,-0.1168599588254262,-0.0055097948046178135,1.0,IBS_R
+Search Coil Magnetometer's Temperature,180,0.3453235870146161,0.01628155721402788,1.0,IBS_R
+Solar Array's Angle,180,30.11307677513192,1.4197923363513907,1.0,IBS_R
+High Gain Antenna Azimuth,180,-5.4205493314595365,-0.2555718386762951,1.0,IBS_R
+Heater Dutycycle,180,0.009482822728134,0.0004471027366921877,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,180,-1.4907795183695318,-0.0702883119907101,1.0,IBS_R
+2.5V_PCU_ELB,190,0.0484951976697592,0.11063358871617063,0.9999999999999996,IBS_R
+Radial Distance from Sun,190,0.157682274879112,0.35972543231191373,0.9999999999999996,IBS_R
+Electronic Box Temperature,190,-0.514688720127441,-1.1741752362201332,0.9999999999999996,IBS_R
+Outboard Sensor Temperature,190,-1.171129732898429,-2.6717343454310516,0.9999999999999996,IBS_R
+Inboard Sensor Temperature,190,-0.6097834769693988,-1.391117835138086,0.9999999999999996,IBS_R
+Search Coil Magnetometer's Temperature,190,0.3753123959915325,0.8562117333960327,0.9999999999999996,IBS_R
+Solar Array's Angle,190,10.438167362201204,23.812912832407015,0.9999999999999996,IBS_R
+High Gain Antenna Azimuth,190,-9.493564005831892,-21.65796008966061,0.9999999999999996,IBS_R
+Heater Dutycycle,190,-0.2090458796643171,-0.4769028065641658,0.9999999999999996,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,190,1.41689522101155,3.2324067261829117,0.9999999999999996,IBS_R
+2.5V_PCU_ELB,200,0.1383878730527383,0.008815119214132318,0.9999999999999998,IBS_R
+Radial Distance from Sun,200,0.179270703829152,0.01141929990681443,0.9999999999999998,IBS_R
+Electronic Box Temperature,200,-0.9447568207418316,-0.06017972398513636,0.9999999999999998,IBS_R
+Outboard Sensor Temperature,200,-0.4459148230307485,-0.02840416748703678,0.9999999999999998,IBS_R
+Inboard Sensor Temperature,200,0.1317220748774783,0.008390516940276501,0.9999999999999998,IBS_R
+Search Coil Magnetometer's Temperature,200,0.2440169419683928,0.015543547178441346,0.9999999999999998,IBS_R
+Solar Array's Angle,200,18.656419290192808,1.1883885236765928,0.9999999999999998,IBS_R
+High Gain Antenna Azimuth,200,-3.8019939204895232,-0.24218183950084407,0.9999999999999998,IBS_R
+Heater Dutycycle,200,-0.260235032825069,-0.01657661749864742,0.9999999999999998,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,200,1.8020061770711344,0.11478534155540705,0.9999999999999998,IBS_R
+2.5V_PCU_ELB,210,-0.6099055563360791,0.04839524713002318,1.0,IBS_R
+Radial Distance from Sun,210,0.202258561207337,-0.016048965207980943,1.0,IBS_R
+Electronic Box Temperature,210,-0.7976133656573113,0.06328962827799654,1.0,IBS_R
+Outboard Sensor Temperature,210,-0.4108488462258877,0.03260034482327364,1.0,IBS_R
+Inboard Sensor Temperature,210,-1.537369126959796,0.12198832762935116,1.0,IBS_R
+Search Coil Magnetometer's Temperature,210,0.4080458637390443,-0.03237793165004922,1.0,IBS_R
+Solar Array's Angle,210,-3.5560212536472995,0.2821658625373235,1.0,IBS_R
+High Gain Antenna Azimuth,210,-6.920976824532722,0.5491709008465883,1.0,IBS_R
+Heater Dutycycle,210,-0.1719150672843251,0.013641246714622385,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,210,0.7917535740147233,-0.06282466110114855,1.0,IBS_R
+2.5V_PCU_ELB,220,0.2670575515096352,-0.016135526535939755,0.9999999999999999,IBS_R
+Radial Distance from Sun,220,0.2295646052161023,-0.013870215458196134,0.9999999999999999,IBS_R
+Electronic Box Temperature,220,-0.7310665896540299,0.04417079498490042,0.9999999999999999,IBS_R
+Outboard Sensor Temperature,220,-0.6879883889072416,0.04156802473054472,0.9999999999999999,IBS_R
+Inboard Sensor Temperature,220,-1.4885747073855748,0.08993917811338173,0.9999999999999999,IBS_R
+Search Coil Magnetometer's Temperature,220,1.077792819467999,-0.06511987599850282,0.9999999999999999,IBS_R
+Solar Array's Angle,220,-12.776499369284643,0.7719517513889586,0.9999999999999999,IBS_R
+High Gain Antenna Azimuth,220,-3.5898993067730323,0.21690049653472582,0.9999999999999999,IBS_R
+Heater Dutycycle,220,-0.0837465374884434,0.005059937344213607,0.9999999999999999,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,220,1.232455872241475,-0.07446456510408624,0.9999999999999999,IBS_R
+2.5V_PCU_ELB,230,0.1337358672008302,0.013856970232111684,1.0,IBS_R
+Radial Distance from Sun,230,0.2464948875492321,0.025540435715783974,1.0,IBS_R
+Electronic Box Temperature,230,-0.5606347631022456,-0.058089870623328016,1.0,IBS_R
+Outboard Sensor Temperature,230,0.0717563370650004,0.007434994422116479,1.0,IBS_R
+Inboard Sensor Temperature,230,-1.7761754686571405,-0.1840374696133591,1.0,IBS_R
+Search Coil Magnetometer's Temperature,230,-0.0866384671871601,-0.008976998361743975,1.0,IBS_R
+Solar Array's Angle,230,20.55011822890315,2.129289490729222,1.0,IBS_R
+High Gain Antenna Azimuth,230,-9.703383274591102,-1.0054108594881463,1.0,IBS_R
+Heater Dutycycle,230,-0.0581029274085147,-0.0060203036952628085,1.0,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,230,0.8339917723004389,0.08641361068260607,1.0,IBS_R
+2.5V_PCU_ELB,240,0.43712669178294,0.013590520267804232,0.9999999999999999,IBS_R
+Radial Distance from Sun,240,0.2677084830008611,0.00832321071322948,0.9999999999999999,IBS_R
+Electronic Box Temperature,240,-0.5771194491459645,-0.017942975613250693,0.9999999999999999,IBS_R
+Outboard Sensor Temperature,240,0.2439922052611191,0.007585857997511796,0.9999999999999999,IBS_R
+Inboard Sensor Temperature,240,0.9681581429757662,0.030100593516456994,0.9999999999999999,IBS_R
+Search Coil Magnetometer's Temperature,240,1.6145481571614515,0.05019723083884452,0.9999999999999999,IBS_R
+Solar Array's Angle,240,35.78389388193812,1.112541842457253,0.9999999999999999,IBS_R
+High Gain Antenna Azimuth,240,-0.7993811563359707,-0.024853219927094806,0.9999999999999999,IBS_R
+Heater Dutycycle,240,-1.0187667703978305,-0.03167404485135477,0.9999999999999999,IBS_R
+Outboard Sensor minus Inboard Sensor Temp.,240,-4.756072044707934,-0.1478690153993999,0.9999999999999999,IBS_R
+2.5V_PCU_ELB,10,0.1999200325624814,0.013285598167094497,0.9999999999999998,IBS_T
+Radial Distance from Sun,10,0.1185923380018667,0.0078810018595642,0.9999999999999998,IBS_T
+Electronic Box Temperature,10,0.2812565085931122,0.01869077804336703,0.9999999999999998,IBS_T
+Outboard Sensor Temperature,10,-0.134359575586715,-0.008928806724701642,0.9999999999999998,IBS_T
+Inboard Sensor Temperature,10,-1.657463992008657,-0.11014604335547645,0.9999999999999998,IBS_T
+Search Coil Magnetometer's Temperature,10,-1.1494148319371291,-0.0763838590294476,0.9999999999999998,IBS_T
+Solar Array's Angle,10,23.590419519782152,1.567690992822625,0.9999999999999998,IBS_T
+High Gain Antenna Azimuth,10,-7.430245627723239,-0.4937737175582446,0.9999999999999998,IBS_T
+Heater Dutycycle,10,0.1236389310307041,0.008216370988083322,0.9999999999999998,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,10,1.105532603817002,0.0734676847871361,0.9999999999999998,IBS_T
+2.5V_PCU_ELB,20,0.7410800421975487,0.03314552306499411,1.0,IBS_T
+Radial Distance from Sun,20,0.0793263392052301,0.0035479473957923807,1.0,IBS_T
+Electronic Box Temperature,20,-1.5400413762740783,-0.0688798430018044,1.0,IBS_T
+Outboard Sensor Temperature,20,-0.7560134220904917,-0.033813432952584786,1.0,IBS_T
+Inboard Sensor Temperature,20,-2.5445124732997555,-0.1138057862452057,1.0,IBS_T
+Search Coil Magnetometer's Temperature,20,-1.9856944901339757,-0.08881211039984084,1.0,IBS_T
+Solar Array's Angle,20,24.39293687912298,1.0909977410164702,1.0,IBS_T
+High Gain Antenna Azimuth,20,2.020785179884679,0.09038157550518833,1.0,IBS_T
+Heater Dutycycle,20,-0.1083722846212666,-0.0048470554528342955,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,20,2.058880845536537,0.09208544106982508,1.0,IBS_T
+2.5V_PCU_ELB,30,2.780928656718339,-0.7596510804546803,0.9999999999999998,IBS_T
+Radial Distance from Sun,30,0.0288776258450688,-0.007888343205488552,0.9999999999999998,IBS_T
+Electronic Box Temperature,30,-0.5047426170737617,0.13787778175657125,0.9999999999999998,IBS_T
+Outboard Sensor Temperature,30,0.6769758191667866,-0.18492578413665794,0.9999999999999998,IBS_T
+Inboard Sensor Temperature,30,-1.7737722100416955,0.4845316590856843,0.9999999999999998,IBS_T
+Search Coil Magnetometer's Temperature,30,-2.82380315296702,0.7713628722407,0.9999999999999998,IBS_T
+Solar Array's Angle,30,2.338949307489184,-0.638917997507925,0.9999999999999998,IBS_T
+High Gain Antenna Azimuth,30,-4.848312983650974,1.324387156612319,0.9999999999999998,IBS_T
+Heater Dutycycle,30,0.1365743246247979,-0.03730726173537503,0.9999999999999998,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,30,0.3275278871752407,-0.089469002655148,0.9999999999999998,IBS_T
+2.5V_PCU_ELB,40,0.9005137421857039,-0.62894349736731,0.9999999999999996,IBS_T
+Radial Distance from Sun,40,0.0053144753473557,-0.0037117753511738774,0.9999999999999996,IBS_T
+Electronic Box Temperature,40,-0.4937859544528418,0.3448736544437777,0.9999999999999996,IBS_T
+Outboard Sensor Temperature,40,-0.0101590546275017,0.0070953624004205795,0.9999999999999996,IBS_T
+Inboard Sensor Temperature,40,-1.3133691137940628,0.9172930129404928,0.9999999999999996,IBS_T
+Search Coil Magnetometer's Temperature,40,-3.071631399019476,2.1453116196023134,0.9999999999999996,IBS_T
+Solar Array's Angle,40,14.872521801707364,-10.387377158657975,0.9999999999999996,IBS_T
+High Gain Antenna Azimuth,40,-14.729436096247786,10.287442177325444,0.9999999999999996,IBS_T
+Heater Dutycycle,40,0.0857061319237482,-0.059859513334145326,0.9999999999999996,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,40,2.3225374829134946,-1.6221238820018447,0.9999999999999996,IBS_T
+2.5V_PCU_ELB,50,1.921116273490841,-0.13734732336193015,1.0,IBS_T
+Radial Distance from Sun,50,-0.1132370009195968,0.008095709352135261,1.0,IBS_T
+Electronic Box Temperature,50,-0.1505374354479579,0.01076244791106598,1.0,IBS_T
+Outboard Sensor Temperature,50,0.4975241398891182,-0.03556974133457762,1.0,IBS_T
+Inboard Sensor Temperature,50,-2.1657929933494544,0.15484011805909484,1.0,IBS_T
+Search Coil Magnetometer's Temperature,50,-2.3373484810991445,0.16710522006026357,1.0,IBS_T
+Solar Array's Angle,50,-13.980235305903856,0.9994959314704924,1.0,IBS_T
+High Gain Antenna Azimuth,50,1.788304856705789,-0.12785217053904216,1.0,IBS_T
+Heater Dutycycle,50,0.2354937747168648,-0.016836273822711422,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,50,0.3174263154000436,-0.022693917794790713,1.0,IBS_T
+2.5V_PCU_ELB,60,0.2608491355263588,-0.03741446254588585,0.9999999999999999,IBS_T
+Radial Distance from Sun,60,-0.1702107333949047,0.024413893864976614,0.9999999999999999,IBS_T
+Electronic Box Temperature,60,-0.583230764555274,0.08365473610648264,0.9999999999999999,IBS_T
+Outboard Sensor Temperature,60,-0.325922410360384,0.04674813965048085,0.9999999999999999,IBS_T
+Inboard Sensor Temperature,60,-2.887696177082457,0.41419190538368394,0.9999999999999999,IBS_T
+Search Coil Magnetometer's Temperature,60,-3.224030345191572,0.46243343821540217,0.9999999999999999,IBS_T
+Solar Array's Angle,60,5.3882106613477445,-0.7728490476747877,0.9999999999999999,IBS_T
+High Gain Antenna Azimuth,60,-5.459490647266591,0.783072974075964,0.9999999999999999,IBS_T
+Heater Dutycycle,60,-0.0693363720900767,0.00994514737952673,0.9999999999999999,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,60,0.0989778564123701,-0.014196724455843482,0.9999999999999999,IBS_T
+2.5V_PCU_ELB,70,2.838754787270116,-0.046974495104151255,1.0,IBS_T
+Radial Distance from Sun,70,-0.2592219450915778,0.004289493423383253,1.0,IBS_T
+Electronic Box Temperature,70,-0.8679110779011334,0.014361819788919329,1.0,IBS_T
+Outboard Sensor Temperature,70,-0.7379782467314385,0.012211747098942892,1.0,IBS_T
+Inboard Sensor Temperature,70,-1.3499150532886628,0.02233781457492777,1.0,IBS_T
+Search Coil Magnetometer's Temperature,70,-0.3337345505470018,0.005522496018696997,1.0,IBS_T
+Solar Array's Angle,70,-65.91255803494788,1.0906927039274883,1.0,IBS_T
+High Gain Antenna Azimuth,70,5.593754960170633,-0.09256305481849794,1.0,IBS_T
+Heater Dutycycle,70,-0.0731273349156017,0.0012100797333312254,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,70,0.670104690743022,-0.01108860464304051,1.0,IBS_T
+2.5V_PCU_ELB,80,3.259460713324413,0.1860513780498362,1.0,IBS_T
+Radial Distance from Sun,80,-0.3047749232100875,-0.01739667983309915,1.0,IBS_T
+Electronic Box Temperature,80,-0.2031874069458465,-0.01159802200103556,1.0,IBS_T
+Outboard Sensor Temperature,80,-1.148617017332244,-0.0655635387941818,1.0,IBS_T
+Inboard Sensor Temperature,80,-0.6853814765445951,-0.0391218607666224,1.0,IBS_T
+Search Coil Magnetometer's Temperature,80,-2.392979717461156,-0.1365922811276552,1.0,IBS_T
+Solar Array's Angle,80,23.83085878120763,1.3602753664831269,1.0,IBS_T
+High Gain Antenna Azimuth,80,-4.021674025073229,-0.22955883204033387,1.0,IBS_T
+Heater Dutycycle,80,-0.420631585245387,-0.024009826461866703,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,80,-0.39393025713953,-0.02248570350816842,1.0,IBS_T
+2.5V_PCU_ELB,90,2.3820782308790363,0.6305893581117998,1.0,IBS_T
+Radial Distance from Sun,90,-0.2911194572815369,-0.07706582820047696,1.0,IBS_T
+Electronic Box Temperature,90,0.171288299496506,0.04534384195757692,1.0,IBS_T
+Outboard Sensor Temperature,90,-1.299178776475565,-0.34392166475064945,1.0,IBS_T
+Inboard Sensor Temperature,90,-0.2446545092068852,-0.06476551773994255,1.0,IBS_T
+Search Coil Magnetometer's Temperature,90,-1.967227390830988,-0.5207690669278686,1.0,IBS_T
+Solar Array's Angle,90,-4.93260351079131,-1.3057704156685412,1.0,IBS_T
+High Gain Antenna Azimuth,90,6.237298739523892,1.6511524086496885,1.0,IBS_T
+Heater Dutycycle,90,0.4174774453310415,0.11051561231904136,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,90,3.304183636406548,0.8746912722493722,1.0,IBS_T
+2.5V_PCU_ELB,100,1.0036683309223022,0.017117861143158768,0.9999999999999999,IBS_T
+Radial Distance from Sun,100,-0.3214673902827448,-0.005482721711321632,0.9999999999999999,IBS_T
+Electronic Box Temperature,100,0.7987205018486287,0.013622415116231601,0.9999999999999999,IBS_T
+Outboard Sensor Temperature,100,-1.2478020252326627,-0.021281633727007122,0.9999999999999999,IBS_T
+Inboard Sensor Temperature,100,-0.6291466717967594,-0.010730283137060672,0.9999999999999999,IBS_T
+Search Coil Magnetometer's Temperature,100,-0.9077109194208738,-0.015481279022221489,0.9999999999999999,IBS_T
+Solar Array's Angle,100,50.80223448831144,0.8664471807474292,0.9999999999999999,IBS_T
+High Gain Antenna Azimuth,100,8.210471730057536,0.14003203116492036,0.9999999999999999,IBS_T
+Heater Dutycycle,100,0.2319346328179784,0.00395571397098811,0.9999999999999999,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,100,0.6919091284383233,0.011800715454882786,0.9999999999999999,IBS_T
+2.5V_PCU_ELB,110,1.6140139327127885,0.09817429751054411,1.0,IBS_T
+Radial Distance from Sun,110,-0.322267598906897,-0.01960230608413491,1.0,IBS_T
+Electronic Box Temperature,110,1.6834329833944948,0.10239679298991748,1.0,IBS_T
+Outboard Sensor Temperature,110,-2.165413739502528,-0.13171383987871113,1.0,IBS_T
+Inboard Sensor Temperature,110,1.1021951502558138,0.06704231754308435,1.0,IBS_T
+Search Coil Magnetometer's Temperature,110,-2.217098769757586,-0.13485764268874828,1.0,IBS_T
+Solar Array's Angle,110,16.790701878370754,1.0213142081415698,1.0,IBS_T
+High Gain Antenna Azimuth,110,0.5839985968556795,0.035522402149952344,1.0,IBS_T
+Heater Dutycycle,110,0.0319040464313487,0.001940601182343575,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,110,-0.6611763668592738,-0.040216830865817406,1.0,IBS_T
+2.5V_PCU_ELB,120,4.786694241725975,0.07711711382368784,1.0,IBS_T
+Radial Distance from Sun,120,-0.2946989294993778,-0.004747813363931905,1.0,IBS_T
+Electronic Box Temperature,120,1.98404195576496,0.031964354021185394,1.0,IBS_T
+Outboard Sensor Temperature,120,-2.66184152124844,-0.0428841963176485,1.0,IBS_T
+Inboard Sensor Temperature,120,1.4466683280235413,0.023306875368143114,1.0,IBS_T
+Search Coil Magnetometer's Temperature,120,-1.905474128763376,-0.030698569379052864,1.0,IBS_T
+Solar Array's Angle,120,65.81605307267436,1.0603443211365806,1.0,IBS_T
+High Gain Antenna Azimuth,120,-4.569064807544081,-0.07361094589240624,1.0,IBS_T
+Heater Dutycycle,120,0.4522095040788703,0.007285422890439146,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,120,-2.984134032651764,-0.048076562286996576,1.0,IBS_T
+2.5V_PCU_ELB,130,3.8711855798622494,0.4476288956980962,1.0,IBS_T
+Radial Distance from Sun,130,-0.2624928059533302,-0.030352294518973925,1.0,IBS_T
+Electronic Box Temperature,130,1.1351750639747635,0.13126137970609006,1.0,IBS_T
+Outboard Sensor Temperature,130,-1.7577500561866075,-0.2032503222416104,1.0,IBS_T
+Inboard Sensor Temperature,130,-0.1600709244749515,-0.01850915428307768,1.0,IBS_T
+Search Coil Magnetometer's Temperature,130,-1.3123882108585463,-0.15175270558192028,1.0,IBS_T
+Solar Array's Angle,130,20.98637128811237,2.4266742088717557,1.0,IBS_T
+High Gain Antenna Azimuth,130,-12.211684997791515,-1.412048830366054,1.0,IBS_T
+Heater Dutycycle,130,0.1853564906337419,0.02143294851181193,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,130,-1.825498379959107,-0.21108412579611738,1.0,IBS_T
+2.5V_PCU_ELB,140,1.5946196113754034,-0.3705417752644755,0.9999999999999993,IBS_T
+Radial Distance from Sun,140,-0.2232722834793502,0.051881782776039775,0.9999999999999993,IBS_T
+Electronic Box Temperature,140,-0.1621416981559723,0.037676868044592665,0.9999999999999993,IBS_T
+Outboard Sensor Temperature,140,-0.8983047892338221,0.2087390929829218,0.9999999999999993,IBS_T
+Inboard Sensor Temperature,140,3.099828426364737,-0.7203071628661096,0.9999999999999993,IBS_T
+Search Coil Magnetometer's Temperature,140,-1.331550384606327,0.3094123763726678,0.9999999999999993,IBS_T
+Solar Array's Angle,140,30.5974812823939,-7.109937035843154,0.9999999999999993,IBS_T
+High Gain Antenna Azimuth,140,-31.40403764797556,7.2973565466917085,0.9999999999999993,IBS_T
+Heater Dutycycle,140,0.1100197429452545,-0.025565288783770367,0.9999999999999993,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,140,-5.686123588385967,1.321284595889578,0.9999999999999993,IBS_T
+2.5V_PCU_ELB,150,1.5778330251027346,0.07904506970571756,1.0,IBS_T
+Radial Distance from Sun,150,-0.1888879358188653,-0.009462763052762923,1.0,IBS_T
+Electronic Box Temperature,150,1.215660714134479,0.060901238824688446,1.0,IBS_T
+Outboard Sensor Temperature,150,-1.279382631171064,-0.06409353059054933,1.0,IBS_T
+Inboard Sensor Temperature,150,2.3282942783687823,0.11664110244941836,1.0,IBS_T
+Search Coil Magnetometer's Temperature,150,-0.6406061990990753,-0.03209259842840732,1.0,IBS_T
+Solar Array's Angle,150,51.985477874842296,2.6043286310567573,1.0,IBS_T
+High Gain Antenna Azimuth,150,-32.15532481541887,-1.6108928200937358,1.0,IBS_T
+Heater Dutycycle,150,-0.128929314046705,-0.0064590019690255775,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,150,-2.752952965212794,-0.13791532790210073,1.0,IBS_T
+2.5V_PCU_ELB,160,4.719996440301679,-0.06017419270390821,1.0,IBS_T
+Radial Distance from Sun,160,-0.1861867893587062,0.0023736542778148096,1.0,IBS_T
+Electronic Box Temperature,160,0.9140753702970956,-0.011653345118759904,1.0,IBS_T
+Outboard Sensor Temperature,160,-1.081223607835617,0.013784281102075762,1.0,IBS_T
+Inboard Sensor Temperature,160,-0.2556664181106644,0.0032594347275240287,1.0,IBS_T
+Search Coil Magnetometer's Temperature,160,-2.228053103902344,0.028404957191067566,1.0,IBS_T
+Solar Array's Angle,160,-36.58638318281483,0.46643172295295493,1.0,IBS_T
+High Gain Antenna Azimuth,160,-42.30809213296471,0.5393765273223391,1.0,IBS_T
+Heater Dutycycle,160,0.1261766819468759,-0.001608598665325639,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,160,-1.5535259115694031,0.019805558914217532,1.0,IBS_T
+2.5V_PCU_ELB,170,4.7699576222350135,0.08328555490833688,1.0000000000000002,IBS_T
+Radial Distance from Sun,170,-0.1822944701563103,-0.003182941507261367,1.0000000000000002,IBS_T
+Electronic Box Temperature,170,1.0866567286638722,0.018973503709922398,1.0000000000000002,IBS_T
+Outboard Sensor Temperature,170,-0.5785134729855638,-0.010101099304311165,1.0000000000000002,IBS_T
+Inboard Sensor Temperature,170,0.5909062765256201,0.01031748309667282,1.0000000000000002,IBS_T
+Search Coil Magnetometer's Temperature,170,-2.531252562657084,-0.04419678139514887,1.0000000000000002,IBS_T
+Solar Array's Angle,170,73.17445369277596,1.2776580975286869,1.0000000000000002,IBS_T
+High Gain Antenna Azimuth,170,-16.20074646012419,-0.2828721480817883,1.0000000000000002,IBS_T
+Heater Dutycycle,170,0.30643494555367,0.005350488726519333,1.0000000000000002,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,170,-3.163274253451575,-0.05523215768162839,1.0000000000000002,IBS_T
+2.5V_PCU_ELB,180,2.221382324165401,-0.01592675976953058,0.9999999999999999,IBS_T
+Radial Distance from Sun,180,-0.2063345673533593,0.001479367621970099,0.9999999999999999,IBS_T
+Electronic Box Temperature,180,-0.1256796043798122,0.0009010915613722471,0.9999999999999999,IBS_T
+Outboard Sensor Temperature,180,-0.4819608891699831,0.0034555399206229226,0.9999999999999999,IBS_T
+Inboard Sensor Temperature,180,1.4684357890114157,-0.010528320043850549,0.9999999999999999,IBS_T
+Search Coil Magnetometer's Temperature,180,-3.6459334493990494,0.02614043766918485,0.9999999999999999,IBS_T
+Solar Array's Angle,180,-88.46595365455974,0.6342789245736739,0.9999999999999999,IBS_T
+High Gain Antenna Azimuth,180,-45.3906013291665,0.3254393425660221,0.9999999999999999,IBS_T
+Heater Dutycycle,180,-0.1694531773494799,0.001214937212054576,0.9999999999999999,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,180,-4.678744806682101,0.03354543868848042,0.9999999999999999,IBS_T
+2.5V_PCU_ELB,190,3.689717337106471,0.20796822769672466,0.9999999999999998,IBS_T
+Radial Distance from Sun,190,-0.2184302504186624,-0.012311661817039113,0.9999999999999998,IBS_T
+Electronic Box Temperature,190,-1.0652566684710691,-0.06004241548697606,0.9999999999999998,IBS_T
+Outboard Sensor Temperature,190,-1.324659371562184,-0.07466345972769972,0.9999999999999998,IBS_T
+Inboard Sensor Temperature,190,-1.048059280532727,-0.05907309725368429,0.9999999999999998,IBS_T
+Search Coil Magnetometer's Temperature,190,-2.418688784003782,-0.136327629951643,0.9999999999999998,IBS_T
+Solar Array's Angle,190,47.325172579735685,2.6674488497722164,0.9999999999999998,IBS_T
+High Gain Antenna Azimuth,190,-24.26449325379717,-1.3676504720843103,0.9999999999999998,IBS_T
+Heater Dutycycle,190,0.0665410214281045,0.0037505361606873,0.9999999999999998,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,190,-3.000107594316977,-0.16909887730827597,0.9999999999999998,IBS_T
+2.5V_PCU_ELB,200,4.11985268153578,0.46308068220637394,0.9999999999999989,IBS_T
+Radial Distance from Sun,200,-0.2136462107992513,-0.024014313300844383,0.9999999999999989,IBS_T
+Electronic Box Temperature,200,-1.492106022172115,-0.16771606367588052,0.9999999999999989,IBS_T
+Outboard Sensor Temperature,200,-1.6289489024183212,-0.1830975103532107,0.9999999999999989,IBS_T
+Inboard Sensor Temperature,200,0.8002171313978199,0.08994620045073856,0.9999999999999989,IBS_T
+Search Coil Magnetometer's Temperature,200,-3.2660610385725146,-0.36711258648841155,0.9999999999999989,IBS_T
+Solar Array's Angle,200,52.87767600549774,5.9435693872882585,0.9999999999999989,IBS_T
+High Gain Antenna Azimuth,200,-40.22533105987929,-4.521417436276446,0.9999999999999989,IBS_T
+Heater Dutycycle,200,-0.0527499507857386,-0.005929212786100526,0.9999999999999989,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,200,-2.022283016880103,-0.22730914706447836,0.9999999999999989,IBS_T
+2.5V_PCU_ELB,210,3.829513818622828,-0.20528323276945695,1.0,IBS_T
+Radial Distance from Sun,210,-0.1703132302101047,0.009129736080574387,1.0,IBS_T
+Electronic Box Temperature,210,-1.3581489143698506,0.07280433311621667,1.0,IBS_T
+Outboard Sensor Temperature,210,-0.7943716606085999,0.04258273771390098,1.0,IBS_T
+Inboard Sensor Temperature,210,0.6682294749431991,-0.03582081521186628,1.0,IBS_T
+Search Coil Magnetometer's Temperature,210,-2.763361138936265,0.14813152133090554,1.0,IBS_T
+Solar Array's Angle,210,1.4623466419319766,-0.07838991065276063,1.0,IBS_T
+High Gain Antenna Azimuth,210,-17.227677440133952,0.9234992966527427,1.0,IBS_T
+Heater Dutycycle,210,0.1489917827761489,-0.00798678795089757,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,210,-2.449990666904649,0.13133312169064124,1.0,IBS_T
+2.5V_PCU_ELB,220,2.860642090601869,0.09308160879121566,1.0,IBS_T
+Radial Distance from Sun,220,-0.1578439737790766,-0.005136039585526649,1.0,IBS_T
+Electronic Box Temperature,220,-0.2738508749492417,-0.008910754719334472,1.0,IBS_T
+Outboard Sensor Temperature,220,-0.7146230361337823,-0.023252913078895616,1.0,IBS_T
+Inboard Sensor Temperature,220,1.6483841361296103,0.05363629648075979,1.0,IBS_T
+Search Coil Magnetometer's Temperature,220,-2.811423106263589,-0.09148008644057694,1.0,IBS_T
+Solar Array's Angle,220,56.19205013431306,1.8284169295285861,1.0,IBS_T
+High Gain Antenna Azimuth,220,-22.99588565864105,-0.7482564979790256,1.0,IBS_T
+Heater Dutycycle,220,0.118259357017005,0.003848007145641057,1.0,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,220,-3.1330850005441016,-0.10194655014284339,1.0,IBS_T
+2.5V_PCU_ELB,230,1.567270686054841,0.5355806747995799,1.0000000000000009,IBS_T
+Radial Distance from Sun,230,-0.1463972951992787,-0.05002809205155988,1.0000000000000009,IBS_T
+Electronic Box Temperature,230,-0.5376716166751925,-0.18373758269182885,1.0000000000000009,IBS_T
+Outboard Sensor Temperature,230,-0.6689163630774708,-0.22858762070215655,1.0000000000000009,IBS_T
+Inboard Sensor Temperature,230,-1.143419905337092,-0.39073888762715175,1.0000000000000009,IBS_T
+Search Coil Magnetometer's Temperature,230,-2.8036873062598766,-0.9580991674090038,1.0000000000000009,IBS_T
+Solar Array's Angle,230,25.177894684011047,8.60399798508293,1.0000000000000009,IBS_T
+High Gain Antenna Azimuth,230,-16.92584306379917,-5.784038794523939,1.0000000000000009,IBS_T
+Heater Dutycycle,230,0.1275179675619561,0.04357649238487296,1.0000000000000009,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,230,-1.7204459997081143,-0.5879250072617433,1.0000000000000009,IBS_T
+2.5V_PCU_ELB,240,6.344828934548253,-0.3957067099373048,0.9999999999999998,IBS_T
+Radial Distance from Sun,240,-0.1317316646602649,0.008215683063327405,0.9999999999999998,IBS_T
+Electronic Box Temperature,240,-6.671035087548469,0.4160511455236065,0.9999999999999998,IBS_T
+Outboard Sensor Temperature,240,0.0861172195456817,-0.005370855852364526,0.9999999999999998,IBS_T
+Inboard Sensor Temperature,240,0.7543227223335579,-0.04704469825187109,0.9999999999999998,IBS_T
+Search Coil Magnetometer's Temperature,240,2.437005355915318,-0.1519882382073239,0.9999999999999998,IBS_T
+Solar Array's Angle,240,-11.086052320041446,0.6914016650424892,0.9999999999999998,IBS_T
+High Gain Antenna Azimuth,240,-2.00375846814803,0.12496801397157363,0.9999999999999998,IBS_T
+Heater Dutycycle,240,0.2276544431267469,-0.014198080298394715,0.9999999999999998,IBS_T
+Outboard Sensor minus Inboard Sensor Temp.,240,-5.991521835774194,0.3736720749462621,0.9999999999999998,IBS_T
+2.5V_PCU_ELB,10,0.3676560510884501,0.0336404614070076,1.0,OBS_N
+Radial Distance from Sun,10,0.1256790534109145,0.011499610392437071,1.0,OBS_N
+Electronic Box Temperature,10,-0.0079657509409133,-0.0007288647536530281,1.0,OBS_N
+Outboard Sensor Temperature,10,0.4137715940191676,0.037860025147713666,1.0,OBS_N
+Inboard Sensor Temperature,10,-0.7526258007058235,-0.06886512306163925,1.0,OBS_N
+Search Coil Magnetometer's Temperature,10,-1.4844322460003805,-0.1358252789123268,1.0,OBS_N
+Solar Array's Angle,10,19.13330907597135,1.7506942797569058,1.0,OBS_N
+High Gain Antenna Azimuth,10,-7.149800054539272,-0.6542053968389184,1.0,OBS_N
+Heater Dutycycle,10,-0.2278150742320012,-0.020845037610417193,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,10,0.5112067541529478,0.0467753244728905,1.0,OBS_N
+2.5V_PCU_ELB,20,0.3674227626394107,0.18103084557958168,0.9999999999999996,OBS_N
+Radial Distance from Sun,20,0.138518233783141,0.06824855599532327,0.9999999999999996,OBS_N
+Electronic Box Temperature,20,0.3037037824773084,0.1496362178342818,0.9999999999999996,OBS_N
+Outboard Sensor Temperature,20,-0.2576561027969252,-0.1269483192140798,0.9999999999999996,OBS_N
+Inboard Sensor Temperature,20,-0.2722112600570033,-0.13411971057646432,0.9999999999999996,OBS_N
+Search Coil Magnetometer's Temperature,20,-0.8277863306989319,-0.4078540434706673,0.9999999999999996,OBS_N
+Solar Array's Angle,20,2.5143785476627785,1.2388456047761738,0.9999999999999996,OBS_N
+High Gain Antenna Azimuth,20,0.8337413915354026,0.4107881286943477,0.9999999999999996,OBS_N
+Heater Dutycycle,20,-0.2047816685540171,-0.10089684795580744,0.9999999999999996,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,20,-0.5657152233107168,-0.27873043166268974,0.9999999999999996,OBS_N
+2.5V_PCU_ELB,30,0.7183712026872768,0.27121953755013933,1.0000000000000002,OBS_N
+Radial Distance from Sun,30,0.191865686818053,0.07243848675429908,1.0000000000000002,OBS_N
+Electronic Box Temperature,30,-0.1235763108781184,-0.04665597641322203,1.0000000000000002,OBS_N
+Outboard Sensor Temperature,30,0.019971006491199,0.007540011521469298,1.0000000000000002,OBS_N
+Inboard Sensor Temperature,30,-0.0263737332748953,-0.009957347560049283,1.0000000000000002,OBS_N
+Search Coil Magnetometer's Temperature,30,-0.5761298093602274,-0.2175165984925391,1.0000000000000002,OBS_N
+Solar Array's Angle,30,-9.20378281052019,-3.4748688536557046,1.0000000000000002,OBS_N
+High Gain Antenna Azimuth,30,11.987437628863352,4.525831879047064,1.0000000000000002,OBS_N
+Heater Dutycycle,30,-0.034127827180062,-0.012884889414751351,1.0000000000000002,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,30,-0.3049844799829221,-0.11514624933670506,1.0000000000000002,OBS_N
+2.5V_PCU_ELB,40,-0.4638345952290664,-0.43193871334607353,1.0,OBS_N
+Radial Distance from Sun,40,0.1741549200614053,0.16217904586668858,1.0,OBS_N
+Electronic Box Temperature,40,0.0073424546657098,0.006837546085889332,1.0,OBS_N
+Outboard Sensor Temperature,40,0.4842362063695795,0.4509373946795954,1.0,OBS_N
+Inboard Sensor Temperature,40,-0.9200697901063704,-0.8568006039542465,1.0,OBS_N
+Search Coil Magnetometer's Temperature,40,-1.080760568543219,-1.006441378485766,1.0,OBS_N
+Solar Array's Angle,40,-0.2025919260255175,-0.18866056297191275,1.0,OBS_N
+High Gain Antenna Azimuth,40,3.755294019244417,3.4970588300072354,1.0,OBS_N
+Heater Dutycycle,40,0.0040781556022163,0.0037977186302295125,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,40,-0.6840053401451223,-0.6369692765116394,1.0,OBS_N
+2.5V_PCU_ELB,50,0.410892766785932,-0.06756760346498246,1.0,OBS_N
+Radial Distance from Sun,50,0.1479100341420237,-0.02432246888543291,1.0,OBS_N
+Electronic Box Temperature,50,0.3779612430789962,-0.062152311896982795,1.0,OBS_N
+Outboard Sensor Temperature,50,0.1278143264248178,-0.02101791129731709,1.0,OBS_N
+Inboard Sensor Temperature,50,-1.9798748211319128,0.3255725280124943,1.0,OBS_N
+Search Coil Magnetometer's Temperature,50,-0.5437831656887439,0.0894202290237246,1.0,OBS_N
+Solar Array's Angle,50,-12.783403001560908,2.102115137481915,1.0,OBS_N
+High Gain Antenna Azimuth,50,6.6809323832059935,-1.0986189744245412,1.0,OBS_N
+Heater Dutycycle,50,-0.1579610180738435,0.02597526239175404,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,50,1.6383015352215335,-0.26940388694063166,1.0,OBS_N
+2.5V_PCU_ELB,60,-0.1183211741361544,-0.005300477669978796,1.0,OBS_N
+Radial Distance from Sun,60,0.1575740716487237,0.007058904327475638,1.0,OBS_N
+Electronic Box Temperature,60,1.174525703051555,0.052615665009181356,1.0,OBS_N
+Outboard Sensor Temperature,60,0.023171588245032,0.0010380262617188318,1.0,OBS_N
+Inboard Sensor Temperature,60,-1.2404549029863845,-0.05556911991364339,1.0,OBS_N
+Search Coil Magnetometer's Temperature,60,0.0654062940932558,0.0029300300968821682,1.0,OBS_N
+Solar Array's Angle,60,7.789603105476243,0.3489537491494356,1.0,OBS_N
+High Gain Antenna Azimuth,60,12.51493693946714,0.5606362874028384,1.0,OBS_N
+Heater Dutycycle,60,-0.0179743810432025,-0.000805205036602771,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,60,1.9742707249351477,0.08844214037269284,1.0,OBS_N
+2.5V_PCU_ELB,70,0.3258461028155405,0.02779890527245071,1.0,OBS_N
+Radial Distance from Sun,70,0.1017150751939303,0.008677617180822748,1.0,OBS_N
+Electronic Box Temperature,70,0.2137308786968576,0.01823402029164374,1.0,OBS_N
+Outboard Sensor Temperature,70,0.0114999933073835,0.0009810988126709131,1.0,OBS_N
+Inboard Sensor Temperature,70,-1.3470706018627023,-0.11492262062647102,1.0,OBS_N
+Search Coil Magnetometer's Temperature,70,-0.2806610002255971,-0.02394402907239724,1.0,OBS_N
+Solar Array's Angle,70,5.84279529607018,0.4984663359737108,1.0,OBS_N
+High Gain Antenna Azimuth,70,3.785283856449009,0.3229338833440986,1.0,OBS_N
+Heater Dutycycle,70,0.0505198899230533,0.004310002857823397,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,70,3.0178849237737437,0.2574647859656473,1.0,OBS_N
+2.5V_PCU_ELB,80,-0.5661262710922961,0.0320144501456542,1.0,OBS_N
+Radial Distance from Sun,80,0.0967816972513396,-0.0054730066062588225,1.0,OBS_N
+Electronic Box Temperature,80,0.2882021589650398,-0.01629783693354154,1.0,OBS_N
+Outboard Sensor Temperature,80,0.2145633228420806,-0.012133559513075159,1.0,OBS_N
+Inboard Sensor Temperature,80,0.3664075996923745,-0.020720355921140316,1.0,OBS_N
+Search Coil Magnetometer's Temperature,80,-0.744393363015726,0.04209545719021681,1.0,OBS_N
+Solar Array's Angle,80,-17.70827767368076,1.0014034000853291,1.0,OBS_N
+High Gain Antenna Azimuth,80,-0.0510640349848532,0.0028876720366718396,1.0,OBS_N
+Heater Dutycycle,80,0.0189864325095506,-0.0010736830775368471,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,80,0.4014594280925848,-0.022702537406319282,1.0,OBS_N
+2.5V_PCU_ELB,90,-1.2957694307145309,0.7858726171789768,1.0,OBS_N
+Radial Distance from Sun,90,0.0993799050974935,-0.060273027178067186,1.0,OBS_N
+Electronic Box Temperature,90,-0.0638998506973002,0.03875469023616474,1.0,OBS_N
+Outboard Sensor Temperature,90,0.1952082711716893,-0.1183920775751625,1.0,OBS_N
+Inboard Sensor Temperature,90,-0.7722564835004849,0.4683666780804491,1.0,OBS_N
+Search Coil Magnetometer's Temperature,90,0.5293370431344306,-0.3210382013939349,1.0,OBS_N
+Solar Array's Angle,90,-12.477467479119344,7.567472878391564,1.0,OBS_N
+High Gain Antenna Azimuth,90,9.9968875371333,-6.06302324026785,1.0,OBS_N
+Heater Dutycycle,90,0.1817632533379117,-0.1102377940254863,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,90,1.9579884005910144,-1.1875025234466539,1.0,OBS_N
+2.5V_PCU_ELB,100,-1.081977715538388,0.12538028565631057,0.9999999999999999,OBS_N
+Radial Distance from Sun,100,0.0997725092862844,-0.011561703661093013,0.9999999999999999,OBS_N
+Electronic Box Temperature,100,-0.1033512039536982,0.011976405140830782,0.9999999999999999,OBS_N
+Outboard Sensor Temperature,100,0.2375861908491786,-0.02753164325740482,0.9999999999999999,OBS_N
+Inboard Sensor Temperature,100,-1.2876947005313766,0.14921890448585035,0.9999999999999999,OBS_N
+Search Coil Magnetometer's Temperature,100,-0.315772259863349,0.036591896094925386,0.9999999999999999,OBS_N
+Solar Array's Angle,100,-12.308791581711729,1.4263508226055073,0.9999999999999999,OBS_N
+High Gain Antenna Azimuth,100,4.90031463292049,-0.5678516661275645,0.9999999999999999,OBS_N
+Heater Dutycycle,100,0.1213382194202367,-0.014060752262690759,0.9999999999999999,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,100,1.1090077926141515,-0.1285125486746713,0.9999999999999999,OBS_N
+2.5V_PCU_ELB,110,0.5621953580833725,-0.035272706900971965,0.9999999999999997,OBS_N
+Radial Distance from Sun,110,0.1522209782148338,-0.009550498543879514,0.9999999999999997,OBS_N
+Electronic Box Temperature,110,-0.6559904877703164,0.04115750845725873,0.9999999999999997,OBS_N
+Outboard Sensor Temperature,110,0.4397229018968039,-0.027588660797783885,0.9999999999999997,OBS_N
+Inboard Sensor Temperature,110,-1.2739250808508922,0.0799273514883536,0.9999999999999997,OBS_N
+Search Coil Magnetometer's Temperature,110,-0.1991613876901332,0.012495587437673445,0.9999999999999997,OBS_N
+Solar Array's Angle,110,-16.154776962818236,1.013567089565969,0.9999999999999997,OBS_N
+High Gain Antenna Azimuth,110,-0.524298532293365,0.03289502161889268,0.9999999999999997,OBS_N
+Heater Dutycycle,110,0.1938336794373835,-0.01216132161894845,0.9999999999999997,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,110,1.521642135406737,-0.0954693707065639,0.9999999999999997,OBS_N
+2.5V_PCU_ELB,120,0.1338447034218653,0.2950933049031056,1.0000000000000004,OBS_N
+Radial Distance from Sun,120,0.1995774866325083,0.4400172633579248,1.0000000000000004,OBS_N
+Electronic Box Temperature,120,-0.3134410519729508,-0.6910572742461915,1.0000000000000004,OBS_N
+Outboard Sensor Temperature,120,0.2741069387336239,0.604335624644256,1.0000000000000004,OBS_N
+Inboard Sensor Temperature,120,-1.3937560053278475,-3.072875170445897,1.0000000000000004,OBS_N
+Search Coil Magnetometer's Temperature,120,0.3826957812447333,0.8437462220976875,1.0000000000000004,OBS_N
+Solar Array's Angle,120,-5.601889360675319,-12.350731877173203,1.0000000000000004,OBS_N
+High Gain Antenna Azimuth,120,6.540483733834678,14.420092176519997,1.0000000000000004,OBS_N
+Heater Dutycycle,120,0.0199198975125951,0.04391827423902793,1.0000000000000004,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,120,0.2120252778145629,0.46746145610329237,1.0000000000000004,OBS_N
+2.5V_PCU_ELB,130,-0.3458908565893107,0.0100281344144315,0.9999999999999999,OBS_N
+Radial Distance from Sun,130,0.1686035648136697,-0.004888187063907617,0.9999999999999999,OBS_N
+Electronic Box Temperature,130,-0.0154256305798932,0.00044722285638849245,0.9999999999999999,OBS_N
+Outboard Sensor Temperature,130,0.6597623554414749,-0.01912795743486417,0.9999999999999999,OBS_N
+Inboard Sensor Temperature,130,-1.274678305225954,0.036955719228921186,0.9999999999999999,OBS_N
+Search Coil Magnetometer's Temperature,130,-1.6654026670355475,0.048283675272210995,0.9999999999999999,OBS_N
+Solar Array's Angle,130,-30.59652362533128,0.8870603130555059,0.9999999999999999,OBS_N
+High Gain Antenna Azimuth,130,-2.8834631755683344,0.08359792042145689,0.9999999999999999,OBS_N
+Heater Dutycycle,130,-0.0095357122440005,0.0002764612082062548,0.9999999999999999,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,130,1.4705097403144736,-0.04263330195834966,0.9999999999999999,OBS_N
+2.5V_PCU_ELB,140,-0.7567270095158981,0.06918815059023826,1.0,OBS_N
+Radial Distance from Sun,140,0.1234098552605796,-0.011283460934678193,1.0,OBS_N
+Electronic Box Temperature,140,-0.4281623489923971,0.03914722311564823,1.0,OBS_N
+Outboard Sensor Temperature,140,-0.2052650008641343,0.018767541811119594,1.0,OBS_N
+Inboard Sensor Temperature,140,-1.4789131355780436,0.13521820081420716,1.0,OBS_N
+Search Coil Magnetometer's Temperature,140,0.7293388931229638,-0.06668403338872651,1.0,OBS_N
+Solar Array's Angle,140,-21.870752094754582,1.9996602082720536,1.0,OBS_N
+High Gain Antenna Azimuth,140,10.893216317142851,-0.9959754065665951,1.0,OBS_N
+Heater Dutycycle,140,0.062056610279442,-0.005673885090847358,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,140,1.994563675661546,-0.18236453862241975,1.0,OBS_N
+2.5V_PCU_ELB,150,-2.064600299294035,-0.24634892010861137,1.0,OBS_N
+Radial Distance from Sun,150,0.0832265879429941,0.009930629222078312,1.0,OBS_N
+Electronic Box Temperature,150,-0.1283406590313713,-0.015313657936219773,1.0,OBS_N
+Outboard Sensor Temperature,150,0.212101190562875,0.025307997517379808,1.0,OBS_N
+Inboard Sensor Temperature,150,-1.7119424888032904,-0.20426965139399927,1.0,OBS_N
+Search Coil Magnetometer's Temperature,150,0.6266931217518759,0.07477726988408326,1.0,OBS_N
+Solar Array's Angle,150,-8.66456015752971,-1.0338587274027868,1.0,OBS_N
+High Gain Antenna Azimuth,150,18.279006797120704,2.1810582836147043,1.0,OBS_N
+Heater Dutycycle,150,0.0517047246617697,0.006169428091866234,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,150,1.6975082179118075,0.20254734851150533,1.0,OBS_N
+2.5V_PCU_ELB,160,-1.409896466388773,-0.1826083471885548,1.0000000000000002,OBS_N
+Radial Distance from Sun,160,0.0621634249381225,0.008051343168910527,1.0000000000000002,OBS_N
+Electronic Box Temperature,160,-0.1615376799181381,-0.020922194956683446,1.0000000000000002,OBS_N
+Outboard Sensor Temperature,160,0.4901527304892571,0.0634840799437251,1.0000000000000002,OBS_N
+Inboard Sensor Temperature,160,-2.2859848207284013,-0.2960784140984085,1.0000000000000002,OBS_N
+Search Coil Magnetometer's Temperature,160,0.4609718546009789,0.05970460276755954,1.0000000000000002,OBS_N
+Solar Array's Angle,160,-1.5886192964867063,-0.20575634520619446,1.0000000000000002,OBS_N
+High Gain Antenna Azimuth,160,9.245103640877437,1.197416360487562,1.0000000000000002,OBS_N
+Heater Dutycycle,160,0.0426844331327958,0.005528444088539844,1.0000000000000002,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,160,2.8658385145228387,0.37118047099354434,1.0000000000000002,OBS_N
+2.5V_PCU_ELB,170,0.2564345839734733,0.03994200315740801,1.0,OBS_N
+Radial Distance from Sun,170,0.0304687862348973,0.0047457887198340916,1.0,OBS_N
+Electronic Box Temperature,170,0.0082743980322964,0.0012888122468138752,1.0,OBS_N
+Outboard Sensor Temperature,170,0.7078084549511441,0.11024756140311864,1.0,OBS_N
+Inboard Sensor Temperature,170,-1.170985775200436,-0.1823916135086285,1.0,OBS_N
+Search Coil Magnetometer's Temperature,170,1.0306712447502209,0.1605363577493177,1.0,OBS_N
+Solar Array's Angle,170,-5.259507499139617,-0.8192158088893999,1.0,OBS_N
+High Gain Antenna Azimuth,170,10.493101212298203,1.6343953114996836,1.0,OBS_N
+Heater Dutycycle,170,-0.0107152999596203,-0.0016690047738022774,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,170,0.3346232379672689,0.05212059239565492,1.0,OBS_N
+2.5V_PCU_ELB,180,0.4270536012576351,0.26996330566278737,1.0,OBS_N
+Radial Distance from Sun,180,0.0185910623296894,0.011752399763227945,1.0,OBS_N
+Electronic Box Temperature,180,0.0122174274883398,0.007723286027174441,1.0,OBS_N
+Outboard Sensor Temperature,180,0.1310554839999125,0.08284714513977037,1.0,OBS_N
+Inboard Sensor Temperature,180,-1.3518076972675752,-0.8545495776175254,1.0,OBS_N
+Search Coil Magnetometer's Temperature,180,2.0649096998384717,1.3053392989121446,1.0,OBS_N
+Solar Array's Angle,180,8.146556828851645,5.149872064794407,1.0,OBS_N
+High Gain Antenna Azimuth,180,-9.127528804031808,-5.769996649629426,1.0,OBS_N
+Heater Dutycycle,180,-0.0720684264120034,-0.045558287228591614,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,180,1.3329158159675716,0.8426070141760309,1.0,OBS_N
+2.5V_PCU_ELB,190,0.241020346691297,-0.014039348824931672,1.0000000000000002,OBS_N
+Radial Distance from Sun,190,0.0204723286710861,-0.0011925058088152107,1.0000000000000002,OBS_N
+Electronic Box Temperature,190,-0.040374576538177,0.0023518046150866187,1.0000000000000002,OBS_N
+Outboard Sensor Temperature,190,0.0524527855841964,-0.003055355963781258,1.0000000000000002,OBS_N
+Inboard Sensor Temperature,190,-1.4058308044310386,0.081889140577501,1.0000000000000002,OBS_N
+Search Coil Magnetometer's Temperature,190,1.678780599176368,-0.0977883683096365,1.0000000000000002,OBS_N
+Solar Array's Angle,190,-21.69374507827351,1.2636528768383188,1.0000000000000002,OBS_N
+High Gain Antenna Azimuth,190,2.436445410806198,-0.14192207207727542,1.0000000000000002,OBS_N
+Heater Dutycycle,190,-0.1307235948587616,0.007614602555616805,1.0000000000000002,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,190,1.6740149954800363,-0.09751077360208313,1.0000000000000002,OBS_N
+2.5V_PCU_ELB,200,-1.6592246546587903,0.6507409409860828,1.0,OBS_N
+Radial Distance from Sun,200,0.00265391664734,-0.0010408549629126692,1.0,OBS_N
+Electronic Box Temperature,200,-0.1678302269141025,0.06582231012620172,1.0,OBS_N
+Outboard Sensor Temperature,200,0.1203424978856305,-0.047197822244761205,1.0,OBS_N
+Inboard Sensor Temperature,200,-1.0292812016238335,0.40367976440280107,1.0,OBS_N
+Search Coil Magnetometer's Temperature,200,0.9260740035852288,-0.36320233479156505,1.0,OBS_N
+Solar Array's Angle,200,5.596094045451904,-2.1947645816128873,1.0,OBS_N
+High Gain Antenna Azimuth,200,-5.138973573037524,2.0154838521904397,1.0,OBS_N
+Heater Dutycycle,200,-0.2802887648363413,0.10992807638513312,1.0,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,200,-0.9193128774604858,0.3605506495214678,1.0,OBS_N
+2.5V_PCU_ELB,210,0.2593560002720907,-0.014090563018760183,1.0000000000000002,OBS_N
+Radial Distance from Sun,210,-0.0022575699489025,0.00012265161245892718,1.0000000000000002,OBS_N
+Electronic Box Temperature,210,0.0387012878973419,-0.002102603893692754,1.0000000000000002,OBS_N
+Outboard Sensor Temperature,210,-0.3859098855787062,0.02096611436251564,1.0000000000000002,OBS_N
+Inboard Sensor Temperature,210,0.1937206845533761,-0.010524659197678274,1.0000000000000002,OBS_N
+Search Coil Magnetometer's Temperature,210,0.2693865191978775,-0.014635511502259273,1.0000000000000002,OBS_N
+Solar Array's Angle,210,-22.798053037301976,1.2385963798413375,1.0000000000000002,OBS_N
+High Gain Antenna Azimuth,210,3.239859737605363,-0.17601847559639727,1.0000000000000002,OBS_N
+Heater Dutycycle,210,-0.3422052006038007,0.018591680699103552,1.0000000000000002,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,210,1.121039707689077,-0.06090501330662775,1.0000000000000002,OBS_N
+2.5V_PCU_ELB,220,-2.173433910911033,0.15205736611665013,0.9999999999999999,OBS_N
+Radial Distance from Sun,220,-0.0145977131254053,0.001021282403864381,0.9999999999999999,OBS_N
+Electronic Box Temperature,220,0.0806655606820456,-0.005643508473875445,0.9999999999999999,OBS_N
+Outboard Sensor Temperature,220,-0.8110438842347902,0.05674209656095113,0.9999999999999999,OBS_N
+Inboard Sensor Temperature,220,-1.3568855102130382,0.09493016363141082,0.9999999999999999,OBS_N
+Search Coil Magnetometer's Temperature,220,0.282265095179326,-0.01974777641232394,0.9999999999999999,OBS_N
+Solar Array's Angle,220,-8.139804126232272,0.5694754139643975,0.9999999999999999,OBS_N
+High Gain Antenna Azimuth,220,-5.4935118865691575,0.3843360242097598,0.9999999999999999,OBS_N
+Heater Dutycycle,220,-0.3177066399746226,0.02222733096681192,0.9999999999999999,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,220,3.650540202322252,-0.25539839296764644,0.9999999999999999,OBS_N
+2.5V_PCU_ELB,230,0.4362362143342939,-0.01962049080325173,0.9999999999999997,OBS_N
+Radial Distance from Sun,230,-0.010288412066172,0.0004627394234851417,0.9999999999999997,OBS_N
+Electronic Box Temperature,230,0.0636728419537784,-0.0028637980271249554,0.9999999999999997,OBS_N
+Outboard Sensor Temperature,230,-1.0379740008974627,0.04668470583007732,0.9999999999999997,OBS_N
+Inboard Sensor Temperature,230,-0.0140754307852391,0.0006330672493456939,0.9999999999999997,OBS_N
+Search Coil Magnetometer's Temperature,230,0.145796849760653,-0.006557469682422662,0.9999999999999997,OBS_N
+Solar Array's Angle,230,-27.30222260775965,1.2279654691239785,0.9999999999999997,OBS_N
+High Gain Antenna Azimuth,230,4.050332087634052,-0.18217080761351168,0.9999999999999997,OBS_N
+Heater Dutycycle,230,-0.3611951277573803,0.016245385984649776,0.9999999999999997,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,230,1.796012083068591,-0.08077880148522565,0.9999999999999997,OBS_N
+2.5V_PCU_ELB,240,0.0495481370695012,-0.0006454892317370363,1.0000000000000002,OBS_N
+Radial Distance from Sun,240,-0.0278470236562261,0.00036277759304667665,1.0000000000000002,OBS_N
+Electronic Box Temperature,240,0.0923617147116883,-0.0012032438714605176,1.0000000000000002,OBS_N
+Outboard Sensor Temperature,240,0.244200442215454,-0.0031813255786870853,1.0000000000000002,OBS_N
+Inboard Sensor Temperature,240,-0.5222304689955015,0.006803366668432686,1.0000000000000002,OBS_N
+Search Coil Magnetometer's Temperature,240,0.3978292008426311,-0.005182726948023562,1.0000000000000002,OBS_N
+Solar Array's Angle,240,-65.51144795547157,0.853451546552442,1.0000000000000002,OBS_N
+High Gain Antenna Azimuth,240,-14.944755004106428,0.19469306005526477,1.0000000000000002,OBS_N
+Heater Dutycycle,240,0.5709156385391139,-0.007437613575468015,1.0000000000000002,OBS_N
+Outboard Sensor minus Inboard Sensor Temp.,240,2.8908309768430827,-0.03766035166380984,1.0000000000000002,OBS_N
+2.5V_PCU_ELB,10,0.4233718391018558,0.012198232665293374,1.0000000000000002,OBS_R
+Radial Distance from Sun,10,0.2250411424865995,0.0064839083797790225,1.0000000000000002,OBS_R
+Electronic Box Temperature,10,-0.334079170682262,-0.009625523183723313,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,10,-0.4765837332246511,-0.01373137919305441,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,10,0.4926703202352355,0.014194867580855247,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,10,-0.959251476194466,-0.027638051496219448,1.0000000000000002,OBS_R
+Solar Array's Angle,10,51.65196292385093,1.4882016307481867,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,10,-16.540888068109034,-0.476577756265992,1.0000000000000002,OBS_R
+Heater Dutycycle,10,0.2083117484529054,0.006001899370381314,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,10,0.017082106413083,0.0004921713944936143,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,20,-1.83178232931347,0.4043069440808673,0.9999999999999999,OBS_R
+Radial Distance from Sun,20,0.1878119145991076,-0.041453430376741894,0.9999999999999999,OBS_R
+Electronic Box Temperature,20,-1.5182236747567608,0.3350989713948087,0.9999999999999999,OBS_R
+Outboard Sensor Temperature,20,-0.9063199655964236,0.20004093815398957,0.9999999999999999,OBS_R
+Inboard Sensor Temperature,20,0.218458531826238,-0.048217683945101744,0.9999999999999999,OBS_R
+Search Coil Magnetometer's Temperature,20,1.192165299996674,-0.2631320881130859,0.9999999999999999,OBS_R
+Solar Array's Angle,20,12.717366189417776,-2.80694893630069,0.9999999999999999,OBS_R
+High Gain Antenna Azimuth,20,-14.478943744743978,3.1957604379501863,0.9999999999999999,OBS_R
+Heater Dutycycle,20,0.2723211747775598,-0.060106127360717375,0.9999999999999999,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,20,-0.3835258373584789,0.08465097451648514,0.9999999999999999,OBS_R
+2.5V_PCU_ELB,30,-0.3400368993784786,-0.015784755687906857,1.0000000000000002,OBS_R
+Radial Distance from Sun,30,0.1293939317355079,0.00600655871076314,1.0000000000000002,OBS_R
+Electronic Box Temperature,30,-0.7074563427158127,-0.03284062862013023,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,30,-0.2512709037572832,-0.011664174783789075,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,30,-0.6610584378635083,-0.030686804744359628,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,30,-0.5850071802636684,-0.02715645105872806,1.0000000000000002,OBS_R
+Solar Array's Angle,30,44.01050262307146,2.0429989594568547,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,30,-19.673520186322087,-0.91325885581773,1.0000000000000002,OBS_R
+Heater Dutycycle,30,-0.1179812879180091,-0.005476775635039327,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,30,-0.2614581024111936,-0.01213707181993446,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,40,-1.44593484961927,0.04790867259947819,1.0000000000000002,OBS_R
+Radial Distance from Sun,40,0.0783476706133378,-0.002595921179529288,1.0000000000000002,OBS_R
+Electronic Box Temperature,40,-0.260492962446329,0.008631005785354317,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,40,-1.358767373041076,0.045020521658371136,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,40,-0.4609442902164162,0.015272630777515244,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,40,-0.800619429616279,0.02652720773717224,1.0000000000000002,OBS_R
+Solar Array's Angle,40,2.4839484268754317,-0.08230154489221876,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,40,-27.464008784119564,0.9099747512510898,1.0000000000000002,OBS_R
+Heater Dutycycle,40,-0.3021042445715112,0.010009727165715812,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,40,-0.6504909971527022,0.021552949097051476,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,50,-0.5888204777819541,0.021645851464883067,1.0,OBS_R
+Radial Distance from Sun,50,0.1337732354229945,-0.004917688316226077,1.0,OBS_R
+Electronic Box Temperature,50,-0.4905805633318478,0.018034416950716458,1.0,OBS_R
+Outboard Sensor Temperature,50,-1.0771532277447222,0.03959763570131085,1.0,OBS_R
+Inboard Sensor Temperature,50,1.2067531160946856,-0.04436190603317177,1.0,OBS_R
+Search Coil Magnetometer's Temperature,50,-0.3936131271492296,0.01446976048964015,1.0,OBS_R
+Solar Array's Angle,50,3.790713997658549,-0.13935186569641544,1.0,OBS_R
+High Gain Antenna Azimuth,50,-28.49022130289345,1.0473397610883481,1.0,OBS_R
+Heater Dutycycle,50,0.0983444956979153,-0.0036152790648259396,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,50,-1.3916593402354194,0.051159313415740496,1.0,OBS_R
+2.5V_PCU_ELB,60,-1.0752527749889564,-0.017622203397181024,1.0,OBS_R
+Radial Distance from Sun,60,0.315550001525043,0.005171515422419813,1.0,OBS_R
+Electronic Box Temperature,60,-0.0879911977801263,-0.0014420783842747067,1.0,OBS_R
+Outboard Sensor Temperature,60,0.0062356479042216,0.0001021953704630311,1.0,OBS_R
+Inboard Sensor Temperature,60,0.8957988872811916,0.01468115271295136,1.0,OBS_R
+Search Coil Magnetometer's Temperature,60,-0.310519901577721,-0.005089077649235952,1.0,OBS_R
+Solar Array's Angle,60,85.50765960359995,1.401375941175352,1.0,OBS_R
+High Gain Antenna Azimuth,60,-22.914884160369954,-0.3755495999543256,1.0,OBS_R
+Heater Dutycycle,60,-0.2403964972192015,-0.003939832631457418,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,60,-1.079268254548304,-0.017688012664711417,1.0,OBS_R
+2.5V_PCU_ELB,70,-1.1981242093011335,0.02721616357462078,0.9999999999999999,OBS_R
+Radial Distance from Sun,70,0.2021050880015729,-0.004590947325505086,0.9999999999999999,OBS_R
+Electronic Box Temperature,70,-0.2647860463570284,0.006014785690820435,0.9999999999999999,OBS_R
+Outboard Sensor Temperature,70,0.0361744697107105,-0.0008217263929973827,0.9999999999999999,OBS_R
+Inboard Sensor Temperature,70,-1.3947658441620996,0.031683005040981455,0.9999999999999999,OBS_R
+Search Coil Magnetometer's Temperature,70,-0.5705835532605952,0.012961173138790706,0.9999999999999999,OBS_R
+Solar Array's Angle,70,-13.88508971422445,0.3154087614430608,0.9999999999999999,OBS_R
+High Gain Antenna Azimuth,70,-27.08820774143075,0.6153260965022307,0.9999999999999999,OBS_R
+Heater Dutycycle,70,-0.2745672145417815,0.00623697122984931,0.9999999999999999,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,70,0.4153209437881533,-0.009434282901851693,0.9999999999999999,OBS_R
+2.5V_PCU_ELB,80,0.3718031069543879,-0.008576348810687638,1.0,OBS_R
+Radial Distance from Sun,80,0.066590575911148,-0.0015360388222593335,1.0,OBS_R
+Electronic Box Temperature,80,-0.0858086364802002,0.0019793400960309206,1.0,OBS_R
+Outboard Sensor Temperature,80,-0.5257122603622677,0.012126557402531234,1.0,OBS_R
+Inboard Sensor Temperature,80,-1.049982095528396,0.02421984251286257,1.0,OBS_R
+Search Coil Magnetometer's Temperature,80,-0.542327516934104,0.012509820030717446,1.0,OBS_R
+Solar Array's Angle,80,-19.513334185665688,0.450112323715237,1.0,OBS_R
+High Gain Antenna Azimuth,80,-22.30883180282108,0.5145958156918439,1.0,OBS_R
+Heater Dutycycle,80,-0.2255085547393638,0.005201785539344875,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,80,0.4609675656430516,-0.010633097355620966,1.0,OBS_R
+2.5V_PCU_ELB,90,-0.1509730139649046,0.008506664711682179,1.0000000000000002,OBS_R
+Radial Distance from Sun,90,-0.065285831261682,0.0036785691851901987,1.0000000000000002,OBS_R
+Electronic Box Temperature,90,-0.5602837137778766,0.0315695207464855,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,90,0.312743001935679,-0.017621691377309543,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,90,-0.0747780688696597,0.004213414986927037,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,90,0.7070728421015883,-0.0398404419209159,1.0000000000000002,OBS_R
+Solar Array's Angle,90,10.21309311954518,-0.5754628364070095,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,90,-26.7130233432118,1.505161267223998,1.0000000000000002,OBS_R
+Heater Dutycycle,90,-0.2566381365638226,0.014460429202843078,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,90,-1.1595422941635969,0.06533510364810913,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,100,0.1421976664243465,-0.03020841661516254,1.0,OBS_R
+Radial Distance from Sun,100,-0.1349571417175502,0.02867024237957022,1.0,OBS_R
+Electronic Box Temperature,100,-1.153195822765589,0.24498446935837717,1.0,OBS_R
+Outboard Sensor Temperature,100,-0.1703221905006325,0.036183179505182454,1.0,OBS_R
+Inboard Sensor Temperature,100,-1.248111864634141,0.26514839615356756,1.0,OBS_R
+Search Coil Magnetometer's Temperature,100,1.038407264534432,-0.2205988329629621,1.0,OBS_R
+Solar Array's Angle,100,21.138895407618705,-4.490738669030353,1.0,OBS_R
+High Gain Antenna Azimuth,100,-22.13393779302754,4.702125084039965,1.0,OBS_R
+Heater Dutycycle,100,-0.147010687352885,0.0312308928979512,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,100,-2.039184956596624,0.4332036542738648,1.0,OBS_R
+2.5V_PCU_ELB,110,0.1207782130847723,-0.002554221152876945,1.0,OBS_R
+Radial Distance from Sun,110,-0.1293624221057866,0.0027357602541948486,1.0,OBS_R
+Electronic Box Temperature,110,-0.6992317924271525,0.014787374223925091,1.0,OBS_R
+Outboard Sensor Temperature,110,-0.2591341851566741,0.00548017726256755,1.0,OBS_R
+Inboard Sensor Temperature,110,0.0677239058213553,-0.0014322271242988055,1.0,OBS_R
+Search Coil Magnetometer's Temperature,110,0.811488164920556,-0.017161375244842954,1.0,OBS_R
+Solar Array's Angle,110,-18.679283314949235,0.3950300252425254,1.0,OBS_R
+High Gain Antenna Azimuth,110,-26.51029692605167,0.5606405281889958,1.0,OBS_R
+Heater Dutycycle,110,-0.2896522017870296,0.00612557316328677,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,110,-1.7187599462170786,0.036348385186523384,1.0,OBS_R
+2.5V_PCU_ELB,120,-0.2052704067659465,0.006848418312290904,1.0,OBS_R
+Radial Distance from Sun,120,-0.1474145753085168,0.0049181793564259365,1.0,OBS_R
+Electronic Box Temperature,120,-0.1596219357963321,0.0053254524379511,1.0,OBS_R
+Outboard Sensor Temperature,120,-0.2231517170979132,0.007444990877496698,1.0,OBS_R
+Inboard Sensor Temperature,120,0.1027346219433815,-0.0034275260487283063,1.0,OBS_R
+Search Coil Magnetometer's Temperature,120,-0.5350142317840159,0.017849632199850772,1.0,OBS_R
+Solar Array's Angle,120,-15.484995453538584,0.5166245251838606,1.0,OBS_R
+High Gain Antenna Azimuth,120,-11.669404873622064,0.3893253162457705,1.0,OBS_R
+Heater Dutycycle,120,-0.1317426025656221,0.00439531672457788,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,120,-1.5195225233001703,0.05069569471050386,1.0,OBS_R
+2.5V_PCU_ELB,130,0.3167835355621669,-0.04186735706530695,1.0,OBS_R
+Radial Distance from Sun,130,-0.1271835727997818,0.016809080831175195,1.0,OBS_R
+Electronic Box Temperature,130,-0.2961706447212792,0.039143076400113476,1.0,OBS_R
+Outboard Sensor Temperature,130,-0.3903020546189811,0.05158385348233797,1.0,OBS_R
+Inboard Sensor Temperature,130,0.477849203516771,-0.06315442875370986,1.0,OBS_R
+Search Coil Magnetometer's Temperature,130,0.0613882188931135,-0.008113308273550807,1.0,OBS_R
+Solar Array's Angle,130,-3.236543309091503,0.42775428381590214,1.0,OBS_R
+High Gain Antenna Azimuth,130,-2.477483755960182,0.3274339900595218,1.0,OBS_R
+Heater Dutycycle,130,-0.1625171854936245,0.021478909951035074,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,130,-1.7321813848931198,0.2289318995524821,1.0,OBS_R
+2.5V_PCU_ELB,140,0.7663730817187286,0.08026118220886742,1.0000000000000002,OBS_R
+Radial Distance from Sun,140,-0.0927251214905765,-0.00971097243473636,1.0000000000000002,OBS_R
+Electronic Box Temperature,140,-0.4310956858669059,-0.04514804893097649,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,140,-0.207288583305525,-0.02170904374301715,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,140,-1.0605530153706846,-0.11107023568459723,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,140,0.3901996072847022,0.040865059753756025,1.0000000000000002,OBS_R
+Solar Array's Angle,140,17.66234915440288,1.8497531522622652,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,140,-6.044723569745924,-0.6330554548517838,1.0000000000000002,OBS_R
+Heater Dutycycle,140,-0.0714163444463884,-0.007479333983714396,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,140,-1.3626296974964494,-0.14270630459606307,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,150,-0.4170121395253058,-0.0764815130337982,1.0000000000000004,OBS_R
+Radial Distance from Sun,150,-0.0529308289111979,-0.00970770272028463,1.0000000000000004,OBS_R
+Electronic Box Temperature,150,-0.166698929789776,-0.03057317800376237,1.0000000000000004,OBS_R
+Outboard Sensor Temperature,150,-0.2135689240592702,-0.03916930204393275,1.0000000000000004,OBS_R
+Inboard Sensor Temperature,150,-0.3029952639138149,-0.05557041157742437,1.0000000000000004,OBS_R
+Search Coil Magnetometer's Temperature,150,0.0816459284788986,0.014974154350095376,1.0000000000000004,OBS_R
+Solar Array's Angle,150,21.444346683199505,3.9329696306188304,1.0000000000000004,OBS_R
+High Gain Antenna Azimuth,150,-13.948418589007488,-2.5581896952218393,1.0000000000000004,OBS_R
+Heater Dutycycle,150,-0.1643373885381784,-0.030140062919344176,1.0000000000000004,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,150,-0.807573830176984,-0.1481119194485398,1.0000000000000004,OBS_R
+2.5V_PCU_ELB,160,0.1060478583959025,0.009252387234533059,1.0000000000000002,OBS_R
+Radial Distance from Sun,160,-0.0309734498272121,-0.002702349261225819,1.0000000000000002,OBS_R
+Electronic Box Temperature,160,-0.1956953774525258,-0.01707388946450274,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,160,-0.4442546934565127,-0.03876001379748046,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,160,-0.7950454538877683,-0.06936555362544647,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,160,0.0708019029514927,0.006177273477823961,1.0000000000000002,OBS_R
+Solar Array's Angle,160,17.487723603718017,1.525756324357181,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,160,-3.6191927919749487,-0.3157647282491177,1.0000000000000002,OBS_R
+Heater Dutycycle,160,0.1102756116269607,0.009621247206035417,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,160,-1.2280118923877408,-0.10714069787780009,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,170,-0.5204339062853665,-0.022137192096148377,1.0,OBS_R
+Radial Distance from Sun,170,-0.0211522505558692,-0.000899732757927544,1.0,OBS_R
+Electronic Box Temperature,170,-0.1876940872949306,-0.007983761272235063,1.0,OBS_R
+Outboard Sensor Temperature,170,-0.7766401398204168,-0.03303518805586231,1.0,OBS_R
+Inboard Sensor Temperature,170,-1.4382537086725034,-0.061177602472393476,1.0,OBS_R
+Search Coil Magnetometer's Temperature,170,-0.4198488072259101,-0.017858701334886637,1.0,OBS_R
+Solar Array's Angle,170,39.53100140606525,1.6814918499936025,1.0,OBS_R
+High Gain Antenna Azimuth,170,-10.754977437733102,-0.45747403974538814,1.0,OBS_R
+Heater Dutycycle,170,0.1395256428706773,0.005934866889462746,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,170,-2.0420452908963105,-0.08686049914822372,1.0,OBS_R
+2.5V_PCU_ELB,180,-0.6605899372270401,-0.11240528708777182,1.0000000000000002,OBS_R
+Radial Distance from Sun,180,-0.0021401974400211,-0.00036417373943043276,1.0000000000000002,OBS_R
+Electronic Box Temperature,180,-0.403015175524637,-0.06857663726416396,1.0000000000000002,OBS_R
+Outboard Sensor Temperature,180,-0.5602968190544417,-0.09533951586449003,1.0000000000000002,OBS_R
+Inboard Sensor Temperature,180,-0.807146622733273,-0.13734321814090333,1.0000000000000002,OBS_R
+Search Coil Magnetometer's Temperature,180,-0.6672921587784425,-0.11354573003907327,1.0000000000000002,OBS_R
+Solar Array's Angle,180,28.48298677540459,4.846634992724966,1.0000000000000002,OBS_R
+High Gain Antenna Azimuth,180,-17.950704921484544,-3.05447301937005,1.0000000000000002,OBS_R
+Heater Dutycycle,180,-0.2810583200400233,-0.04782458734554955,1.0000000000000002,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,180,-1.2738843868079142,-0.216762823873534,1.0000000000000002,OBS_R
+2.5V_PCU_ELB,190,-0.4224327058622564,-0.11760155581979856,1.0,OBS_R
+Radial Distance from Sun,190,0.0059178432800998,0.001647475603047662,1.0,OBS_R
+Electronic Box Temperature,190,-0.4050462886901492,-0.11276132995376777,1.0,OBS_R
+Outboard Sensor Temperature,190,-0.6289448644072793,-0.17509272732136935,1.0,OBS_R
+Inboard Sensor Temperature,190,-1.373549128822116,-0.3823840159693523,1.0,OBS_R
+Search Coil Magnetometer's Temperature,190,-0.3639468953279761,-0.10131961974627858,1.0,OBS_R
+Solar Array's Angle,190,12.946272739565693,3.604128646082666,1.0,OBS_R
+High Gain Antenna Azimuth,190,-5.481249661493673,-1.5259317734706543,1.0,OBS_R
+Heater Dutycycle,190,0.0511557448084077,0.014241310142664422,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,190,-0.736109459472547,-0.20492640954715705,1.0,OBS_R
+2.5V_PCU_ELB,200,0.9893222486139304,-0.3903966614913017,0.9999999999999998,OBS_R
+Radial Distance from Sun,200,0.0096148218040551,-0.003794106862951664,0.9999999999999998,OBS_R
+Electronic Box Temperature,200,-0.2209148404186405,0.08717525183948092,0.9999999999999998,OBS_R
+Outboard Sensor Temperature,200,-0.3012787857479229,0.118887685280432,0.9999999999999998,OBS_R
+Inboard Sensor Temperature,200,-0.9491754742417764,0.3745543343764592,0.9999999999999998,OBS_R
+Search Coil Magnetometer's Temperature,200,-0.3511801995527617,0.13857929272219222,0.9999999999999998,OBS_R
+Solar Array's Angle,200,9.32234101817749,-3.6786909582583793,0.9999999999999998,OBS_R
+High Gain Antenna Azimuth,200,-10.851790158569536,4.282227206600453,0.9999999999999998,OBS_R
+Heater Dutycycle,200,-0.2065208469997722,0.08149523505614581,0.9999999999999998,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,200,0.0254359339345784,-0.010037279262530572,0.9999999999999998,OBS_R
+2.5V_PCU_ELB,210,-0.292719075582045,0.055701524907925515,0.9999999999999999,OBS_R
+Radial Distance from Sun,210,0.0246466167906234,-0.004690005720772416,0.9999999999999999,OBS_R
+Electronic Box Temperature,210,-0.4195923489351263,0.07984424530212787,0.9999999999999999,OBS_R
+Outboard Sensor Temperature,210,-0.6670978860851556,0.12694208412591748,0.9999999999999999,OBS_R
+Inboard Sensor Temperature,210,-0.9142485342852128,0.17397239111684953,0.9999999999999999,OBS_R
+Search Coil Magnetometer's Temperature,210,-0.3822328864777314,0.07273511165759358,0.9999999999999999,OBS_R
+Solar Array's Angle,210,9.3889615960322,-1.786625887503392,0.9999999999999999,OBS_R
+High Gain Antenna Azimuth,210,-10.302538503129057,1.9604704746550006,0.9999999999999999,OBS_R
+Heater Dutycycle,210,-0.0584811000423014,0.011128370927558863,0.9999999999999999,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,210,-1.6318336410127785,0.3105216905311909,0.9999999999999999,OBS_R
+2.5V_PCU_ELB,220,0.3971687970968166,-0.025523442145394485,1.0,OBS_R
+Radial Distance from Sun,220,0.0506584907665219,-0.003255490027674901,1.0,OBS_R
+Electronic Box Temperature,220,-0.3690280927719334,0.023715023044959153,1.0,OBS_R
+Outboard Sensor Temperature,220,-0.1651071307067122,0.010610355922188912,1.0,OBS_R
+Inboard Sensor Temperature,220,-0.2104710257875388,0.013525596897937014,1.0,OBS_R
+Search Coil Magnetometer's Temperature,220,-0.3249807010053727,0.020884385130734272,1.0,OBS_R
+Solar Array's Angle,220,0.6617931583760764,-0.04252911989436107,1.0,OBS_R
+High Gain Antenna Azimuth,220,-13.648609737595129,0.8771069216639861,1.0,OBS_R
+Heater Dutycycle,220,-0.2280434932251951,0.014654864502228488,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,220,-1.7243220391583207,0.11081090490539647,1.0,OBS_R
+2.5V_PCU_ELB,230,-0.8111417955590615,-0.10136895757458504,1.0,OBS_R
+Radial Distance from Sun,230,0.0410718718443222,0.005132780553647036,1.0,OBS_R
+Electronic Box Temperature,230,-0.5136429318106841,-0.06419031647520564,1.0,OBS_R
+Outboard Sensor Temperature,230,-0.4429275931479686,-0.05535297113802868,1.0,OBS_R
+Inboard Sensor Temperature,230,0.4278647660812606,0.05347055910324252,1.0,OBS_R
+Search Coil Magnetometer's Temperature,230,-0.1062476807591847,-0.013277846983402841,1.0,OBS_R
+Solar Array's Angle,230,18.66296202362117,2.3323234186011015,1.0,OBS_R
+High Gain Antenna Azimuth,230,-7.851661182678931,-0.9812275901384543,1.0,OBS_R
+Heater Dutycycle,230,-0.1960275962824303,-0.02449770582627398,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,230,-1.2083742088449447,-0.15101137012204052,1.0,OBS_R
+2.5V_PCU_ELB,240,0.5036064593880067,0.009916549766125752,1.0,OBS_R
+Radial Distance from Sun,240,0.0421555821493494,0.0008300884957115805,1.0,OBS_R
+Electronic Box Temperature,240,-0.5093426293783238,-0.010029501087768967,1.0,OBS_R
+Outboard Sensor Temperature,240,-0.0742140868992339,-0.0014613547391313711,1.0,OBS_R
+Inboard Sensor Temperature,240,1.6644631975256994,0.032775060415639844,1.0,OBS_R
+Search Coil Magnetometer's Temperature,240,3.797108306825541,0.07476912337018704,1.0,OBS_R
+Solar Array's Angle,240,60.19150883882837,1.1852351807079589,1.0,OBS_R
+High Gain Antenna Azimuth,240,-10.94009710199676,-0.2154222118001344,1.0,OBS_R
+Heater Dutycycle,240,-0.2430466214983093,-0.004785847902955057,1.0,OBS_R
+Outboard Sensor minus Inboard Sensor Temp.,240,-3.64769863903853,-0.07182708722563338,1.0,OBS_R
+2.5V_PCU_ELB,10,0.2420278557200155,0.025894464246750744,1.0000000000000002,OBS_T
+Radial Distance from Sun,10,0.0987285597242838,0.01056292942937576,1.0000000000000002,OBS_T
+Electronic Box Temperature,10,0.1882591624941927,0.02014177309395533,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,10,-0.294975813391819,-0.03155934522828977,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,10,0.1100332225385376,0.011772410818178806,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,10,-0.6157770237639026,-0.06588173943197194,1.0000000000000002,OBS_T
+Solar Array's Angle,10,22.989496835853647,2.4596371442279845,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,10,-12.20494704713333,-1.3058024416457439,1.0000000000000002,OBS_T
+Heater Dutycycle,10,0.1641200865421181,0.017559142936236245,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,10,-1.3302632610092568,-0.1423243384464756,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,20,-0.0022979568946859,0.0002143856131282542,0.9999999999999999,OBS_T
+Radial Distance from Sun,20,0.2415053994304009,-0.022531007109142236,0.9999999999999999,OBS_T
+Electronic Box Temperature,20,-0.3260668608988165,0.030420084926855384,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,20,-1.4534136204581147,0.13559478459819369,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,20,1.0268624688060422,-0.09580011726175873,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,20,1.3072964973496493,-0.12196293227816715,0.9999999999999999,OBS_T
+Solar Array's Angle,20,-0.2691618323100601,0.025111186630158263,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,20,-11.470506442481478,1.0701295408324485,0.9999999999999999,OBS_T
+Heater Dutycycle,20,0.2311659220820413,-0.021566395807738014,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,20,-0.0041853689933754,0.0003904698560220016,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,30,0.2699791579686828,-0.012703845769661846,1.0000000000000002,OBS_T
+Radial Distance from Sun,30,0.3090400678880002,-0.014541853484669328,1.0000000000000002,OBS_T
+Electronic Box Temperature,30,-0.0178317419178549,0.0008390710632378524,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,30,-0.9788348153544312,0.04605898700402852,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,30,-0.1044308358131735,0.0049139838858276875,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,30,0.3461022454186522,-0.016285811021168665,1.0000000000000002,OBS_T
+Solar Array's Angle,30,-9.209999338091352,0.43337571688912496,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,30,-12.906729498681118,0.6073250327012636,1.0000000000000002,OBS_T
+Heater Dutycycle,30,0.0383112116327439,-0.0018027307274130757,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,30,1.0026275176878925,-0.04717855054056947,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,40,0.359534746496623,-0.11419867707153923,0.9999999999999999,OBS_T
+Radial Distance from Sun,40,0.2699546842710199,-0.08574544773047434,0.9999999999999999,OBS_T
+Electronic Box Temperature,40,-0.2176527556236474,0.06913283624293323,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,40,-0.4549654089450337,0.14451022695611063,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,40,-0.0520288396158095,0.016525870480083193,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,40,-0.0224431130781271,0.00712858450501153,0.9999999999999999,OBS_T
+Solar Array's Angle,40,4.0333531827381846,-1.2811101072127091,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,40,-7.347928481980772,2.3339154839276968,0.9999999999999999,OBS_T
+Heater Dutycycle,40,-0.0063633967627667,0.0020211996172005537,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,40,0.2902126617678806,-0.09217996971431335,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,50,0.2955603543957831,-0.006510278541144679,1.0000000000000002,OBS_T
+Radial Distance from Sun,50,0.1750277265834355,-0.0038553183318883436,1.0000000000000002,OBS_T
+Electronic Box Temperature,50,-0.2747439672434597,0.0060517580509423415,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,50,-0.6420757177490882,0.014142937998559918,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,50,-0.1107133727582835,0.0024386724544281048,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,50,-0.0433693464619892,0.0009552922826613906,1.0000000000000002,OBS_T
+Solar Array's Angle,50,-35.54595960756176,0.7829673182338239,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,50,-9.172857718723796,0.20204962498865134,1.0000000000000002,OBS_T
+Heater Dutycycle,50,-0.0180248514836026,0.0003970316115668187,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,50,-0.0618771237268807,0.0013629612523993278,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,60,0.3621928800911556,-0.009808979608206989,0.9999999999999999,OBS_T
+Radial Distance from Sun,60,0.1875174281392904,-0.00507838428060429,0.9999999999999999,OBS_T
+Electronic Box Temperature,60,-0.6997810036302121,0.018951608306303058,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,60,0.1693538418251554,-0.004586474423838421,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,60,-1.1324638899143804,0.030669612280631288,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,60,-0.3634417969046109,0.00984280302172204,0.9999999999999999,OBS_T
+Solar Array's Angle,60,-31.22684389232516,0.8456915963985568,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,60,-5.135213114646971,0.1390728628146748,0.9999999999999999,OBS_T
+Heater Dutycycle,60,0.0455414612411503,-0.0012333629101984674,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,60,0.8685144700131203,-0.023521281599039996,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,70,-0.0317009797648522,0.0030146084576412125,0.9999999999999999,OBS_T
+Radial Distance from Sun,70,0.1830825186676321,-0.017410253983179125,0.9999999999999999,OBS_T
+Electronic Box Temperature,70,-0.2117071877861966,0.0201323203124249,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,70,0.176067507457331,-0.016743160654143645,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,70,-0.2990753824018696,0.028440609216141034,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,70,0.1711723918190957,-0.01627765904777004,0.9999999999999999,OBS_T
+Solar Array's Angle,70,7.544638790170525,-0.7174583270108614,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,70,-18.016170589816536,1.7132498943955279,0.9999999999999999,OBS_T
+Heater Dutycycle,70,-0.1266558872289046,0.012044356725959623,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,70,0.0945620391781596,-0.008992388411740583,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,80,0.4927701175254043,-0.0337874754836874,1.0,OBS_T
+Radial Distance from Sun,80,0.1684249539589758,-0.011548293616722199,1.0,OBS_T
+Electronic Box Temperature,80,-0.140011306588185,0.00960007196163525,1.0,OBS_T
+Outboard Sensor Temperature,80,-0.033280782961386,0.0022819436455129194,1.0,OBS_T
+Inboard Sensor Temperature,80,-0.130006087235742,0.00891405003872075,1.0,OBS_T
+Search Coil Magnetometer's Temperature,80,-1.2775418779160317,0.08759645389261364,1.0,OBS_T
+Solar Array's Angle,80,-1.59728716327805,0.10952023864735148,1.0,OBS_T
+High Gain Antenna Azimuth,80,-11.615847988585095,0.7964569383944535,1.0,OBS_T
+Heater Dutycycle,80,0.1511068563345429,-0.01036085391999695,1.0,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,80,-0.6027284994610859,0.041326926440118913,1.0,OBS_T
+2.5V_PCU_ELB,90,0.1436189629155531,-0.00603878771212187,1.0,OBS_T
+Radial Distance from Sun,90,0.1968249427521792,-0.008275954801524566,1.0,OBS_T
+Electronic Box Temperature,90,-0.2988285066518377,0.012564927899262963,1.0,OBS_T
+Outboard Sensor Temperature,90,-0.601246222536423,0.0252807723082329,1.0,OBS_T
+Inboard Sensor Temperature,90,0.2569649490451103,-0.010804678889458743,1.0,OBS_T
+Search Coil Magnetometer's Temperature,90,0.2031307238524895,-0.008541095787442105,1.0,OBS_T
+Solar Array's Angle,90,-9.631903690585974,0.40499541613632506,1.0,OBS_T
+High Gain Antenna Azimuth,90,-14.823295691094325,0.6232793640569838,1.0,OBS_T
+Heater Dutycycle,90,-0.0089635887916471,0.0003768945879614756,1.0,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,90,0.7809506952726819,-0.03283685779821898,1.0,OBS_T
+2.5V_PCU_ELB,100,0.4271668610438872,-0.06119904127996959,1.0000000000000002,OBS_T
+Radial Distance from Sun,100,0.2339041621248911,-0.033510816916968694,1.0000000000000002,OBS_T
+Electronic Box Temperature,100,0.0719990200614058,-0.010315104945377847,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,100,-0.5604267834252138,0.08029083007381628,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,100,-0.4446472825461733,0.06370341400798364,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,100,0.2847630940799125,-0.04079723859435331,1.0000000000000002,OBS_T
+Solar Array's Angle,100,7.723908961106689,-1.1065835542540612,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,100,-13.527946138965603,1.9381122687480736,1.0000000000000002,OBS_T
+Heater Dutycycle,100,0.0452250230316023,-0.00647926677794008,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,100,-1.2339069307493755,0.1767785099387972,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,110,0.4857193727075795,0.060871398516201033,0.9999999999999999,OBS_T
+Radial Distance from Sun,110,0.2640181736837145,0.03308732648696797,0.9999999999999999,OBS_T
+Electronic Box Temperature,110,0.7590446164464325,0.095125107079277,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,110,-1.244260023713224,-0.1559333475603896,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,110,-0.2680031516429351,-0.03358673251247157,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,110,0.2733294017615439,0.03425422965544016,0.9999999999999999,OBS_T
+Solar Array's Angle,110,22.00171643745018,2.757302517786896,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,110,-14.126272273659042,-1.770334883545901,0.9999999999999999,OBS_T
+Heater Dutycycle,110,-0.0795140448259693,-0.009964871450887307,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,110,-0.0863434279003344,-0.010820744455132808,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,120,0.0237836572713208,-0.0007894456836234003,1.0000000000000002,OBS_T
+Radial Distance from Sun,120,0.2717336147458256,-0.009019593866883995,1.0000000000000002,OBS_T
+Electronic Box Temperature,120,0.7859267374119774,-0.0260870926374416,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,120,-1.2979704686156814,0.04308324713183977,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,120,-0.410128449407541,0.013613303051854857,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,120,0.5022846691345306,-0.016672224102245583,1.0000000000000002,OBS_T
+Solar Array's Angle,120,-3.6263615558715943,0.12036901830875085,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,120,-25.56322642935462,0.848514529700878,1.0000000000000002,OBS_T
+Heater Dutycycle,120,-0.0156539181529614,0.0005195970483711518,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,120,-0.7974222620597566,0.02646866104850001,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,130,0.0918387971639003,-0.002117785371033304,0.9999999999999999,OBS_T
+Radial Distance from Sun,130,0.2444074297746618,-0.005635989313153655,0.9999999999999999,OBS_T
+Electronic Box Temperature,130,0.0743090976127949,-0.001713553799906709,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,130,-0.9653032108151371,0.022259710292452998,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,130,-1.0948531182732626,0.025247106766558614,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,130,1.180002905145227,-0.027210644819678203,0.9999999999999999,OBS_T
+Solar Array's Angle,130,-22.062992996810685,0.508768464448294,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,130,-19.35341014837441,0.44628599412825937,0.9999999999999999,OBS_T
+Heater Dutycycle,130,0.1641810796745734,-0.0037859847850004046,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,130,-1.6436683402385588,0.03790268245320711,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,140,0.2095194585247006,-0.00896558702496093,1.0,OBS_T
+Radial Distance from Sun,140,0.1903005345216805,-0.008143186390249127,1.0,OBS_T
+Electronic Box Temperature,140,0.000345400465026,-1.4780097034698569e-05,1.0,OBS_T
+Outboard Sensor Temperature,140,-0.8443080796632774,0.036128947723518254,1.0,OBS_T
+Inboard Sensor Temperature,140,1.4471951849500724,-0.061927204585843575,1.0,OBS_T
+Search Coil Magnetometer's Temperature,140,0.3266584430573535,-0.013978103605702471,1.0,OBS_T
+Solar Array's Angle,140,0.0175990239020855,-0.0007530831811972891,1.0,OBS_T
+High Gain Antenna Azimuth,140,-22.621055776291733,0.967981902907261,1.0,OBS_T
+Heater Dutycycle,140,-0.1003624255743688,0.004294627653483974,1.0,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,140,-1.9951879339450185,0.08537646660072487,1.0,OBS_T
+2.5V_PCU_ELB,150,-1.1099881183330915,0.398156977228584,1.0,OBS_T
+Radial Distance from Sun,150,0.1419876687943478,-0.050931519065077056,1.0,OBS_T
+Electronic Box Temperature,150,0.3778068251289305,-0.13552075106494282,1.0,OBS_T
+Outboard Sensor Temperature,150,-1.3988079558276394,0.5017577559767142,1.0,OBS_T
+Inboard Sensor Temperature,150,-0.5757310301837956,0.2065169193152477,1.0,OBS_T
+Search Coil Magnetometer's Temperature,150,0.179883687846334,-0.06452496582862863,1.0,OBS_T
+Solar Array's Angle,150,0.0099662388370263,-0.0035749279331454354,1.0,OBS_T
+High Gain Antenna Azimuth,150,0.2331537220249293,-0.08363313053336836,1.0,OBS_T
+Heater Dutycycle,150,0.0485978159709423,-0.017432222189872906,1.0,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,150,-0.6946841678543635,0.24918586409448928,1.0,OBS_T
+2.5V_PCU_ELB,160,-0.092758792532266,0.0020127472002345304,1.0000000000000002,OBS_T
+Radial Distance from Sun,160,0.1206501692486071,-0.002617954414170336,1.0000000000000002,OBS_T
+Electronic Box Temperature,160,0.07048309479537,-0.0015293930401681175,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,160,-0.9951776880327644,0.021594083435562884,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,160,-0.0741672049697339,0.0016093335205945648,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,160,-0.4412627755081361,0.009574838047431216,1.0000000000000002,OBS_T
+Solar Array's Angle,160,-8.937545678466416,0.1939333140310559,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,160,-34.47878228238514,0.7481454923232961,1.0000000000000002,OBS_T
+Heater Dutycycle,160,-0.2823717324912495,0.006127105565754741,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,160,-0.9747317780565324,0.021150433330408776,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,170,-0.3663414083135513,-0.022852252164872536,0.9999999999999999,OBS_T
+Radial Distance from Sun,170,0.1181425806636829,0.007369693907013915,0.9999999999999999,OBS_T
+Electronic Box Temperature,170,-0.1764925068026402,-0.011009542408081696,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,170,-0.5717513438095808,-0.035665653916901095,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,170,-0.2811456887525395,-0.017537772221863628,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,170,0.2474746948925437,0.015437387103313447,0.9999999999999999,OBS_T
+Solar Array's Angle,170,19.318186688818344,1.205061900081773,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,170,-1.5948091953162629,-0.09948365393363195,0.9999999999999999,OBS_T
+Heater Dutycycle,170,-0.023012476209413,-0.0014355104209937684,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,170,-0.6393846423834086,-0.03988459602575594,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,180,0.5911575850538413,-0.02698250937568714,1.0000000000000002,OBS_T
+Radial Distance from Sun,180,0.1241696773762708,-0.005667540379569225,1.0000000000000002,OBS_T
+Electronic Box Temperature,180,0.1359912945535408,-0.006207120526024456,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,180,-0.7053019013282104,0.03219245704771786,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,180,-0.7612908782624513,0.034747990687577515,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,180,0.0587495943944381,-0.002681537920927404,1.0000000000000002,OBS_T
+Solar Array's Angle,180,-2.4402925711573693,0.11138352758288021,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,180,-19.15400606916181,0.8742561398346193,1.0000000000000002,OBS_T
+Heater Dutycycle,180,0.2332227057454091,-0.01064510378197292,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,180,0.0086825736200015,-0.00039630316861357165,1.0000000000000002,OBS_T
+2.5V_PCU_ELB,190,1.0269677174109284,-0.12045430243184704,0.9999999999999999,OBS_T
+Radial Distance from Sun,190,0.1364645016638581,-0.01600608867829903,0.9999999999999999,OBS_T
+Electronic Box Temperature,190,-1.1447825836729362,0.13427295251314558,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,190,-0.5713005277566976,0.06700853920059822,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,190,0.6410134645439467,-0.07518525501047163,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,190,-1.4950413178701245,0.1753552287941849,0.9999999999999999,OBS_T
+Solar Array's Angle,190,9.01529692556723,-1.0574152273480413,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,190,-14.540681737829836,1.7054943849933641,0.9999999999999999,OBS_T
+Heater Dutycycle,190,-0.2874029698953932,0.03370984663750476,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,190,-1.3063204027854405,0.1532199213298613,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,200,1.964187946273219,0.22996728180893744,1.0,OBS_T
+Radial Distance from Sun,200,0.1371181404731387,0.01605380285075711,1.0,OBS_T
+Electronic Box Temperature,200,-0.5392168706080044,-0.06313155432733501,1.0,OBS_T
+Outboard Sensor Temperature,200,-0.5249407869527749,-0.06146010931144474,1.0,OBS_T
+Inboard Sensor Temperature,200,1.1702308241862778,0.13701071846905477,1.0,OBS_T
+Search Coil Magnetometer's Temperature,200,-1.299454857893661,-0.1521402786684532,1.0,OBS_T
+Solar Array's Angle,200,23.86074821699574,2.7936183091853124,1.0,OBS_T
+High Gain Antenna Azimuth,200,-13.587159653269447,-1.590785738653447,1.0,OBS_T
+Heater Dutycycle,200,-0.098778008790283,-0.011564937167596767,1.0,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,200,-2.541572351879361,-0.29756749418578493,1.0,OBS_T
+2.5V_PCU_ELB,210,1.044711618577352,0.3390135729815812,0.9999999999999999,OBS_T
+Radial Distance from Sun,210,0.1393279807093908,0.045212550254701805,0.9999999999999999,OBS_T
+Electronic Box Temperature,210,-0.0973815679419969,-0.03160075249811208,0.9999999999999999,OBS_T
+Outboard Sensor Temperature,210,-0.7187336947229518,-0.2332322849075694,0.9999999999999999,OBS_T
+Inboard Sensor Temperature,210,-0.4772661479972543,-0.15487499058930532,0.9999999999999999,OBS_T
+Search Coil Magnetometer's Temperature,210,-0.1095531329319835,-0.035550479544942434,0.9999999999999999,OBS_T
+Solar Array's Angle,210,10.781629806761073,3.4986868896243215,0.9999999999999999,OBS_T
+High Gain Antenna Azimuth,210,-5.34056629327529,-1.7330375470445687,0.9999999999999999,OBS_T
+Heater Dutycycle,210,0.248856891748552,0.08075516968754819,0.9999999999999999,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,210,-2.3894036562621204,-0.7753721279636546,0.9999999999999999,OBS_T
+2.5V_PCU_ELB,220,0.4872898242855697,0.29812404485335636,1.0000000000000009,OBS_T
+Radial Distance from Sun,220,0.1336474164255491,0.08176552512132047,1.0000000000000009,OBS_T
+Electronic Box Temperature,220,-0.393245271708446,-0.24058756242870882,1.0000000000000009,OBS_T
+Outboard Sensor Temperature,220,-0.9558697943772404,-0.5848013959057913,1.0000000000000009,OBS_T
+Inboard Sensor Temperature,220,-0.2751873352076543,-0.1683596852957141,1.0000000000000009,OBS_T
+Search Coil Magnetometer's Temperature,220,-0.2447671643667262,-0.14974861663750041,1.0000000000000009,OBS_T
+Solar Array's Angle,220,18.939555716735544,11.587225254040495,1.0000000000000009,OBS_T
+High Gain Antenna Azimuth,220,-14.298920187191571,-8.748083195643902,1.0000000000000009,OBS_T
+Heater Dutycycle,220,0.1205781859503819,0.07376976642044876,1.0000000000000009,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,220,-1.8785610199216225,-1.1493041345240038,1.0000000000000009,OBS_T
+2.5V_PCU_ELB,230,0.2398263244993847,0.00869805787165391,1.0,OBS_T
+Radial Distance from Sun,230,0.1239728386674851,0.004496265901976769,1.0,OBS_T
+Electronic Box Temperature,230,0.6599060879205865,0.023933575075928422,1.0,OBS_T
+Outboard Sensor Temperature,230,-0.5971391594161354,-0.021657134498784522,1.0,OBS_T
+Inboard Sensor Temperature,230,-1.2230706513537122,-0.044358513723639734,1.0,OBS_T
+Search Coil Magnetometer's Temperature,230,0.2336220794092187,0.008473041360406303,1.0,OBS_T
+Solar Array's Angle,230,25.07928279733561,0.909579269941066,1.0,OBS_T
+High Gain Antenna Azimuth,230,4.251360996137374,0.15418901179795205,1.0,OBS_T
+Heater Dutycycle,230,0.1474937772084348,0.005349326903732313,1.0,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,230,-1.3428558217215707,-0.04870290063029155,1.0,OBS_T
+2.5V_PCU_ELB,240,-0.7719666421022218,-0.031482716485142774,1.0000000000000002,OBS_T
+Radial Distance from Sun,240,0.1198997430974328,0.004889809238775483,1.0000000000000002,OBS_T
+Electronic Box Temperature,240,-1.2598719393747282,-0.05138070599385993,1.0000000000000002,OBS_T
+Outboard Sensor Temperature,240,-0.0800424550654009,-0.0032643300657868466,1.0000000000000002,OBS_T
+Inboard Sensor Temperature,240,-0.5771657727797742,-0.023538253336791,1.0000000000000002,OBS_T
+Search Coil Magnetometer's Temperature,240,2.686650501355093,0.10956827849256837,1.0000000000000002,OBS_T
+Solar Array's Angle,240,34.679163375809445,1.4143023920429751,1.0000000000000002,OBS_T
+High Gain Antenna Azimuth,240,-7.380755756957557,-0.30100554644382,1.0000000000000002,OBS_T
+Heater Dutycycle,240,0.2878653187215433,0.011739862477134783,1.0000000000000002,OBS_T
+Outboard Sensor minus Inboard Sensor Temp.,240,-3.1834449563685885,-0.12982878992605312,1.0000000000000002,OBS_T
