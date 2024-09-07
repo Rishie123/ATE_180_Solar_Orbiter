@@ -16,7 +16,7 @@ def prepare_data(df, type_label):
     df_filtered = df[df['Type'] == type_label]
     # Create pivot table
     pivot_df = df_filtered.pivot_table(
-        values='ATE', index='Duration', columns='Feature', aggfunc='sum')
+        values='Normalized_ATE', index='Duration', columns='Feature', aggfunc='sum')
     # Filter out columns where all values are zero
     pivot_df = pivot_df.loc[:, (pivot_df != 0).any(axis=0)]
     return pivot_df
